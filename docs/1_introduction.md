@@ -1,4 +1,10 @@
-# Présentation des obligations
+# Introduction et rappels
+
+## Cadre de la discussion
+
+Dans toute la suite de la discussion, nous ne nous intéressons qu'aux
+obligations « typiques », non indexées, telle que l'état français émet, avec
+remboursement « au pair ».
 
 ## Rappel sur les obligations
 
@@ -11,14 +17,15 @@ grosses entreprises pour lever de la dette.
 Une obligation est caractérisée par un nominal (grossièrement, la valeur d'une
 unité de dette), une maturité (la durée de remboursement) et le taux de
 coupon. L'émetteur s'engage à verser pendant la durée de remboursement un
-coupon (la plupart du temps annuel). À la fin de la période de remboursement
-un dernier coupon est versé ainsi que le nominal en guise de dénouement.
+coupon à intervale périodique (la plupart du temps annuel). À la fin de la
+période de remboursement un dernier coupon est versé ainsi que le nominal en
+guise de dénouement.
 
 En règle générale, à l'émission les acheteurs paient typiquement la valeur
-nominale, et les coupons règlent les intérêts. L'émetteur va typiquement
+nominale, et les coupons règlant les intérêts. L'émetteur va typiquement
 ajuster le taux de coupon en gros au taux d'intérêt qui est attendu par les
 acheteurs. Ce taux fera que l'obligation vaut approximativement le nominal
-puisque chaque coupon va neutraliser la croissance naturelle du capital.
+puisque chaque coupon neutralise la croissance naturelle du capital.
 
 Les obligations les plus liquides sont les obligations souveraines,
 typiquement l'état français est un des plus gros émetteurs d'obligations du
@@ -30,24 +37,40 @@ Les obligations sont dites assimilables parce que l'état continue d'émettre
 des obligations selon les mêmes modalités que des émissions passées (même
 maturité, même taux de coupon). Dans ce cas tous les titres sont fongibles.
 
+Les émissions suivantes d'un même instrument se font à un prix dépendant du
+taux d'emprunt du moment.
+
 ### Valeur d'une obligation
 
-Les obligations (notamment souveraines) sont échangeables sur le marché et
-soumises à
+Fondamentalement une obligation est un flux de remboursements de petit
+montant et terminé par unremboursement de gros montant. Elles ressemblent à
+un crédit in fine avec quelques adaptation.
+
+Les obligations (notamment souveraines) sont disponibles sur le marché
+secondaire et soumises à
 [cotation](https://live.euronext.com/en/product/bonds/fr001400fth3-motx).
-Leur valeur est donnée en pourcentage du nominal (nommé aussi le pair),
+Leur valeur est donnée en pourcentage du nominal (nommé *le pair*),
 c'est à dire que le marché estime qu'elles valent plus ou moins cher selon
-le taux de coupon qu'elles servent.
+les coupons qu'elles servent.
 
 Si une obligation se trouve *en dessous* du pair, c'est que le marché estime
 qu'elle sert des coupons trop faibles pour « annuler » la croissance
 naturelle du capital. À l'inverse une obligation *au dessus* du pair
-signifie que le marché estime que son taux de coupon est trop élevé au
-regard des taux d'intérêts normalement demandés et donc qu'il faut payer
-plus cher pour l'acquérir.
+signifie que le marché estime que les coupons sont trop élevés au
+regard des taux d'intérêts demandés et donc qu'il faut payer plus cher pour
+l'acquérir.
 
-Dans tous les cas si l'obligation est conservée jusqu'à maturité le
-remboursement final est au pair (pour les obligations standard).
+Si l'obligation est conservée jusqu'à maturité le remboursement final est au
+pair (pour les obligations standard): on touche 1€ (ou la valeur nominale)
+par unité d'obligation, ce qui clot le contrat. 
+
+La valeur d'une obligation vaut donc la *valeur actuarielle nette* de
+l'ensemble de ses flux (coupons et nominal à la fin) ajustés selon le taux
+que le marché demande.
+
+À l'inverse on peut trouver le taux moyen de rendement d'une obligation en
+équilibre les flux entre les coupons et le nominal d'une part, et la valeur
+constatée de l'obligation.
 
 De ce fait la valeur d'une obligation a un comportement un peu surprenant en
 fonction de l'évolution des taux. Quand les taux augmentent la valeur d'une
@@ -56,12 +79,17 @@ valeur *augmente*. Pour une maturité donnée, et pour un émetteur donné le
 marché a essentiellement un seul taux qui correspond au « risque » et toutes
 les obligations se valent.
 
-La valeur d'une obligation vaut donc la *valeur actuarielle nette* de
-l'ensemble de ses flux ajustée par le taux que le marché demande.
-Inversement on peut trouver le taux de rendement interne qui équilibre les
-flux entre les coupons et la valeur de l'obligation.
+On pourra se reporter à l'excellent article de Claude Danthony
+[Emprunts : mensualités, intérêt, taux, TEG, risque de taux](https://images.math.cnrs.fr/freeze/Emprunts-mensualites-interet-taux-TEG-risque-de-taux.html)
+centré autour du crédit et qui comporte une section sur les obligations.
 
-On pourra se reporter à l'excellent article de Claude Danthony « [Emprunts :
-mensualités, intérêt, taux, TEG, risque de
-taux](https://images.math.cnrs.fr/freeze/Emprunts-mensualites-interet-taux-TEG-risque-de-taux.html)
-» qui comporte une section sur les obligations.
+## Discussion
+
+La suite de la note abordera les points suivants:
+
+- Principe de fiscalité
+- Comptabilité de caisse
+- Intérêts
+- Prime de remboursement
+- Discussion sur la prime de remboursement « négative »
+- Définition de revenu?
