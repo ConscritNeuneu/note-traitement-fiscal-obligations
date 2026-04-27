@@ -83,13 +83,12 @@ On pourra se reporter à l'excellent article de Claude Danthony
 [Emprunts : mensualités, intérêt, taux, TEG, risque de taux](https://images.math.cnrs.fr/freeze/Emprunts-mensualites-interet-taux-TEG-risque-de-taux.html)
 centré autour du crédit et qui comporte une section sur les obligations.
 
-## Discussion
+## Plan
 
-La suite de la note abordera les points suivants:
+La suite de la note sera consacrée à la fiscalité des obligations pour les
+particuliers et abordera les points suivants:
 
-- Principe de fiscalité
-- Comptabilité de caisse
-- Intérêts
-- Prime de remboursement
-- Discussion sur la prime de remboursement « négative »
-- Définition de revenu?
+- Principe de fiscalité: comptabilité de caisse, intérêts et prime de remboursement
+- Conséquences d'une prime de remboursement « négative »
+- Définition du revenu ?
+- Matière à contentieux
