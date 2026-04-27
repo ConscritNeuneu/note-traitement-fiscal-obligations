@@ -1,0 +1,8 @@
+site_name: Note traîtement fiscal obligations
+site_author: Quentin Godfroy
+plugins: []
+theme:
+  name: readthedocs
+  locale: fr
+nav:
+  - 1_introduction.md
