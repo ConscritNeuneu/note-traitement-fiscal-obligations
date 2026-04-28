@@ -190,6 +190,7 @@ Instrument: [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr000
 | Total acquisition | 10 000,05 € |
 | Valeur du coupon | 213,42 € |
 
+
 L'ensemble des flux comptables de l'opération s'échelonnent de la façon
 suivante:
 
@@ -208,6 +209,7 @@ suivante:
 | Enrichissement | 2 164,89 € |||
 | Assiette fiscale | 2 164,89 € |||
 | Taux de rendement interne | 3,25% |||
+
 
 Du fait de la décote à l'acquisition une comptabilité de caisse ne pose pas
 de problème. Chaque coupon peut être considéré comme un enrichissement à
@@ -235,6 +237,7 @@ Instrument: [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000
 | Total acquisition | 9 999,64 € |
 | Valeur du coupon | 489,15 € |
 
+
 L'ensemble des flux comptables de l'opération s'échelonnent de la façon
 suivante:
 
@@ -248,20 +251,20 @@ suivante:
 | 2030-10-25 | 489,15 € | 489,15 € ||
 | 2031-10-25 | 489,15 € | 489,15 € ||
 | 2032-10-25 | 489,15 € | 489,15 € ||
-| 2032-10-25 | 8 507 € | -489,15 € | Déficit fiscal sec au remboursement. |
-|||| compensable uniq. sur le dernier coupon |
+| 2032-10-25 | 8 507 € | -489,15 € | Déficit fiscal sec |
 |||||
 | Enrichissement | 1 931,43 € |||
 | Assiette fiscale | 2 934,92 € || !!!! |
 | Taux de rendement interne | 3,20% |||
 
-Le BOFiP permet d'imputer le perte au remboursement sur le dernier coupon BOI-RPPM-RCM-20-10-20-20 § 390
+
+Le BOFiP permet d'imputer la perte au remboursement sur le dernier coupon BOI-RPPM-RCM-20-10-20-20 § 390
 
 Du fait de la comptabilité en caisse stricte, la dernière année implique un
 montant rapportable de 0 €.
 
 Par la définition extrêmement stricte de revenu fiscal, la doctrine induit
-une inflation d'assiette d'environ 50% comparé au strict enrichissement.
+une inflation d'assiette *d'environ 50% comparé au strict enrichissement*.
 
 Dans ces conditions il est difficile de concilier l'assiette fiscale avec la
 notion de revenu.
