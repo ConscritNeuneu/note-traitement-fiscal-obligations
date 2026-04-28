@@ -112,5 +112,22 @@ Le Code Général des Impôts contient les dispositions suivantes pour le revenu
 Les documents du BOFiP relatif aux obligations sont les suivants:
 
 - [BOI-RPPM-RCM-20-10-20-20](https://bofip.impots.gouv.fr/bofip/929-PGP.html/identifiant=BOI-RPPM-RCM-20-10-20-20-20220630)
-  en ce qui concerne l'assiette
-- …
+  en ce qui concerne les règles générales d'assiette
+- [BOI-RPPM-RCM-30-20](https://bofip.impots.gouv.fr/bofip/3774-PGP.html/identifiant=BOI-RPPM-RCM-30-20-20220630)
+  prélèvement obligatoire pour les personnes physiques
+  - [BOI-RPPM-RCM-30-20-10](https://bofip.impots.gouv.fr/bofip/3747-PGP.html/identifiant=BOI-RPPM-RCM-30-20-10-20210706)
+  champ d'application
+  - [BOI-RPPM-RCM-30-20-20](https://bofip.impots.gouv.fr/bofip/3740-PGP.html/identifiant=BOI-RPPM-RCM-30-20-20-20191220)
+  recouvrement, dont prélèvements sociaux
+  - [BOI-RPPM-RCM-30-20-30](https://bofip.impots.gouv.fr/bofip/3742-PGP.html/identifiant=BOI-RPPM-RCM-30-20-30-20230515)
+  règles d'assiette
+  - [BOI-RPPM-RCM-30-20-40](https://bofip.impots.gouv.fr/bofip/3748-PGP.html/identifiant=BOI-RPPM-RCM-30-20-40-20220630)
+  taux
+
+### Comptabilité de caisse
+
+Le point 1 du document BOI-RPPM-RCM-20-10-20-20 du BOFiP reprend
+la lecture des articles 118 et 119 du CGI. S'entendent donc taxables les
+intérêts et la prime de remboursement. Le point 10 précise qu'il s'agit des
+« intérêt[s] et revenu[s] effectivement perçu[s] au cours de l'année ».
+
