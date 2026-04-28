@@ -1,4 +1,4 @@
-# Introduction et rappels
+# Note sur la fiscalisation des obligations pour les particuliers
 
 ## Cadre de la discussion
 
