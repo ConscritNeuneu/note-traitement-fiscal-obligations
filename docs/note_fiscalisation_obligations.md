@@ -170,12 +170,12 @@ importants, dépassant ce qu'on peut raisonnablement attendre d'une
 simplification administrative et notamment conduit à taxer très différemment
 les produits d'instruments considérés équivalents du point de vue actuariel.
 
-En soi, une comptabilité de caisse n'est pas forcément totalement
-incompatible avec le cas d'une prime négative, mais en refusant d'adresser
-totalement le cas d'une prime de remboursement négative la doctrine
-s'est retrouvée dépasser le but du législateur de taxer uniquement les
-revenus.
+En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
+cas d'une prime négative, mais en refusant d'adresser totalement le cas
+d'une prime de remboursement négative (p.ex sous la forme d'un crédit
+d'impôts ou en autorisant un mécanisme de lissage) la doctrine s'est
+retrouvée dépasser le but du législateur de taxer uniquement les revenus.
 
 Enfin, cette situation incite à des comportements non économiques pour des
-raisons fiscales : revente en fin de remboursement pour générer une moins
-value, sans raison économique.
+raisons fiscales : revente en fin de remboursement afin de générer une moins
+value reportable, sans raison économique sous-jacente.
