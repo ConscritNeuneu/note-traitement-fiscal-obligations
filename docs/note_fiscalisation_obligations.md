@@ -157,6 +157,10 @@ xxx
 
 xxx
 
+## Analyse légale
+
+xxx
+
 ## Note conclusive
 
 Le CGI pose comme principe d'imposer intérêts et produits sans donner précisément
@@ -175,14 +179,16 @@ et propose une solution ad-hoc de compensation du dernier coupon pour
 adoucir la situation d'une prime de remboursement négative. Cette solution
 est bien insuffisante et permet pas d'éviter des différentiels d'assiette très
 importants, dépassant ce qu'on peut raisonnablement attendre d'une
-simplification administrative. Notamment cela conduit à taxer très différemment
-les produits d'instruments considérés pourtant équivalents du point de vue actuariel.
+simplification pour des raisons de gestion administrative. Notamment cela
+conduit à taxer très différemment les produits d'instruments considérés
+pourtant équivalents du point de vue actuariel (taux de rendement interne
+similaire, enrichissement net similaire).
 
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
-cas d'une prime négative, mais en refusant d'adresser totalement le cas
-d'une prime de remboursement négative (p.ex sous la forme d'un crédit
-d'impôts ou en autorisant un mécanisme de lissage) la doctrine s'est
-retrouvée dépasser le but du législateur de taxer uniquement les revenus.
+cas d'une prime de remboursement négative, mais en refusant d'adresser
+totalement ce cas (p.ex sous la forme d'un crédit d'impôts ou en autorisant
+un mécanisme de lissage de la surcôte à l'achat) la doctrine s'est retrouvée
+dépasser le but du législateur de taxer uniquement les revenus.
 
 Enfin, cette situation incite à des comportements non économiques pour des
 raisons fiscales : revente en fin de remboursement afin de générer une moins
