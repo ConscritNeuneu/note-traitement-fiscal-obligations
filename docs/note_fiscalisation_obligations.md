@@ -1,4 +1,4 @@
-# Note sur la fiscalisation des obligations pour les particuliers
+# Fiscalité des obligations pour les particuliers
 
 ## Cadre de la discussion
 
