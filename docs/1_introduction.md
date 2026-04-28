@@ -6,6 +6,8 @@ Dans toute la suite de la discussion, nous ne nous intéressons qu'aux
 obligations « typiques », non indexées, telle que l'état français émet, avec
 remboursement « au pair ».
 
+La discussion ne concernera que la fiscalité pour les personnes physiques.
+
 ## Rappel sur les obligations
 
 ### Généralités
@@ -92,3 +94,16 @@ particuliers et abordera les points suivants:
 - Conséquences d'une prime de remboursement « négative »
 - Définition du revenu ?
 - Matière à contentieux
+
+## Principe de Fiscalité
+
+Pour les particuliers, les revenus des obligations se rangent dans la
+catégorie des « revenus de capitaux mobiliers », dans la sous-catégorie «
+produits de placement à revenu fixe ».
+
+### Dispositions légales
+
+Le Code Général des Impôts contient les dispositions suivantes pour le revenu des obligations:
+- les articles [118 et 119](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197365) pour le principe général
+- l'article [125 A](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037526745) pour le prélèvement et le taux
+- les articles [238 septies A à E](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179610) pour le cas des primes de remboursement
