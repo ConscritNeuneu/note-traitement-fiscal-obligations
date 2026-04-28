@@ -136,16 +136,18 @@ au 118 et 119 du CGI.
 
 La section BOI-RPPM-RCM-30-20 du BOFiP met en œuvre l'impôt et son
 recouvrement pour le cas des particuliers. On notera notamment dans la
-partie relative à l'assiette (BOI-RPPM-RCM-30-20-30 § 30) que les montants
-bruts de chaque opération est à considérer.
+partie relative à l'assiette (BOI-RPPM-RCM-30-20-30 § 30) que le montant
+brut de chaque coupon est à considérer, sans retraitement.
 
 Il en résulte que, pour ce qui est des personnes physiques, la doctrine
-impose une comptabilité de caisse aux collecteurs (c'est à dire les
-courtiers). Ainsi, chaque coupon de l'obligation sera imposé en totalité,
-ainsi que la prime de remboursement si elle existe.
+revient dans les fait à une comptabilité de caisse qui s'impose aux
+organismes déclarateurs et collecteurs (c'est à dire les courtiers). Ainsi,
+chaque coupon de l'obligation sera imposé en sa totalité, ainsi que la prime de
+remboursement si elle existe.
 
 Le reste de la note sera consacré à expliquer pourquoi cette comptabilité
-simplifiée conduit à un problème de cohérence dans certains exemples réels.
+simplifiée conduit à un problème de cohérence entre assiette imposable et
+revenu économique dans certains exemples réels.
 
 ## Exemples
 
