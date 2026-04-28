@@ -140,7 +140,7 @@ partie relative à l'assiette (BOI-RPPM-RCM-30-20-30 § 30) que le montant
 brut de chaque coupon est à considérer, sans retraitement.
 
 Il en résulte que, pour ce qui est des personnes physiques, la doctrine
-revient dans les fait à une comptabilité de caisse qui s'impose aux
+revient dans les faits à une comptabilité de caisse qui s'impose aux
 organismes déclarateurs et collecteurs (c'est à dire les courtiers). Ainsi,
 chaque coupon de l'obligation sera imposé en sa totalité, ainsi que la prime de
 remboursement si elle existe.
