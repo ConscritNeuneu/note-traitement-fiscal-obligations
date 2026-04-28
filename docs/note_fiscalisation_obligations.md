@@ -173,10 +173,10 @@ marché secondaire.
 Cette situation est reconnue par les points 380 et 390 du BOI-RPPM-RCM-20-10-20-20
 et propose une solution ad-hoc de compensation du dernier coupon pour
 adoucir la situation d'une prime de remboursement négative. Cette solution
-est bien insuffisante et peut conduire à des différentiels d'assiette très
+est bien insuffisante et permet pas d'éviter des différentiels d'assiette très
 importants, dépassant ce qu'on peut raisonnablement attendre d'une
-simplification administrative et notamment conduit à taxer très différemment
-les produits d'instruments considérés équivalents du point de vue actuariel.
+simplification administrative. Notamment cela conduit à taxer très différemment
+les produits d'instruments considérés pourtant équivalents du point de vue actuariel.
 
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
 cas d'une prime négative, mais en refusant d'adresser totalement le cas
