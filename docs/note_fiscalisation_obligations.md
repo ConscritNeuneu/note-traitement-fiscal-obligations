@@ -108,3 +108,9 @@ Le Code Général des Impôts contient les dispositions suivantes pour le revenu
 - les articles [118 et 119](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197365) pour le principe général
 - l'article [125 A](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037526745) pour le prélèvement et le taux
 - les articles [238 septies A à E](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179610) pour le cas des primes de remboursement
+
+Les documents du BOFiP relatif aux obligations sont les suivants:
+
+- [BOI-RPPM-RCM-20-10-20-20](https://bofip.impots.gouv.fr/bofip/929-PGP.html/identifiant=BOI-RPPM-RCM-20-10-20-20-20220630)
+  en ce qui concerne l'assiette
+- …
