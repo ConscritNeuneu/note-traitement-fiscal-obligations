@@ -185,10 +185,12 @@ pourtant équivalents du point de vue actuariel (taux de rendement interne
 similaire, enrichissement net similaire).
 
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
-cas d'une prime de remboursement négative, mais en refusant d'adresser
-totalement ce cas (p.ex sous la forme d'un crédit d'impôts ou en autorisant
-un mécanisme de lissage de la surcôte à l'achat) la doctrine s'est retrouvée
-dépasser le but du législateur de taxer uniquement les revenus.
+cas d'une obligation achetée avec surcote et gardée à maturité. Cependant en
+refusant de proposer un mécanisme permettant d'aligner revenu fiscal et
+revenu économique la doctrine s'est retrouvée dépasser l'intention du législateur
+de taxer uniquement les revenus en assimilant la totalité des coupons à des
+intérêts alors qu'une analyse économique reconnue permet d'identifier une
+partie des flux comme un retour de capital et l'autre comme des intérêts.
 
 Enfin, cette situation incite à des comportements non économiques pour des
 raisons fiscales : revente en fin de remboursement afin de générer une moins
