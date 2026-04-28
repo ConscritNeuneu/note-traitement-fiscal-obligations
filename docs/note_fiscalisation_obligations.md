@@ -106,8 +106,9 @@ produits de placement à revenu fixe ».
 Le Code Général des Impôts contient les dispositions suivantes pour le revenu des obligations:
 
 - les articles [118 et 119](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197365) pour le principe général
-- l'article [125 A](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037526745) pour le prélèvement et le taux
-- les articles [238 septies A à E](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179610) pour le cas des primes de remboursement
+- l'article [125 A](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037526745) pour le prélèvement du revenu et le taux
+- les articles [238 septies A à E](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179610) pour le cas des primes de remboursement,
+  dont l'essentiel ne concerne pas / plus les personnes physiques.
 
 Les documents du BOFiP relatif aux obligations sont les suivants:
 
@@ -120,10 +121,59 @@ Les documents du BOFiP relatif aux obligations sont les suivants:
 
 ### Comptabilité de caisse
 
-Le point 1 du document BOI-RPPM-RCM-20-10-20-20 du BOFiP reprend
-la lecture des articles 118 et 119 du CGI. S'entendent donc taxables les
-intérêts et la prime de remboursement.
+Le document BOI-RPPM-RCM-20-10-20-20 du BOFiP énonce les principes généraux
+d'assiette pour les revenus de capitaux mobiliers.
+
+Son point 1 reprend la lecture des articles 118 et 119 du CGI: s'entendent
+donc taxables les intérêts et la prime de remboursement.
 
 Le point 10 précise qu'il s'agit des « intérêt[s] et revenu[s] effectivement
 perçu[s] au cours de l'année ».
 
+Le reste du document consiste en une discussion sur
+la définition de la prime de remboursement, telle que définie sommairement
+au 118 et 119 du CGI.
+
+La section BOI-RPPM-RCM-30-20 du BOFiP met en œuvre l'impôt et son
+recouvrement pour le cas des particuliers. On notera notamment dans la
+partie relative à l'assiette (BOI-RPPM-RCM-30-20-30 § 30) que les montants
+bruts de chaque opération est à considérer.
+
+Il en résulte que, pour ce qui est des personnes physiques, la doctrine
+impose une comptabilité de caisse aux collecteurs (c'est à dire les
+courtiers). Ainsi, chaque coupon de l'obligation sera imposé en totalité,
+ainsi que la prime de remboursement si elle existe.
+
+Le reste de la note sera consacré à expliquer pourquoi cette comptabilité
+simplifiée conduit à un problème de cohérence dans certains exemples réels.
+
+## Exemples
+
+xxx
+
+## Note conclusive
+
+Le CGI pose comme principe d'imposer intérêts et produits sans donner précisément
+leur définition. Or une partie du coupon peut dans certains cas ne pas être
+considéré comme un revenu économique (viz. plan comptable général) alors que
+la doctrine considère dans le cas des personnes physiques l'entièreté du
+coupon comme un revenu au plan fiscal. Cela provoque un différentiel notable
+entre revenu fiscal et revenu économique dans le cas d'une prime négative.
+
+Cette situation est reconnue par les points 380 et 390 du BOI-RPPM-RCM-20-10-20-20
+et propose une solution ad-hoc de compensation du dernier coupon pour
+adoucir la situation d'une prime de remboursement négative. Cette solution
+est bien insuffisante et peut conduire à des différentiels d'assiette très
+importants, dépassant ce qu'on peut raisonnablement attendre d'une
+simplification administrative et notamment conduit à taxer très différemment
+les produits d'instruments considérés équivalents du point de vue actuariel.
+
+En soi, une comptabilité de caisse n'est pas forcément totalement
+incompatible avec le cas d'une prime négative, mais en refusant d'adresser
+totalement le cas d'une prime de remboursement négative la doctrine
+s'est retrouvée dépasser le but du législateur de taxer uniquement les
+revenus.
+
+Enfin, cette situation incite à des comportements non économiques pour des
+raisons fiscales : revente en fin de remboursement pour générer une moins
+value, sans raison économique.
