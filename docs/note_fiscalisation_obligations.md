@@ -179,37 +179,91 @@ Instrument: [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr000
 | Caractéristique | Valeur |
 | --------------- | ------ |
 | Coupon | 2% |
-| Nominal | 1€ |
+| Nominal | 1 € |
 | Date d'achat | 2026-04-23 |
 | Cours | 92,53% |
 | Taux coupon couru | 0,99726% |
 | Quantité | 10 671 |
-| Prix brut | 9 873,88€ |
-| Coupon couru | 106,42€ |
-| Courtage | 19.75 € |
-| Total acquisition | 10 000,05€ |
-| Valeur du coupon | 213,42€
+| Prix brut | 9 873,88 € |
+| Coupon couru | 106,42 € |
+| Courtage | 19,75 € |
+| Total acquisition | 10 000,05 € |
+| Valeur du coupon | 213,42 € |
 
 L'ensemble des flux comptables de l'opération s'échelonnent de la façon
 suivante:
 
-| Date | Flux | Assiette taxable | Note |
+| Date | Flux | Assiette fiscale | Note |
 | ---- | ---- | ---------------- | ---- |
-| 2026-04-23 | -9 999,63€ || Acquisition |
-| 2026-10-25 | 213,42€ | 213,42€ ||
-| 2027-10-25 | 213,42€ | 213,42€ ||
-| 2028-10-25 | 213,42€ | 213,42€ ||
-| 2029-10-25 | 213,42€ | 213,42€ ||
-| 2030-10-25 | 213,42€ | 213,42€ ||
-| 2031-10-25 | 213,42€ | 213,42€ ||
-| 2032-10-25 | 213,42€ | 213,42€ ||
-| 2032-10-25 | 10 671,00€ | 670,95€ | Prime de remboursement |
+| 2026-04-23 | -10 000,05 € || Acquisition |
+| 2026-10-25 | 213,42 € | 213,42 € ||
+| 2027-10-25 | 213,42 € | 213,42 € ||
+| 2028-10-25 | 213,42 € | 213,42 € ||
+| 2029-10-25 | 213,42 € | 213,42 € ||
+| 2030-10-25 | 213,42 € | 213,42 € ||
+| 2031-10-25 | 213,42 € | 213,42 € ||
+| 2032-10-25 | 213,42 € | 213,42 € ||
+| 2032-10-25 | 10 671,00 € | 670,95 € | Prime de remboursement |
 |||||
-|Enrichissement|2 165,31€|||
+| Enrichissement | 2 164,89 € |||
+| Assiette fiscale | 2 164,89 € |||
+| Taux de rendement interne | 3,25% |||
 
+Du fait de la décote à l'acquisition une comptabilité de caisse ne pose pas
+de problème. Chaque coupon peut être considéré comme un enrichissement à
+part entière, la prime de remboursement, positive dans ce cas est aussi
+rapportée à l'assiette.
+
+Économiquement cette prime peut être analysée comme des intérêts latents accumulés dans
+le capital restant dû (au taux de rendement interne) et dont le solde a lieu au remboursement.
 
 ### Obligation au dessus du pair
 
+Instrument: [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
+
+| Caractéristique | Valeur |
+| --------------- | ------ |
+| Coupon | 5,75% |
+| Nominal | 1 € |
+| Date d'achat | 2026-04-23 |
+| Cours | 114,45% |
+| Taux coupon couru | 2.8671% |
+| Quantité | 8 507 |
+| Prix brut | 9 736,26 € € |
+| Coupon couru | 243,91 € |
+| Courtage | 19,47 € |
+| Total acquisition | 9 999,64 € |
+| Valeur du coupon | 489,15 € |
+
+L'ensemble des flux comptables de l'opération s'échelonnent de la façon
+suivante:
+
+| Date | Flux | Assiette fiscale | Note |
+| ---- | ---- | ---------------- | ---- |
+| 2026-04-23 | -9 999,64 € || Acquisition |
+| 2026-10-25 | 489,15 € | 489,15 € ||
+| 2027-10-25 | 489,15 € | 489,15 € ||
+| 2028-10-25 | 489,15 € | 489,15 € ||
+| 2029-10-25 | 489,15 € | 489,15 € ||
+| 2030-10-25 | 489,15 € | 489,15 € ||
+| 2031-10-25 | 489,15 € | 489,15 € ||
+| 2032-10-25 | 489,15 € | 489,15 € ||
+| 2032-10-25 | 8 507 € | -489,15 € | Perte sèche au rbt, non compensable sauf avec dernier coupon |
+|||||
+| Enrichissement | 1 931,43 € |||
+| Assiette fiscale | 2 934,92 € || !!!! |
+| Taux de rendement interne | 3,20% |||
+
+Le BOFiP permet d'imputer le perte au remboursement sur le dernier coupon BOI-RPPM-RCM-20-10-20-20 § 390
+
+Du fait de la comptabilité en caisse stricte, la dernière année implique un
+montant rapportable de 0 €.
+
+Par la définition extrêmement stricte de revenu fiscal, la doctrine induit
+une inflation d'assiette d'environ 50% comparé au strict enrichissement.
+
+Dans ces conditions il est difficile de concilier l'assiette fiscale avec la
+notion de revenu.
 
 ## Analyse économique
 
