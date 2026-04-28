@@ -134,20 +134,30 @@ Le reste du document consiste en une discussion sur
 la définition de la prime de remboursement, telle que définie sommairement
 au 118 et 119 du CGI.
 
-La section BOI-RPPM-RCM-30-20 du BOFiP met en œuvre l'impôt et son
-recouvrement pour le cas des particuliers. On notera notamment dans la
-partie relative à l'assiette (BOI-RPPM-RCM-30-20-30 § 30) que le montant
-brut de chaque coupon est à considérer, sans retraitement.
+Une fois déterminés les principes de taxation, le recouvrement est organisé
+de la façon suivante:
 
-Il en résulte que, pour ce qui est des personnes physiques, la doctrine
-revient dans les faits à une comptabilité de caisse qui s'impose aux
-organismes déclarateurs et collecteurs (c'est-à-dire les courtiers). Ainsi,
-chaque coupon de l'obligation sera imposé en sa totalité, ainsi que la prime de
-remboursement si elle existe.
+Le CGI dispose de la mise en œuvre du recouvrement, pour ce qui est des
+personnes physiques par son article 125 A. La doctrine correspondante est la
+section BOI-RPPM-RCM-30-20.
 
-Le reste de la note sera consacré à expliquer pourquoi cette comptabilité
-simplifiée conduit à un problème de cohérence entre assiette imposable et
-revenu économique dans certains exemples réels.
+On notera notamment dans la partie relative à l'assiette
+(BOI-RPPM-RCM-30-20-30 § 20) que le montant brut du produit [de
+l'obligation] est à considérer, sans retraitement.
+
+Sans jamais définir précisément ce qui est de l'ordre du revenu, la pratique
+doctrinale revient dans les faits à opérer une comptabilité de caisse par
+les organismes déclarateurs et collecteurs (c'est-à-dire les courtiers).
+Ainsi, chaque coupon de l'obligation sera considéré en sa totalité comme du
+revenu, de même que la prime de remboursement si elle existe.
+
+Le reste de la note sera consacré à expliquer pourquoi cette assimilation du
+coupon à du revenu conduit à un problème de cohérence entre assiette imposable
+et revenu économique dans certains exemples réels.
+
+[il faudra peut-être revenir sur cette section, je n'ai pas vu nulle part où
+était défini le terme "intérêt", l'article 125 A ne parle que de
+recouvrement, tout est hérité des disposition du 118 et 119 du CGI]
 
 ## Exemples
 
@@ -177,7 +187,7 @@ marché secondaire.
 Cette situation est reconnue par les points 380 et 390 du BOI-RPPM-RCM-20-10-20-20,
 qui proposent une solution ad hoc de compensation du dernier coupon pour
 adoucir la situation d'une prime de remboursement négative. Cette solution
-est bien insuffisante et ne permet pas d'éviter des différentiels d'assiette très
+est insuffisante et ne permet pas d'éviter des différentiels d'assiette très
 importants, dépassant ce qu'on peut raisonnablement attendre d'une
 simplification pour des raisons de gestion administrative. Notamment cela
 conduit à taxer très différemment les produits d'instruments considérés
