@@ -153,6 +153,10 @@ revenu économique dans certains exemples réels.
 
 xxx
 
+## Analyse économique
+
+xxx
+
 ## Note conclusive
 
 Le CGI pose comme principe d'imposer intérêts et produits sans donner précisément
