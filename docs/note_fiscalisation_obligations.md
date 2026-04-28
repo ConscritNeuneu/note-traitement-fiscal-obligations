@@ -156,11 +156,15 @@ xxx
 ## Note conclusive
 
 Le CGI pose comme principe d'imposer intérêts et produits sans donner précisément
-leur définition. Or une partie du coupon peut dans certains cas ne pas être
-considéré comme un revenu économique (viz. plan comptable général) alors que
-la doctrine considère dans le cas des personnes physiques l'entièreté du
-coupon comme un revenu au plan fiscal. Cela provoque un différentiel notable
-entre revenu fiscal et revenu économique dans le cas d'une prime négative.
+leur définition. Les obligations sont des contrats qui génèrent des flux
+économiques (série de coupons et remboursement final au pair), négociables
+sur le marché secondaire. Selon les cas une fraction des coupons peut ne pas
+être considérée comme un revenu économique (viz. l'analyse du plan comptable
+général). Néanmoins par simplification la doctrine considère dans le cas
+des personnes physiques l'entièreté des coupons comme un revenu au plan
+fiscal. Cela provoque un différentiel notable entre revenu fiscal et revenu
+économique dans le cas d'une acquisition du contrat au dessus du pair sur le
+marché secondaire.
 
 Cette situation est reconnue par les points 380 et 390 du BOI-RPPM-RCM-20-10-20-20
 et propose une solution ad-hoc de compensation du dernier coupon pour
