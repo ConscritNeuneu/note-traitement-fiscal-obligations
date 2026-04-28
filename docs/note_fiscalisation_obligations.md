@@ -161,7 +161,55 @@ recouvrement, tout est hérité des disposition du 118 et 119 du CGI]
 
 ## Exemples
 
-xxx
+Nous allons montrer par deux exemples les effets de la comptabilité de
+caisse en prenant deux obligations à maturité extrêmement proche (fin 2032)
+mais servant des taux de coupon significativement différents (2% et 5,75%).
+Nous simulons un investissement initial proche de 10 000€ et utilisons un
+courtier facturant 0,2% de commission. Le cours retenu est celui à la
+clôture sur le MOT le 23 avril 2026. Les obligations sont conservées jusqu'à
+maturité.
+
+Pour chacun des deux cas le revenu économique de l'opération au dénouement
+sera calculé et comparé à l'assiette fiscale.
+
+### Obligation sous le pair
+
+Instrument: [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
+
+| Caractéristique | Valeur |
+| --------------- | ------ |
+| Coupon | 2% |
+| Nominal | 1€ |
+| Date d'achat | 2026-04-23 |
+| Cours | 92,53% |
+| Taux coupon couru | 0,99726% |
+| Quantité | 10 671 |
+| Prix brut | 9 873,88€ |
+| Coupon couru | 106,42€ |
+| Courtage | 19.75 € |
+| Total acquisition | 10 000,05€ |
+| Valeur du coupon | 213,42€
+
+L'ensemble des flux comptables de l'opération s'échelonnent de la façon
+suivante:
+
+| Date | Flux | Assiette taxable | Note |
+| ---- | ---- | ---------------- | ---- |
+| 2026-04-23 | -9 999,63€ || Acquisition |
+| 2026-10-25 | 213,42€ | 213,42€ ||
+| 2027-10-25 | 213,42€ | 213,42€ ||
+| 2028-10-25 | 213,42€ | 213,42€ ||
+| 2029-10-25 | 213,42€ | 213,42€ ||
+| 2030-10-25 | 213,42€ | 213,42€ ||
+| 2031-10-25 | 213,42€ | 213,42€ ||
+| 2032-10-25 | 213,42€ | 213,42€ ||
+| 2032-10-25 | 10 671,00€ | 670,95€ | Prime de remboursement |
+|||||
+|Enrichissement|2 165,31€|||
+
+
+### Obligation au dessus du pair
+
 
 ## Analyse économique
 
