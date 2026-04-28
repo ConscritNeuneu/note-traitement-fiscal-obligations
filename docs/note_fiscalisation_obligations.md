@@ -248,7 +248,8 @@ suivante:
 | 2030-10-25 | 489,15 € | 489,15 € ||
 | 2031-10-25 | 489,15 € | 489,15 € ||
 | 2032-10-25 | 489,15 € | 489,15 € ||
-| 2032-10-25 | 8 507 € | -489,15 € | Perte sèche au rbt, non compensable sauf avec dernier coupon |
+| 2032-10-25 | 8 507 € | -489,15 € | Déficit fiscal sec au remboursement. |
+|||| compensable uniq. sur le dernier coupon |
 |||||
 | Enrichissement | 1 931,43 € |||
 | Assiette fiscale | 2 934,92 € || !!!! |
