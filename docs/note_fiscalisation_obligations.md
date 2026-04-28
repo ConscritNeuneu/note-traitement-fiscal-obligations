@@ -122,6 +122,8 @@ Les documents du BOFiP relatif aux obligations sont les suivants:
 
 Le point 1 du document BOI-RPPM-RCM-20-10-20-20 du BOFiP reprend
 la lecture des articles 118 et 119 du CGI. S'entendent donc taxables les
-intérêts et la prime de remboursement. Le point 10 précise qu'il s'agit des
-« intérêt[s] et revenu[s] effectivement perçu[s] au cours de l'année ».
+intérêts et la prime de remboursement.
+
+Le point 10 précise qu'il s'agit des « intérêt[s] et revenu[s] effectivement
+perçu[s] au cours de l'année ».
 
