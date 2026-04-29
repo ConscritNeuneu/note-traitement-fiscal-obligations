@@ -258,10 +258,11 @@ suivante:
 | Taux de rendement interne | 3,20% |||
 
 
-Le BOFiP permet d'imputer la perte au remboursement sur le dernier coupon BOI-RPPM-RCM-20-10-20-20 § 390
+La doctrine permet d'imputer la perte au remboursement sur le dernier coupon
+BOI-RPPM-RCM-20-10-20-20 § 390
 
 Du fait de la comptabilité en caisse stricte, la dernière année implique un
-montant rapportable de 0 €.
+montant rapportable de 0€.
 
 Par la définition extrêmement stricte de revenu fiscal, la doctrine induit
 une inflation d'assiette *d'environ 50% comparé au strict enrichissement*.
