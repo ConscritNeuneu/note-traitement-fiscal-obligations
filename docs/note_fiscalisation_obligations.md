@@ -270,13 +270,53 @@ une inflation d'assiette *d'environ 50% comparé au strict enrichissement*.
 Dans ces conditions il est difficile de concilier l'assiette fiscale avec la
 notion de revenu.
 
-## Analyse économique
+### Analyse économique de l'obligation en surcote
 
-xxx
+[pas fini, à étendre, à retravailler]
+
+à centrer autour du fait que les coupons comme le remboursement au pair, *du
+point de vue de l'acheteur* contiennent une fraction de capital et d'intérêts
+
+- marché price par la VAN/NPV du flux <- point le plus important
+- méthode actuarielle, Plan Comptable Général
+- méthode par zéro coupon
+
+le nombre négatif qui apparaît en comptabilité de caisse est la preuve
+qu'une partie du capital a déjà été retourné via les coupons. La doctrine le
+reconnait, et c'est la raison pour laquelle la pseudo moins value n'est pas
+reportable, il est dommage que la doctrine n'aille pas au bout du
+raisonnement.
+
+au final la valeur de l'instrument vient de la somme des flux actualisés, pas d'une
+qualification brute des coupon (sinon il ne serait pas liquide).
 
 ## Analyse légale
 
-xxx
+[pas fini, à étendre, à retravailler]
+
+- distortion de traîtement pour des instruments d'un même émetteur ayant
+  approximativement le même enrichissement net et le même taux de rendement
+  interne. Sur l'exemple réel (plus l'exemple artificiel ZC) l'écart
+  d'assiette atteint 50% de l'enrichissement net, une telle différence est
+  disproportionée au regard d'un potentiel argument de simplification
+  administrative et provoque une rupture de neutralité envers deux instruments
+  extrêmement similaires du point de vue de l'acheteur.
+- la fiscalité ne devrait pas s'arrêter aux qualifications contractuelles
+  (coupon, remboursement etc) pour déterminer ce qui constitue un revenu
+  mais aussi considérer le point de vue de la personne qui s'enrichit et qui
+  reçoit une suite de flux monétaires en échange d'un paiement initial.
+- sous ces conditions, pourquoi imposer une qualification atomique de chaque
+  mouvement pour les personnes physiques alors que pour les personnes morales
+  il est admis un raisonnement économique plus fin de ce qui constitue un
+  revenu, sachant que le CGI [pour disposer ce qui est taxable] ne fait
+  aucune différence dans la qualité des personnes dans les articles 118 et
+  119? (les 238 septies A et suivants qui font des diffs entre personnes
+  morales et physiques ne s'intéressent qu'au cas de la prime de
+  remboursement, quand elle est positive)
+- attribution atomique des flux du contrat entre revenu et non revenu alors
+  que la réalité economique est plus nuancée, notamment on autorise de
+  soustraire ce qui a été payé à l'acquisition en déduction du remboursement
+- au final la question c'est qu'est-ce qu'un revenu?
 
 ## Note conclusive
 
