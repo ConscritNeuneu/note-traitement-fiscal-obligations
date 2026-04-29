@@ -206,9 +206,9 @@ suivante:
 | 2032-10-25 | 213,42 € | 213,42 € ||
 | 2032-10-25 | 10 671,00 € | 670,95 € | Prime de remboursement |
 |||||
+| Taux de rendement interne | 3,25% |||
 | Enrichissement | 2 164,89 € |||
 | Assiette fiscale | 2 164,89 € |||
-| Taux de rendement interne | 3,25% |||
 
 
 Du fait de la décote à l'acquisition une comptabilité de caisse ne pose pas
@@ -253,9 +253,9 @@ suivante:
 | 2032-10-25 | 489,15 € | 489,15 € ||
 | 2032-10-25 | 8 507 € | -489,15 € | Déficit fiscal sec |
 |||||
+| Taux de rendement interne | 3,20% |||
 | Enrichissement | 1 931,43 € |||
 | Assiette fiscale | 2 934,92 € || !!!! |
-| Taux de rendement interne | 3,20% |||
 
 
 La doctrine permet d'imputer la perte au remboursement sur le dernier coupon
