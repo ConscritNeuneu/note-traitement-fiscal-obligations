@@ -274,29 +274,239 @@ notion de revenu.
 
 [pas fini, à étendre, à retravailler]
 
-à centrer autour du fait que les coupons comme le remboursement au pair, *du
-point de vue de l'acheteur* contiennent une fraction de capital et d'intérêts
+Nous allons tenter une analyse économique de l'effet d'une décote ou d'une
+surcote d'une obligation.
 
-- marché price par la VAN/NPV du flux [<- point le plus important]
-- méthode actuarielle, Plan Comptable Général
-- méthode par courbe zéro coupon, fait apparaître le taux moyen d'emprunt de
-  l'émetteur
+Un outil essentiel en analyse économique pour caractériser des flux
+finanicers est le taux de rendement interne. Il est défini comme le taux `t`
+qui égalise les flux par la méthode actuarielle.
 
-économiquement le coupon n'est égal au taux d'intérêt exigé par le marché
-que lorsque l'obligation est au pair.
+Ainsi pour une obligation achetée à un certain pourcentage `p` du pair, qui
+verse des coupons `c` (exprimé en pourcentage du pair), sur `n` annuités et
+qui rembourse `r` à la fin, le taux de rendement interne `t`
+sera défini par la formule:
 
-le prix d'équilibre au dessus du pair indique que acheteurs et vendeurs
-en tant qu'acteurs économiques conviennent qu'une partie du capital sera
-retourné avant le dénouement, c'est la contrepartie du prix plus élevé.
+<!-- p = \sum_{i = 1}^{n} \frac{C}{(1+t)^i} + \frac{r}{(1+t)^n} -->
+<!-- https://temml.org/ -->
 
-de fait le nombre négatif qui apparaît en comptabilité de caisse est la preuve
-qu'une partie du capital a déjà été retourné via les coupons. La doctrine le
-reconnait, et c'est la raison pour laquelle la pseudo moins value n'est pas
-reportable, il est dommage que la doctrine n'aille pas au bout du
-raisonnement.
+<math display="block" class="tml-display" style="display:block math;">
+  <mrow>
+    <mi>p</mi>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo movablelimits="false">∑</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+    </mrow>
+    <mfrac>
+      <mi>C</mi>
+      <msup>
+        <mrow>
+          <mo fence="true" form="prefix" stretchy="false">(</mo>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mi>t</mi>
+          <mo fence="true" form="postfix" stretchy="false">)</mo>
+        </mrow>
+        <mi>i</mi>
+      </msup>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+      <mi>r</mi>
+      <msup>
+        <mrow>
+          <mo fence="true" form="prefix" stretchy="false">(</mo>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mi>t</mi>
+          <mo fence="true" form="postfix" stretchy="false">)</mo>
+        </mrow>
+        <mi>n</mi>
+      </msup>
+    </mfrac>
+  </mrow>
+</math>
 
-au final la valeur de l'instrument vient de la somme des flux actualisés, pas d'une
-qualification brute des coupon (sinon il ne serait pas liquide).
+Cette formule se simplifie en:
+
+<!-- p = \frac{C}{t}\left[1 - \frac{1}{(1+t)^n} \right] + \frac{r}{(1+t)^n} -->
+
+<math display="block" class="tml-display" style="display:block math;">
+  <mrow>
+    <mi>p</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mi>C</mi>
+      <mi>t</mi>
+    </mfrac>
+    <mrow>
+      <mo fence="true" form="prefix" stretchy="true">[</mo>
+      <mn>1</mn>
+      <mo>−</mo>
+      <mfrac>
+        <mn>1</mn>
+        <msup>
+          <mrow>
+            <mo fence="true" form="prefix" stretchy="false">(</mo>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>t</mi>
+            <mo fence="true" form="postfix" stretchy="false">)</mo>
+          </mrow>
+          <mi>n</mi>
+        </msup>
+      </mfrac>
+      <mo fence="true" form="postfix" stretchy="true">]</mo>
+    </mrow>
+    <mo>+</mo>
+    <mfrac>
+      <mi>r</mi>
+      <msup>
+        <mrow>
+          <mo fence="true" form="prefix" stretchy="false">(</mo>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mi>t</mi>
+          <mo fence="true" form="postfix" stretchy="false">)</mo>
+        </mrow>
+        <mi>n</mi>
+      </msup>
+    </mfrac>
+  </mrow>
+</math>
+
+Quand `r` est égal à 0 et `p` est égal à 1 on retrouve la formule du crédit
+amortissable où tout le capital est amorti en cours de route et il ne reste
+plus rien à solder à la fin.
+
+Quand `r = 1` et `p = 1`, on retrouve l'obligation classique au moment de
+son émission.
+
+Quand `r = 1` et `p ≠ 1` on tombe sur les scénarios intermédiaires des
+obligations trouvés sur le marché secondaire.
+
+Une obligation ce n'est ni plus ni moins qu'un contrat de crédit in fine,
+avec paiement d'un ballon.
+
+La formule se simplifie à `C = t` quand l'obligation est cotée au pair, ie `p`
+est égal à 1.
+
+Au sens économique du terme, le revenu est la somme des coupons, plus le
+remboursement moins la mise de départ. Mais c'est aussi aussi égal aux
+intérêts.
+
+Pour des paramètres `C` (le coupon) et `p` (le prix d'une unité
+d'obligation) donnés, et un remboursement final de `1`, on peut chercher le
+taux `t` qui résoud l'équation.
+
+Ce taux `t` représente l'hypothèse que les flux sont cohérents avec une
+formule de prêt à ce taux d'intérêt. La valeur actuarielle nette n'étant
+rien d'autre que la formule générale obtenue plus tôt, avec un nombre réduit
+d'annuités: après `k - 1` annuités, il reste `n - (k - 1)` annuités jusqu'au
+remboursement final.
+
+Si l'on note le capital restant dû (pour un remboursement au pair)
+
+<math display="block" class="tml-display" style="display:block math;">
+  <mrow>
+    <mi>C</mi>
+    <mi>R</mi>
+    <msub>
+      <mi>D</mi>
+      <mrow>
+        <mi>k</mi>
+        <mo>−</mo>
+        <mn>1</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mi>C</mi>
+      <mi>t</mi>
+    </mfrac>
+    <mrow>
+      <mo fence="true" form="prefix" stretchy="true">[</mo>
+      <mn>1</mn>
+      <mo>−</mo>
+      <mfrac>
+        <mn>1</mn>
+        <msup>
+          <mrow>
+            <mo fence="true" form="prefix" stretchy="false">(</mo>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>t</mi>
+            <mo fence="true" form="postfix" stretchy="false">)</mo>
+          </mrow>
+          <mrow>
+            <mi>n</mi>
+            <mo>−</mo>
+            <mrow>
+              <mo fence="true" form="prefix" stretchy="false">(</mo>
+              <mi>k</mi>
+              <mo>−</mo>
+              <mn>1</mn>
+              <mo fence="true" form="postfix" stretchy="false">)</mo>
+            </mrow>
+          </mrow>
+        </msup>
+      </mfrac>
+      <mo fence="true" form="postfix" stretchy="true">]</mo>
+    </mrow>
+    <mo>+</mo>
+    <mfrac>
+      <mn>1</mn>
+      <msup>
+        <mrow>
+          <mo fence="true" form="prefix" stretchy="false">(</mo>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mi>t</mi>
+          <mo fence="true" form="postfix" stretchy="false">)</mo>
+        </mrow>
+        <mrow>
+          <mi>n</mi>
+          <mo>−</mo>
+          <mrow>
+            <mo fence="true" form="prefix" stretchy="false">(</mo>
+            <mi>k</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+            <mo fence="true" form="postfix" stretchy="false">)</mo>
+          </mrow>
+        </mrow>
+      </msup>
+    </mfrac>
+  </mrow>
+</math>
+
+les intérêts dûs à l'annuité `k` valent donc
+
+<math display="block" class="tml-display" style="display:block math;"><mrow><msub><mi>I</mi><mi>k</mi></msub><mo>=</mo><mi>C</mi><mi>R</mi><msub><mi>D</mi><mrow><mi>k</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>⋅</mo><mi>t</mi></mrow></math>
+
+et la part d'amortissement
+
+<math display="block" class="tml-display" style="display:block math;"><mrow><msub><mi>A</mi><mi>k</mi></msub><mo>=</mo><mi>C</mi><mo>−</mo><msub><mi>I</mi><mi>k</mi></msub></mrow></math>
+
+L'obligation en surcote se traduit mathématiquement par un taux d'intérêt
+interne inférieur au coupon: `t < C`, la part de capital rendue `Ak` est donc
+positive. Dit autrement la prime de remboursement n'existe pas car une
+partie de la mise de départ est économiquement retournée en cours de route
+via les coupons. La simplification administrative perd son sens économique
+et finit par inclure dans son assiette ce qui n'est pas du revenu.
+
+Symétriquement, quand l'obligation est sous le pair (`t > C`), le capital
+restant dû accumule silencieusement des intérêts, qui se trouvent soldés
+sous la forme de prime de remboursement. Dans ce cas la simplification
+administrative reste cohérente puisque la prime de remboursement est de
+signe positive et peut-être incluse dans une assiette taxable.
 
 ## Analyse légale
 
@@ -330,7 +540,10 @@ qualification brute des coupon (sinon il ne serait pas liquide).
   effort pour qualifier la prime de remboursement qui ne contient pas que du
   capital, pourquoi ne pas le faire pour le coupon?
 - au final la question c'est qu'est-ce qu'un revenu? L'assiette fiscale devrait
-  égaliser sinon se rapprocher de la notion de revenu économique.
+  égaliser sinon se rapprocher de la notion de revenu économique. C'est
+  exactement le sens de l'article 118 CGI qui précise bien que la prime de
+  remboursement est un revenu dans le cas de la sou-cote de l'action.
+  Symmétriquement la doctrine devrait adresser le cas de la sur-cote.
 
 ## Note conclusive
 
