@@ -272,8 +272,6 @@ notion de revenu.
 
 ## Analyse économique des obligations en surcote ou en décote
 
-[pas fini, à étendre, à retravailler]
-
 Nous allons tenter une analyse économique de l'effet d'une décote ou d'une
 surcote d'une obligation.
 
@@ -392,27 +390,31 @@ son émission.
 Quand `r = 1` et `p ≠ 1` on tombe sur les scénarios intermédiaires des
 obligations trouvés sur le marché secondaire.
 
-Une obligation ce n'est ni plus ni moins qu'un contrat de crédit in fine,
-avec paiement d'un ballon.
+Une obligation, du point de vue de l'acheteur ce n'est ni plus ni moins
+qu'un contrat de crédit in fine, avec paiement d'un ballon.
 
 La formule se simplifie à `C = t` quand l'obligation est cotée au pair, ie `p`
 est égal à 1.
 
 Au sens économique du terme, le revenu est la somme des coupons, plus le
 remboursement moins la mise de départ. Mais c'est aussi aussi égal aux
-intérêts.
+intérêts générés par l'instrument qu'il est possible de calculer de la
+manière suivante :
+
+### Calcul des intérêts
 
 Pour des paramètres `C` (le coupon) et `p` (le prix d'une unité
 d'obligation) donnés, et un remboursement final de `1`, on peut chercher le
-taux `t` qui résoud l'équation.
+taux `t` qui résoud l'équation présentée plus haut (souvent, en appliquant
+la méthode de Newton).
 
 Ce taux `t` représente l'hypothèse que les flux sont cohérents avec une
-formule de prêt à ce taux d'intérêt. La valeur actuarielle nette n'étant
+formule de prêt à ce taux d'intérêt `t`. La valeur actuarielle nette n'étant
 rien d'autre que la formule générale obtenue plus tôt, avec un nombre réduit
 d'annuités: après `k - 1` annuités, il reste `n - (k - 1)` annuités jusqu'au
 remboursement final.
 
-Si l'on note le capital restant dû (pour un remboursement au pair)
+Si l'on note le capital restant dû (pour un remboursement au pair):
 
 <math display="block" class="tml-display" style="display:block math;">
   <mrow>
@@ -496,17 +498,34 @@ et la part d'amortissement
 <math display="block" class="tml-display" style="display:block math;"><mrow><msub><mi>A</mi><mi>k</mi></msub><mo>=</mo><mi>C</mi><mo>−</mo><msub><mi>I</mi><mi>k</mi></msub></mrow></math>
 
 L'obligation en surcote se traduit mathématiquement par un taux d'intérêt
-interne inférieur au coupon: `t < C`, la part de capital rendue `Ak` est donc
-positive. Dit autrement la prime de remboursement n'existe pas car une
-partie de la mise de départ est économiquement retournée en cours de route
-via les coupons. La simplification administrative perd son sens économique
-et finit par inclure dans son assiette ce qui n'est pas du revenu.
+interne inférieur au coupon: `t < C`. Dans ces conditions la part de capital
+rendue `Ak` est généralement positive. Dit autrement la prime de
+remboursement n'existe pas car une partie de la mise de départ est
+économiquement retournée en cours de route via les coupons, pour finir avec
+un capital restant dû exactement égal au pair en bout de parcours.
+
+La simplification administrative perd son sens économique et finit par inclure
+dans son assiette ce qui n'est pas du revenu.
 
 Symétriquement, quand l'obligation est sous le pair (`t > C`), le capital
 restant dû accumule silencieusement des intérêts, qui se trouvent soldés
 sous la forme de prime de remboursement. Dans ce cas la simplification
 administrative reste cohérente puisque la prime de remboursement est de
 signe positive et peut-être incluse dans une assiette taxable.
+
+Cette méthode actuarielle n'est pas la seule méthode possible pour ventiler
+la part des intérêts d'un crédit, mais elle est pertinente comme outil d'analyse
+pour au moins deux raisons:
+
+- elle permet de distinguer au cours de la vie du contrat ce qui est intérêts
+  vs capital pour chaque flux d'argent, tout en gardant comme contrainte que
+  en fin de parcours la somme des intérêts calculés est strictement égale à
+  l'enrichissement économique.
+
+- cette méthode est déjà connue du code général des impôts. Ainsi, pour les
+  personnes morales détentrices d'obligations, les articles 238 septies A à E
+  du CGI disposent dans certains cas l'usage de la méthode actuarielle afin
+  d'inscrire au bilan les intérêts cachés des primes de remboursement.
 
 ## Analyse légale
 
@@ -542,7 +561,7 @@ signe positive et peut-être incluse dans une assiette taxable.
 - au final la question c'est qu'est-ce qu'un revenu? L'assiette fiscale devrait
   égaliser sinon se rapprocher de la notion de revenu économique. C'est
   exactement le sens de l'article 118 CGI qui précise bien que la prime de
-  remboursement est un revenu dans le cas de la sou-cote de l'action.
+  remboursement est un revenu dans le cas de la sous-cote de l'action.
   Symmétriquement la doctrine devrait adresser le cas de la sur-cote.
 
 ## Note conclusive
