@@ -270,18 +270,26 @@ une inflation d'assiette *d'environ 50% comparé au strict enrichissement*.
 Dans ces conditions il est difficile de concilier l'assiette fiscale avec la
 notion de revenu.
 
-### Analyse économique de l'obligation en surcote
+## Analyse économique des obligations en surcote ou en décote
 
 [pas fini, à étendre, à retravailler]
 
 à centrer autour du fait que les coupons comme le remboursement au pair, *du
 point de vue de l'acheteur* contiennent une fraction de capital et d'intérêts
 
-- marché price par la VAN/NPV du flux <- point le plus important
+- marché price par la VAN/NPV du flux [<- point le plus important]
 - méthode actuarielle, Plan Comptable Général
-- méthode par zéro coupon
+- méthode par courbe zéro coupon, fait apparaître le taux moyen d'emprunt de
+  l'émetteur
 
-le nombre négatif qui apparaît en comptabilité de caisse est la preuve
+économiquement le coupon n'est égal au taux d'intérêt exigé par le marché
+que lorsque l'obligation est au pair.
+
+le prix d'équilibre au dessus du pair indique que acheteurs et vendeurs
+en tant qu'acteurs économiques conviennent qu'une partie du capital sera
+retourné avant le dénouement, c'est la contrepartie du prix plus élevé.
+
+de fait le nombre négatif qui apparaît en comptabilité de caisse est la preuve
 qu'une partie du capital a déjà été retourné via les coupons. La doctrine le
 reconnait, et c'est la raison pour laquelle la pseudo moins value n'est pas
 reportable, il est dommage que la doctrine n'aille pas au bout du
@@ -304,7 +312,11 @@ qualification brute des coupon (sinon il ne serait pas liquide).
 - la fiscalité ne devrait pas s'arrêter aux qualifications contractuelles
   (coupon, remboursement etc) pour déterminer ce qui constitue un revenu
   mais aussi considérer le point de vue de la personne qui s'enrichit et qui
-  reçoit une suite de flux monétaires en échange d'un paiement initial.
+  reçoit une suite de flux monétaires en échange d'un paiement initial. Exemple:
+  si le courtier revendait l'obligation avec un contrat nommé contrat de crédit avec
+  avec tableau d'amortissement et séparation entre intérêts et capital rendu
+  cela changerait-il le revenu fiscal alors que les flux nets sont
+  exactement les mêmes?
 - sous ces conditions, pourquoi imposer une qualification atomique de chaque
   mouvement pour les personnes physiques alors que pour les personnes morales
   il est admis un raisonnement économique plus fin de ce qui constitue un
@@ -314,9 +326,11 @@ qualification brute des coupon (sinon il ne serait pas liquide).
   morales et physiques ne s'intéressent qu'au cas de la prime de
   remboursement, quand elle est positive)
 - attribution atomique des flux du contrat entre revenu et non revenu alors
-  que la réalité economique est plus nuancée, notamment on autorise de
-  soustraire ce qui a été payé à l'acquisition en déduction du remboursement
-- au final la question c'est qu'est-ce qu'un revenu?
+  que la réalité economique est plus nuancée, notamment on fait tout un
+  effort pour qualifier la prime de remboursement qui ne contient pas que du
+  capital, pourquoi ne pas le faire pour le coupon?
+- au final la question c'est qu'est-ce qu'un revenu? L'assiette fiscale devrait
+  égaliser sinon se rapprocher de la notion de revenu économique.
 
 ## Note conclusive
 
