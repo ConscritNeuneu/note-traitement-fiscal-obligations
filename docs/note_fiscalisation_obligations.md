@@ -51,7 +51,7 @@ un crédit in fine avec quelques adaptations.
 Les obligations (notamment souveraines) sont disponibles sur le marché
 secondaire et soumises à
 [cotation](https://live.euronext.com/en/product/bonds/fr001400fth3-motx).
-Leur valeur est donnée en pourcentage du nominal (nommé *le pair*),
+Leur valeur est donnée en fraction du nominal (nommé *le pair*),
 c'est-à-dire que le marché estime qu'elles valent plus ou moins cher selon
 les coupons qu'elles servent.
 
@@ -86,6 +86,8 @@ On pourra se reporter à l'excellent article de Claude Danthony
 centré autour du crédit et qui comporte une section sur les obligations.
 
 ## Plan
+
+[à refaire]
 
 La suite de la note sera consacrée à la fiscalité des obligations pour les
 particuliers et abordera les points suivants :
@@ -135,7 +137,7 @@ la définition de la prime de remboursement, telle que définie sommairement
 au 118 et 119 du CGI.
 
 Une fois déterminés les principes de taxation, le recouvrement est organisé
-de la façon suivante:
+de la façon suivante :
 
 Le CGI dispose de la mise en œuvre du recouvrement, pour ce qui est des
 personnes physiques par son article 125 A. La doctrine correspondante est la
@@ -146,7 +148,7 @@ On notera notamment dans la partie relative à l'assiette
 l'obligation] est à considérer, sans retraitement.
 
 Sans jamais définir précisément ce qui est de l'ordre du revenu, la pratique
-doctrinale revient dans les faits à opérer une comptabilité de caisse par
+doctrinale [laisse entendre?] revient dans les faits à opérer une comptabilité de caisse par
 les organismes déclarateurs et collecteurs (c'est-à-dire les courtiers).
 Ainsi, chaque coupon de l'obligation sera considéré en sa totalité comme du
 revenu, de même que la prime de remboursement si elle existe.
@@ -174,7 +176,7 @@ sera calculé et comparé à l'assiette fiscale.
 
 ### Obligation sous le pair
 
-Instrument: [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
+Instrument : [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
@@ -192,7 +194,7 @@ Instrument: [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr000
 
 
 L'ensemble des flux comptables de l'opération s'échelonnent de la façon
-suivante:
+suivante :
 
 | Date | Flux | Assiette fiscale | Note |
 | ---- | ---- | ---------------- | ---- |
@@ -221,7 +223,7 @@ le capital restant dû (au taux de rendement interne) et dont le solde a lieu au
 
 ### Obligation au dessus du pair
 
-Instrument: [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
+Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
@@ -239,7 +241,7 @@ Instrument: [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000
 
 
 L'ensemble des flux comptables de l'opération s'échelonnent de la façon
-suivante:
+suivante :
 
 | Date | Flux | Assiette fiscale | Note |
 | ---- | ---- | ---------------- | ---- |
@@ -276,20 +278,20 @@ Nous allons tenter une analyse économique de l'effet d'une décote ou d'une
 surcote d'une obligation.
 
 Un outil essentiel en analyse économique pour caractériser des flux
-finanicers est le taux de rendement interne. Il est défini comme le taux `t`
+financiers est le taux de rendement interne. Il est défini comme le taux `t`
 qui égalise les flux par la méthode actuarielle.
 
-Ainsi pour une obligation achetée à un certain pourcentage `p` du pair, qui
-verse des coupons `c` (exprimé en pourcentage du pair), sur `n` annuités et
-qui rembourse `r` à la fin, le taux de rendement interne `t`
-sera défini par la formule:
+Ainsi pour une obligation achetée à une certaine fraction `P` du pair, qui
+verse des coupons `C` (exprimé en fraction du pair), sur `n` annuités et
+qui rembourse `R` à la fin, le taux de rendement interne `t`
+sera défini par la formule :
 
 <!-- p = \sum_{i = 1}^{n} \frac{C}{(1+t)^i} + \frac{r}{(1+t)^n} -->
 <!-- https://temml.org/ -->
 
 <math display="block" class="tml-display" style="display:block math;">
   <mrow>
-    <mi>p</mi>
+    <mi>P</mi>
     <mo>=</mo>
     <mrow>
       <munderover>
@@ -317,7 +319,7 @@ sera défini par la formule:
     </mfrac>
     <mo>+</mo>
     <mfrac>
-      <mi>r</mi>
+      <mi>R</mi>
       <msup>
         <mrow>
           <mo fence="true" form="prefix" stretchy="false">(</mo>
@@ -332,13 +334,13 @@ sera défini par la formule:
   </mrow>
 </math>
 
-Cette formule se simplifie en:
+Cette formule se simplifie en :
 
-<!-- p = \frac{C}{t}\left[1 - \frac{1}{(1+t)^n} \right] + \frac{r}{(1+t)^n} -->
+<!-- P = \frac{C}{t}\left[1 - \frac{1}{(1+t)^n} \right] + \frac{r}{(1+t)^n} -->
 
 <math display="block" class="tml-display" style="display:block math;">
   <mrow>
-    <mi>p</mi>
+    <mi>P</mi>
     <mo>=</mo>
     <mfrac>
       <mi>C</mi>
@@ -365,7 +367,7 @@ Cette formule se simplifie en:
     </mrow>
     <mo>+</mo>
     <mfrac>
-      <mi>r</mi>
+      <mi>R</mi>
       <msup>
         <mrow>
           <mo fence="true" form="prefix" stretchy="false">(</mo>
@@ -380,41 +382,37 @@ Cette formule se simplifie en:
   </mrow>
 </math>
 
-Quand `r` est égal à 0 et `p` est égal à 1 on retrouve la formule du crédit
+Quand `R` est égal à `0` et `P` est égal à `1` on retrouve la formule du crédit
 amortissable où tout le capital est amorti en cours de route et il ne reste
 plus rien à solder à la fin.
 
-Quand `r = 1` et `p = 1`, on retrouve l'obligation classique au moment de
+Quand `R = 1` et `P = 1`, on retrouve l'obligation classique au moment de
 son émission.
 
-Quand `r = 1` et `p ≠ 1` on tombe sur les scénarios intermédiaires des
+Quand `R = 1` et `P ≠ 1` on tombe sur les scénarios intermédiaires des
 obligations trouvés sur le marché secondaire.
 
-Une obligation, du point de vue de l'acheteur ce n'est ni plus ni moins
+Une obligation, du point de vue de l'acheteur, ce n'est ni plus ni moins
 qu'un contrat de crédit in fine, avec paiement d'un ballon.
 
-La formule se simplifie à `C = t` quand l'obligation est cotée au pair, ie `p`
-est égal à 1.
+La formule se simplifie à `C = t` quand l'obligation est cotée au pair, ie `P`
+est égal à `1`.
 
-Au sens économique du terme, le revenu est la somme des coupons, plus le
-remboursement moins la mise de départ. Mais c'est aussi aussi égal aux
-intérêts générés par l'instrument qu'il est possible de calculer de la
-manière suivante :
+Au sens économique du terme, l'enrichissement économique est la somme des
+coupons, plus le remboursement moins la mise de départ. Mais c'est aussi,
+dans le cas d'un crédit, égal aux intérêts générés. Il est possible de
+les calculer de la manière suivante :
 
 ### Calcul des intérêts
 
-Pour des paramètres `C` (le coupon) et `p` (le prix d'une unité
-d'obligation) donnés, et un remboursement final de `1`, on peut chercher le
-taux `t` qui résoud l'équation présentée plus haut (souvent, en appliquant
-la méthode de Newton).
+Dans un crédit, les intérêts facturés à chaque période sont égaux au capital
+restant dû à la période précédente multiplié par le taux d'intérêt.
 
-Ce taux `t` représente l'hypothèse que les flux sont cohérents avec une
-formule de prêt à ce taux d'intérêt `t`. La valeur actuarielle nette n'étant
-rien d'autre que la formule générale obtenue plus tôt, avec un nombre réduit
-d'annuités: après `k - 1` annuités, il reste `n - (k - 1)` annuités jusqu'au
-remboursement final.
-
-Si l'on note le capital restant dû (pour un remboursement au pair):
+Dans notre cas, le taux de rendement interne `t` ayant été déterminé à
+l'achat (il dépend notamment du coupon `C`, du nombre d'annuités `n`, et du prix payé
+`P`), le capital restant dû à l'étape `k` vaut la valeur actuarielle nette
+des flux à venir sous ce taux d'actualisation. Ainsi, pour un remboursement au pair,
+on peut montrer que :
 
 <math display="block" class="tml-display" style="display:block math;">
   <mrow>
@@ -424,8 +422,6 @@ Si l'on note le capital restant dû (pour un remboursement au pair):
       <mi>D</mi>
       <mrow>
         <mi>k</mi>
-        <mo>−</mo>
-        <mn>1</mn>
       </mrow>
     </msub>
     <mo>=</mo>
@@ -450,13 +446,7 @@ Si l'on note le capital restant dû (pour un remboursement au pair):
           <mrow>
             <mi>n</mi>
             <mo>−</mo>
-            <mrow>
-              <mo fence="true" form="prefix" stretchy="false">(</mo>
-              <mi>k</mi>
-              <mo>−</mo>
-              <mn>1</mn>
-              <mo fence="true" form="postfix" stretchy="false">)</mo>
-            </mrow>
+            <mi>k</mi>
           </mrow>
         </msup>
       </mfrac>
@@ -476,12 +466,7 @@ Si l'on note le capital restant dû (pour un remboursement au pair):
         <mrow>
           <mi>n</mi>
           <mo>−</mo>
-          <mrow>
-            <mo fence="true" form="prefix" stretchy="false">(</mo>
-            <mi>k</mi>
-            <mo>−</mo>
-            <mn>1</mn>
-            <mo fence="true" form="postfix" stretchy="false">)</mo>
+          <mi>k</mi>
           </mrow>
         </mrow>
       </msup>
@@ -489,43 +474,59 @@ Si l'on note le capital restant dû (pour un remboursement au pair):
   </mrow>
 </math>
 
-les intérêts dûs à l'annuité `k` valent donc
+On notera que cette formule donne par construction exactement le prix payé `P`
+quand `k = 0`; et `1`, soit le pair, quand `k = n`.
+
+Les intérêts dus à l'annuité `k` valent donc :
 
 <math display="block" class="tml-display" style="display:block math;"><mrow><msub><mi>I</mi><mi>k</mi></msub><mo>=</mo><mi>C</mi><mi>R</mi><msub><mi>D</mi><mrow><mi>k</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>⋅</mo><mi>t</mi></mrow></math>
 
-et la part d'amortissement
+Et enfin nous obtenons la part d'amortissement :
 
 <math display="block" class="tml-display" style="display:block math;"><mrow><msub><mi>A</mi><mi>k</mi></msub><mo>=</mo><mi>C</mi><mo>−</mo><msub><mi>I</mi><mi>k</mi></msub></mrow></math>
 
-L'obligation en surcote se traduit mathématiquement par un taux d'intérêt
-interne inférieur au coupon: `t < C`. Dans ces conditions la part de capital
-rendue `Ak` est généralement positive. Dit autrement la prime de
-remboursement n'existe pas car une partie de la mise de départ est
-économiquement retournée en cours de route via les coupons, pour finir avec
-un capital restant dû exactement égal au pair en bout de parcours.
+L'obligation en surcote se traduit mathématiquement par un taux de rendement
+interne inférieur au coupon : `t < C`. Dans ces conditions la part de capital
+rendue `Ak` est généralement positive. Dit autrement la perte constatée au
+remboursement (car le prix payé `P` est supérieur au pair) correspond en
+fait à un retour économique de capital en cours de route via les coupons.
 
-La simplification administrative perd son sens économique et finit par inclure
-dans son assiette ce qui n'est pas du revenu.
+C'est à ce stade que la simplification administrative devient discutable :
+elle assimile à un revenu l'intégralité d'un flux (les coupons `C`) dont
+seulement une partie correspond économiquement à des intérêts, l'autre étant
+une restitution de capital.
 
-Symétriquement, quand l'obligation est sous le pair (`t > C`), le capital
-restant dû accumule silencieusement des intérêts, qui se trouvent soldés
-sous la forme de prime de remboursement. Dans ce cas la simplification
-administrative reste cohérente puisque la prime de remboursement est de
-signe positive et peut-être incluse dans une assiette taxable.
+Symétriquement, quand l'obligation est sous le pair (`P < 1` ce qui provoque
+un taux `t > C`), le capital restant dû accumule silencieusement des
+intérêts, qui se trouvent soldés sous la forme de prime de remboursement.
+Dans ce cas la simplification administrative reste cohérente puisque la
+prime de remboursement est de signe positive et peut être incluse dans une
+assiette taxable.
 
 Cette méthode actuarielle n'est pas la seule méthode possible pour ventiler
 la part des intérêts d'un crédit, mais elle est pertinente comme outil d'analyse
-pour au moins deux raisons:
+pour au moins trois raisons :
 
-- elle permet de distinguer au cours de la vie du contrat ce qui est intérêts
-  vs capital pour chaque flux d'argent, tout en gardant comme contrainte que
-  en fin de parcours la somme des intérêts calculés est strictement égale à
-  l'enrichissement économique.
-
+- elle permet d'assigner un taux d'intérêt naturel au contrat en
+  l'assimilant à un crédit classique ce qui permet d'identifier la part
+  d'intérêts vs capital pour chaque flux d'argent, tout en gardant *par
+  construction* qu'en fin de parcours la somme des intérêts calculés est
+  strictement égale à l'enrichissement économique.
+- elle permet de suivre la valeur de revient de l'obligation au fil du
+  temps, en partant du prix d'acquisition et en tenant compte des coupons déjà
+  servis selon une logique actuarielle. Cette valeur n'est pas un prix de
+  marché aux taux courants, mais la valeur de revient du capital encore immobilisé
+  selon les paramètres déterminés au moment de l'achat.
 - cette méthode est déjà connue du code général des impôts. Ainsi, pour les
   personnes morales détentrices d'obligations, les articles 238 septies A à E
   du CGI disposent dans certains cas l'usage de la méthode actuarielle afin
   d'inscrire au bilan les intérêts cachés des primes de remboursement.
+
+Dans tous les cas, cette analyse permet de montrer que quand on assimile une
+obligation à un contrat de crédit générant des intérêts, dans la logique de
+l'article 118 du CGI qui vise les « intérêts et produits », les
+flux d'argent servis peuvent comporter une partie d'intérêts et une partie
+de capital.
 
 ## Analyse légale
 
