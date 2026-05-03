@@ -233,7 +233,7 @@ Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr000
 | Cours | 114,45% |
 | Taux coupon couru | 2.8671% |
 | Quantité | 8 507 |
-| Prix brut | 9 736,26 € € |
+| Prix brut | 9 736,26 € |
 | Coupon couru | 243,91 € |
 | Courtage | 19,47 € |
 | Total acquisition | 9 999,64 € |
@@ -273,6 +273,8 @@ Dans ces conditions il est difficile de concilier l'assiette fiscale avec la
 notion de revenu.
 
 ## Analyse économique des obligations en surcote ou en décote
+
+### Méthode actuarielle
 
 Nous allons tenter une analyse économique de l'effet d'une décote ou d'une
 surcote d'une obligation.
@@ -485,23 +487,41 @@ Et enfin nous obtenons la part d'amortissement :
 
 <math display="block" class="tml-display" style="display:block math;"><mrow><msub><mi>A</mi><mi>k</mi></msub><mo>=</mo><mi>C</mi><mo>−</mo><msub><mi>I</mi><mi>k</mi></msub></mrow></math>
 
+#### Obligation en surcote
+
 L'obligation en surcote se traduit mathématiquement par un taux de rendement
 interne inférieur au coupon : `t < C`. Dans ces conditions la part de capital
 rendue `Ak` est généralement positive. Dit autrement la perte constatée au
 remboursement (car le prix payé `P` est supérieur au pair) correspond en
 fait à un retour économique de capital en cours de route via les coupons.
 
+Une autre façon de le voir est que si les coupons étaient strictement du
+revenu, le récipiendaire pourrait les consommer sans toucher au capital. Or
+ici nous avons une différence entre le prix payé pour l'acquisition du
+contrat et le remboursement au pair. Cette différence trouve sa
+contrepartie dans les coupons et la consommation des coupons dans leur
+entièreté revient à amputer une partie de capital.
+
 C'est à ce stade que la simplification administrative devient discutable :
 elle assimile à un revenu l'intégralité d'un flux (les coupons `C`) dont
 seulement une partie correspond économiquement à des intérêts, l'autre étant
 une restitution de capital.
 
-Symétriquement, quand l'obligation est sous le pair (`P < 1` ce qui provoque
-un taux `t > C`), le capital restant dû accumule silencieusement des
-intérêts, qui se trouvent soldés sous la forme de prime de remboursement.
-Dans ce cas la simplification administrative reste cohérente puisque la
-prime de remboursement est de signe positive et peut être incluse dans une
-assiette taxable.
+On pourra retrouver [le tableau d'amortissement en annexe](annexe_tableau_amortissement.md)
+pour l'exemple acheté en surcote qui détaille la part de capital et
+d'intérêt de chaque coupon comme déterminé par la méthode actuarielle.
+
+#### Obligation en décote
+
+De manière symétrique, quand l'obligation est achetée sous le pair (`P < 1`
+ce qui provoque un taux `t > C`), le capital restant dû accumule
+silencieusement des intérêts, qui se trouvent soldés sous la forme de prime
+de remboursement.  Dans ce cas la simplification administrative reste
+cohérente puisque la prime de remboursement est de signe positive et peut
+être incluse dans une assiette taxable, les coupons n'étant composés que
+d'intérêts.
+
+### Remarque sur la méthode actuarielle
 
 Cette méthode actuarielle n'est pas la seule méthode possible pour ventiler
 la part des intérêts d'un crédit, mais elle est pertinente comme outil d'analyse
@@ -524,7 +544,7 @@ pour au moins trois raisons :
 
 Dans tous les cas, cette analyse permet de montrer que quand on assimile une
 obligation à un contrat de crédit générant des intérêts, dans la logique de
-l'article 118 du CGI qui vise les « intérêts et produits », les
+des articles 118 et 119 du CGI qui visent les « intérêts et produits », les
 flux d'argent servis peuvent comporter une partie d'intérêts et une partie
 de capital.
 
@@ -558,12 +578,13 @@ de capital.
 - attribution atomique des flux du contrat entre revenu et non revenu alors
   que la réalité economique est plus nuancée, notamment on fait tout un
   effort pour qualifier la prime de remboursement qui ne contient pas que du
-  capital, pourquoi ne pas le faire pour le coupon?
-- au final la question c'est qu'est-ce qu'un revenu? L'assiette fiscale devrait
+  capital, pourquoi ne pas le faire pour le coupon ?
+- au final la question c'est qu'est-ce qu'un revenu ? L'assiette fiscale devrait
   égaliser sinon se rapprocher de la notion de revenu économique. C'est
-  exactement le sens de l'article 118 CGI qui précise bien que la prime de
-  remboursement est un revenu dans le cas de la sous-cote de l'action.
-  Symmétriquement la doctrine devrait adresser le cas de la sur-cote.
+  le sens des articles introductifs 12 et 13 du CGI, implémenté pour le cas
+  des obligations par l'article 118 du CGI qui précise bien que la prime de
+  remboursement est un revenu dans le cas de la sous-cote de l'obligation. Dès
+  lors, symmétriquement, la doctrine devrait adresser le cas de la surcote.
 
 ## Note conclusive
 
@@ -571,8 +592,8 @@ Le CGI pose comme principe d'imposer intérêts et produits sans donner précis�
 leur définition. Les obligations sont des contrats qui génèrent des flux
 économiques (série de coupons et remboursement final au pair), négociables
 sur le marché secondaire. Selon les cas, une fraction des coupons peut ne pas
-être considérée comme un revenu économique (viz. l'analyse du plan comptable
-général). Néanmoins par simplification la doctrine considère dans le cas
+être considérée comme un revenu économique (viz. IFRS 9 §5.4.1).
+Néanmoins par simplification la doctrine considère dans le cas
 des personnes physiques l'entièreté des coupons comme un revenu au plan
 fiscal. Cela provoque un différentiel notable entre revenu fiscal et revenu
 économique dans le cas d'une acquisition du contrat au-dessus du pair sur le

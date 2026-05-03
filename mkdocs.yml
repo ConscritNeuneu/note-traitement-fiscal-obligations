@@ -6,3 +6,4 @@ theme:
   locale: fr
 nav:
   - note_fiscalisation_obligations.md
+  - annexe_tableau_amortissement.md
