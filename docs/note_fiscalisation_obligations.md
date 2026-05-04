@@ -3,7 +3,7 @@
 ## Cadre de la discussion
 
 Dans toute la suite de la discussion, nous ne nous intéressons qu'aux
-obligations « typiques », non indexées, telles que l'État français en émet, avec
+obligations « typiques », *non indexées*, telles que l'État français en émet, avec
 remboursement « au pair ».
 
 La discussion ne concernera que la fiscalité pour les personnes physiques.
@@ -76,8 +76,8 @@ constatée de l'obligation.
 
 De ce fait, la valeur d'une obligation a un comportement un peu surprenant en
 fonction de l'évolution des taux. Quand les taux augmentent, la valeur d'une
-obligation donnée *diminue*. Inversement, quand les taux diminuent, leur
-valeur *augmente*. Pour une maturité donnée, et pour un émetteur donné, le
+obligation donnée *diminue*. Inversement, quand les taux diminuent, sa valeur
+*augmente*. Pour une maturité donnée, et pour un émetteur donné, le
 marché a essentiellement un seul taux qui correspond au « risque » et toutes
 les obligations se valent.
 
@@ -224,6 +224,10 @@ le capital restant dû (au taux de rendement interne) et dont le solde a lieu au
 ### Obligation au dessus du pair
 
 Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
+
+Cette obligation, crée au début des années 2000 s'échange systématiquement
+au dessus du pair depuis de nombreuses années, y compris lors des
+adjudications de de l'AFT.
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
