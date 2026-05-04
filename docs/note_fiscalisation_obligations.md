@@ -107,7 +107,8 @@ produits de placement à revenu fixe ».
 
 Le Code général des impôts contient les dispositions suivantes pour le revenu des obligations :
 
-- les articles [118 et 119](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197365) pour le principe général
+- les articles [12 et 13](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179571) pour la définition du revenu
+- les articles [118 et 119](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006197365) pour le principe général de l'imposition sur les obligations
 - l'article [125 A](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037526745) pour le prélèvement du revenu et le taux
 - les articles [238 septies A à E](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179610) pour le cas des primes de remboursement,
   dont l'essentiel ne concerne pas / plus les personnes physiques.
@@ -147,19 +148,17 @@ On notera notamment dans la partie relative à l'assiette
 (BOI-RPPM-RCM-30-20-30 § 20) que le montant brut du produit [de
 l'obligation] est à considérer, sans retraitement.
 
-Sans jamais définir précisément ce qui est de l'ordre du revenu, la pratique
-doctrinale [laisse entendre?] revient dans les faits à opérer une comptabilité de caisse par
-les organismes déclarateurs et collecteurs (c'est-à-dire les courtiers).
-Ainsi, chaque coupon de l'obligation sera considéré en sa totalité comme du
-revenu, de même que la prime de remboursement si elle existe.
+Sans jamais définir précisément ce qui est de l'ordre du revenu,
+un faisceaux d'indices dans la doctrine nous laisse entendre que dans les faits
+les organismes déclarateurs et collecteurs (c'est-à-dire les courtiers) sont
+tenus d'appliquer une comptabilité stricte de caisse. Ainsi, chaque coupon
+de l'obligation sera considéré en sa totalité comme du revenu. Pour ce qui
+est du remboursement final il sera déduit le prix d'acquisition moyen
+pondéré afin déterminer la prime de remboursement.
 
-Le reste de la note sera consacré à expliquer pourquoi cette assimilation du
-coupon à du revenu conduit à un problème de cohérence entre assiette imposable
-et revenu économique dans certains exemples réels.
-
-[il faudra peut-être revenir sur cette section, je n'ai pas vu nulle part où
-était défini le terme "intérêt", l'article 125 A ne parle que de
-recouvrement, tout est hérité des disposition du 118 et 119 du CGI]
+Le reste de la note sera consacré à expliquer pourquoi cette assimilation de
+l'entièreté du coupon à du revenu conduit à un problème de cohérence entre
+assiette imposable et revenu économique dans certains exemples réels.
 
 ## Exemples
 
@@ -171,8 +170,8 @@ courtier facturant 0,2% de commission. Le cours retenu est celui à la
 clôture sur le MOT le 23 avril 2026. Les obligations sont conservées jusqu'à
 maturité.
 
-Pour chacun des deux cas le revenu économique de l'opération au dénouement
-sera calculé et comparé à l'assiette fiscale.
+Pour chacun des deux cas le revenu économique de l'opération dans sa
+globalité sera calculé et comparé à l'assiette fiscale.
 
 ### Obligation sous le pair
 
@@ -227,7 +226,7 @@ Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr000
 
 Cette obligation crée au début des années 2000 s'échange systématiquement
 au dessus du pair depuis de nombreuses années, y compris lors des
-adjudications de de l'AFT.
+adjudications ayant eu lieu ultérieuement par l'AFT.
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
@@ -553,6 +552,54 @@ flux d'argent servis peuvent comporter une partie d'intérêts et une partie
 de capital.
 
 ## Analyse légale
+
+La base légale de l'imposition des revenus de capitaux mobiliers et
+notamment les placements à revenu fixe trouve sa source dans les articles 12
+et 13 du CGI, précisé par les articles 118 et 119 pour ce qui concerne les
+obligations et autres produits assimilés.
+
+Ces articles fondateurs définissent l'assiette taxable comme le
+revenu distribué, dont le contribuable dispose réellement. Les articles 118
+et 119 parlent de « produits et intérêts ». Il est probable qu'il faut
+comprendre que l'assiette taxable s'entend comme le revenu au sens
+économique, c'est à dire l'enrichissement objectif.
+
+La doctrine les revenus de capitaux mobiliers, notamment dans le document
+BOI-RPPM-RCM-20-10-20-20 opère un probable glissement entre coupons d'une
+obligation et intérêt, sans toutefois jamais le dire explicitement : le document
+ne contient aucune occurence du mot coupon, alors que ce terme est d'usage
+en finance. La doctrine se contente de parler d'intérêts et de produits. Le seul
+endroit où l'assimilation est faite explicitement est au §380 traitant le
+cas de la perte au remboursement.
+
+Or, nous avons vu par les analyses développées dans cette note que le marché
+des obligations, qu'il soit primaire ou secondaire n'utilise pas la
+qualification des flux afin de déterminer un prix. Seile compte la valeur
+actuarielle nette des flux. Dans ce cadre tout mouvement d'argent est traîté
+de manière neutre.
+
+Il est de notre avis que la la fiscalité ne devrait pas s'arrêter aux
+qualifications contractuelles pour déterminer ce qui constitue un revenu
+mais aussi considérer le point de vue de la personne qui s'enrichit et qui
+reçoit une suite de flux monétaires en échange d'un paiement initial. 
+
+De fait, du point de vue de l'acheteur qui s'enrichit, il n'y a aucune
+différence économique entre une obligation et un contrat de crédit qui
+contiendrait un tableau d'amortissement libellant intérêts et retour de
+capital, et reproduisant exactement les flux d'une obligation.
+
+Considérant que le code des impôts se contente de rester en termes généraux
+et laisse la pratique définir ce qu'est un revenu, il est possible de penser
+que l'interprétation qu'en prend l'administration est une opinion qui n'a
+pas été formulée explicitement par le législateur.
+
+Ainsi, la doctrine, en appliquant une comptabilité de caisse stricte et en
+assimilant les coupons à du revenu dans leur entièreté opère une
+simplification d'ordre administrative.
+
+Dans le cas des obligations achetées sous le pair, …
+
+XXX A ETENDRE ICI
 
 [pas fini, à étendre, à retravailler]
 
