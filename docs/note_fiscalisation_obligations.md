@@ -225,7 +225,7 @@ le capital restant dû (au taux de rendement interne) et dont le solde a lieu au
 
 Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
 
-Cette obligation, crée au début des années 2000 s'échange systématiquement
+Cette obligation crée au début des années 2000 s'échange systématiquement
 au dessus du pair depuis de nombreuses années, y compris lors des
 adjudications de de l'AFT.
 
