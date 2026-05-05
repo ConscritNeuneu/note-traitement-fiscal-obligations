@@ -614,7 +614,7 @@ s'éloigne de la notion de revenu économique.
 
 XXX A ETENDRE ICI
 
-[pas fini, à étendre, à retravailler]
+[points en vrac]
 
 - distortion de traîtement pour des instruments d'un même émetteur ayant
   approximativement le même enrichissement net et le même taux de rendement
