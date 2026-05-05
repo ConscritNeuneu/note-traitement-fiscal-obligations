@@ -647,7 +647,10 @@ potentiellement les contribuables à des redressements pour abus de droit et
 avantageant de fait les instruments liquides commet une faute de neutralité et
 de sureté juridique [je suis pas content de la fin, il faut dire que ça
 expose inutilement le contribuable alors que la fiscalité n'est pas censée
-être adversariale].
+être adversariale]. [il faut aussi rajouter que la doctrine doit être self
+contained et ne pas renvoyer sur un mécanisme prévu pour les aléas de marché
+alors que le comportement de l'investissement est connu dès le départ, et
+donc à addresser dans la catégorie des produits de placements à revenu fixe]
 
 XXX A ETENDRE ICI
 
