@@ -603,14 +603,27 @@ simplification d'ordre administrative.
 Dans le cas des obligations achetées sous le pair cette simplification ne
 pose pas de problème, les intérêts cachés non réglés par les coupons se
 retrouvent soldés dans la prime de remboursement. C'est ici que les articles
-238 septies A à E entrent en jeu afin de rajouter de l'assiette en avance de
-phase, pour les personnes morales. Pour le cas des personnes physiques on
-considère, à raison, que ces intérêts cachés n'ayant pas été touchés ils
-sont logiquement à traîter au niveau de la prime de remboursement.
+238 septies A à E du CGI entrent en jeu afin de rajouter de l'assiette en
+avance de phase, pour les personnes morales. Pour le cas des personnes
+physiques le législateur considère, à raison, que ces intérêts cachés
+n'ayant pas été touchés ils sont logiquement à traîter au niveau de la prime
+de remboursement.
 
 Dans le cas des obligations achetés au dessus du pair, cette simplification
 administrative ne fonctionne plus et finit par créer une base taxable qui
-s'éloigne de la notion de revenu économique.
+s'éloigne de la notion de revenu économique et dépasse probablement
+l'intention du législateur. De fait, nous montrons qu'une analyse plus fine,
+déjà connue du législateur et des normes comptables internationales permet de
+bien séparer du point de vue du contribuable détenteur de l'obligation, ce
+qui est intérêts vs retour de capital, pour chaque flux élementaire du
+contrat.
+
+Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
+perte au remboursement, tout en reconnaissant qu'elle trouve sa contrepartie
+dans les coupons, la doctrine commet une faute de qualification [il faut
+trouver le bon terme, je veux dire que la doctrine dépasse l'intention du
+législateur et décide toute seule pour des raisons de praticicté ce que le
+CGI ne dispose pas].
 
 XXX A ETENDRE ICI
 
