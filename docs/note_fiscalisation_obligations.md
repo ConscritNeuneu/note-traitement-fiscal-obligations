@@ -712,7 +712,7 @@ fiscal. Cela provoque un différentiel notable entre revenu fiscal et revenu
 économique dans le cas d'une acquisition du contrat au-dessus du pair sur le
 marché secondaire.
 
-Cette situation est reconnue par les points 380 et 390 du BOI-RPPM-RCM-20-10-20-20,
+Cette situation est reconnue par les points 380 et 390 du bulletin BOI-RPPM-RCM-20-10-20-20,
 qui proposent une solution ad hoc de compensation du dernier coupon pour
 adoucir la situation d'une prime de remboursement négative. Cette solution
 est insuffisante et ne permet pas d'éviter des différentiels d'assiette très
