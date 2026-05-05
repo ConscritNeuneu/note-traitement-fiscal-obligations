@@ -572,7 +572,7 @@ en finance. La doctrine se contente de parler d'intérêts et de produits. Le se
 endroit où l'assimilation est faite explicitement est au §380 traitant le
 cas de la perte au remboursement. Une fois réalisé ce glissement, le
 recouvrement pour les particuliers, traité par la section BOI-RPPM-RCM-30-20,
-conclue logiquement à la logique de comptabilité de caisse: un coupon est un
+conclue logiquement à la logique de comptabilité de caisse : un coupon est un
 revenu, et son montant brut est à considérer comme assiette.
 
 Or, nous avons vu par les analyses développées dans cette note que le marché
@@ -629,7 +629,10 @@ Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
 il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
 fiscal et revenu économique en fonction des paramètres internes des
 instruments d'un même émetteur au revenu économique et rendement interne
-similaires, contrevenant au principe de neutralité fidcale [à reformuler peut-être].
+similaires, contrevenant au principe de neutralité fiscale [à reformuler peut-être].
+
+[rajouter que de fait dans notre exemple, 50% en plus d'assiette dépasse de
+beaucoup ce qui pourrait être admissible dans le cadre d'une simplification]
 
 Enfin, du fait des mécanismes d'attration vers le pair de la valeur
 des obligations au fur et à mesure de l'approche de l'échéance du remboursement (voir
