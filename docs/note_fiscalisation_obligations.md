@@ -564,17 +564,20 @@ et 119 parlent de « produits et intérêts ». Il est probable qu'il faut
 comprendre que l'assiette taxable s'entend comme le revenu au sens
 économique, c'est à dire l'enrichissement objectif.
 
-La doctrine les revenus de capitaux mobiliers, notamment dans le document
+La doctrine concernant les revenus de capitaux mobiliers, notamment le document
 BOI-RPPM-RCM-20-10-20-20 opère un probable glissement entre coupons d'une
 obligation et intérêt, sans toutefois jamais le dire explicitement : le document
 ne contient aucune occurence du mot coupon, alors que ce terme est d'usage
 en finance. La doctrine se contente de parler d'intérêts et de produits. Le seul
 endroit où l'assimilation est faite explicitement est au §380 traitant le
-cas de la perte au remboursement.
+cas de la perte au remboursement. Une fois réalisé ce glissement, le
+recouvrement pour les particuliers, traité par la section BOI-RPPM-RCM-30-20,
+conclue logiquement à la logique de comptabilité de caisse: un coupon est un
+revenu, et son montant brut est à considérer comme assiette.
 
 Or, nous avons vu par les analyses développées dans cette note que le marché
 des obligations, qu'il soit primaire ou secondaire n'utilise pas la
-qualification des flux afin de déterminer un prix. Seile compte la valeur
+qualification des flux afin de déterminer un prix. Seule compte la valeur
 actuarielle nette des flux. Dans ce cadre tout mouvement d'argent est traîté
 de manière neutre.
 
@@ -597,7 +600,17 @@ Ainsi, la doctrine, en appliquant une comptabilité de caisse stricte et en
 assimilant les coupons à du revenu dans leur entièreté opère une
 simplification d'ordre administrative.
 
-Dans le cas des obligations achetées sous le pair, …
+Dans le cas des obligations achetées sous le pair cette simplification ne
+pose pas de problème, les intérêts cachés non réglés par les coupons se
+retrouvent soldés dans la prime de remboursement. C'est ici que les articles
+238 septies A à E entrent en jeu afin de rajouter de l'assiette en avance de
+phase, pour les personnes morales. Pour le cas des personnes physiques on
+considère, à raison, que ces intérêts cachés n'ayant pas été touchés ils
+sont logiquement à traîter au niveau de la prime de remboursement.
+
+Dans le cas des obligations achetés au dessus du pair, cette simplification
+administrative ne fonctionne plus et finit par créer une base taxable qui
+s'éloigne de la notion de revenu économique.
 
 XXX A ETENDRE ICI
 
