@@ -567,22 +567,26 @@ notamment les placements à revenu fixe trouve sa source dans les articles 12
 et 13 du CGI, précisé par les articles 118 et 119 pour ce qui concerne les
 obligations et autres produits assimilés.
 
-Ces articles fondateurs définissent l'assiette taxable comme le
-revenu distribué, dont le contribuable dispose réellement. Les articles 118
-et 119 parlent de « produits et intérêts ». Il est probable qu'il faut
-comprendre que l'assiette taxable s'entend comme le revenu au sens
-économique, c'est à dire l'enrichissement objectif.
+Ainsi pour être compris dans l'assiette imposable, il ne suffit pas qu'un flux
+d'argent provienne d'une obligation. Encore faut-il qu'il puisse être qualifié d'«
+intérêts » , « arrérage »  ou de « produit ». Le traitement des primes de
+remboursement illustre bien cette logique : le remboursement final n'est pas
+taxable en tant que tel; seule la fraction excedant le capital restitué est
+suceptible d'être qualifié de produit imposable.
 
 La doctrine concernant les revenus de capitaux mobiliers, notamment le bulletin
 BOI-RPPM-RCM-20-10-20-20 opère un probable glissement entre coupons d'une
 obligation et intérêt, sans toutefois jamais le dire explicitement : le bulletin
 ne contient aucune occurence du mot coupon, alors que ce terme est d'usage
-en finance. La doctrine se contente de parler d'intérêts et de produits. Le seul
-endroit où l'assimilation est faite explicitement est au §380 traitant le
-cas de la perte au remboursement. Une fois réalisé ce glissement, le
-recouvrement pour les particuliers, traité par le bulletin BOI-RPPM-RCM-30-20,
-conclue logiquement à la logique de comptabilité de caisse : un coupon est un
-revenu, et son montant brut est à considérer comme assiette.
+en finance. La doctrine se contente de parler d'intérêts et de produits. On
+pourra notamment relever le §380 traitant le cas de la perte au
+remboursement où l'assimilation entre coupons et intérêts apparaît le plus
+clairement.
+
+Une fois réalisé ce glissement, le recouvrement pour les particuliers,
+traité par le bulletin BOI-RPPM-RCM-30-20, conclue logiquement à la règle de
+de comptabilité de caisse : un coupon est un revenu, et son montant brut est
+à inclure dans l'assiette taxable.
 
 Or, nous avons vu par les analyses développées dans cette note que le marché
 des obligations, qu'il soit primaire ou secondaire n'utilise pas la
@@ -590,15 +594,16 @@ qualification des flux afin de déterminer un prix. Seule compte la valeur
 actuarielle nette des flux. Dans ce cadre tout mouvement d'argent est traîté
 de manière neutre.
 
-Il est de notre avis que la la fiscalité ne devrait pas s'arrêter aux
+Il est de notre avis que la fiscalité ne devrait pas s'arrêter aux
 qualifications contractuelles pour déterminer ce qui constitue un revenu
 mais aussi considérer le point de vue de la personne qui s'enrichit et qui
 reçoit une suite de flux monétaires en échange d'un paiement initial. 
 
 De fait, du point de vue de l'acheteur qui s'enrichit, il n'y a aucune
-différence économique entre une obligation et un contrat de crédit qui
-contiendrait un tableau d'amortissement libellant intérêts et retour de
-capital, et reproduisant exactement les flux d'une obligation.
+différence en terme de flux stricts entre une obligation et un contrat de
+crédit qui contiendrait un tableau d'amortissement libellant intérêts et
+retour de capital, et reproduisant exactement les flux économiques d'une
+obligation.
 
 Considérant que le code des impôts se contente de rester en termes généraux
 et laisse la pratique définir ce qu'est un revenu, il est possible de penser
@@ -629,75 +634,42 @@ contrat.
 
 Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
 perte au remboursement, tout en reconnaissant qu'elle trouve sa contrepartie
-dans les coupons, la doctrine commet une faute de qualification des revenus [il faut
-trouver le bon terme, je veux dire que la doctrine dépasse l'intention du
-législateur et décide toute seule pour des raisons de praticicté ce que le
-CGI ne dispose pas].
+dans les coupons, la doctrine commet une erreur de qualification de ces
+coupons en revenus.
 
 Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
 il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
 fiscal et revenu économique en fonction des paramètres internes des
-instruments d'un même émetteur au revenu économique et rendement interne
-similaires, contrevenant au principe de neutralité fiscale [à reformuler peut-être].
+instruments d'un même émetteur au revenu économique rendement interne et
+maturités similaires.
 
-[rajouter que de fait dans notre exemple, 50% en plus d'assiette dépasse de
-beaucoup ce qui pourrait être admissible dans le cadre d'une simplification]
+Dans le cas d'espèce, une inflation de l'assiette fiscale de 50% par rapport
+au revenu économique semble dépasser largement ce qui peut être attendu
+des effets d'une simplification administrative.
 
-Enfin, du fait des mécanismes d'attraction vers le pair de la valeur
-des obligations au fur et à mesure de l'approche de l'échéance du remboursement (voir
-l'analyse économique), pour le cas des obligations liquides le contribuable
-à qui on a imposé une comptabilité de caisse pour une obligation en surcote
-sera tenté de revendre l'instrument peu de temps avant l'échéance pour
-bénéficier des mécanismes de report en moins-value [des articles xxx du
-CGI]. Il ne nous semble pas pertinent que la doctrine encourage de fait ce genre
-de comportement uniquement à visée fiscale et qui dépendent de l'existence
-d'une contrepartie pour acheter l'instrument. La doctrine exposant
-potentiellement les contribuables à des redressements pour abus de droit et
-avantageant de fait les instruments liquides commet une faute de neutralité et
-de sureté juridique [je suis pas content de la fin, il faut dire que ça
-expose inutilement le contribuable alors que la fiscalité n'est pas censée
-être adversariale]. [il faut aussi rajouter que la doctrine doit être self
-contained et ne pas renvoyer sur un mécanisme prévu pour les aléas de marché
-alors que le comportement de l'investissement est connu dès le départ, et
-donc à addresser dans la catégorie des produits de placements à revenu fixe]
+Enfin, du fait des mécanismes d'attraction vers le pair de la valeur des
+obligations au fur et à mesure de l'approche de l'échéance du remboursement
+(voir l'analyse économique), pour le cas des obligations liquides, le
+contribuable à qui on a imposé une comptabilité de caisse pour une
+obligation en surcote pourra revendre l'instrument peu de temps avant
+l'échéance pour bénéficier des mécanismes de report en moins-value en
+application des articles 150-0 A et suivants du CGI. Il ne nous semble pas
+pertinent que la doctrine encourage de fait ce genre de comportement
+uniquement à visée fiscale et ce pour les raisons suivantes:
 
-XXX A ETENDRE ICI
-
-[points en vrac, je crois que tout a été traité maintenant]
-
-- distortion de traîtement pour des instruments d'un même émetteur ayant
-  approximativement le même enrichissement net et le même taux de rendement
-  interne. Sur l'exemple réel (plus l'exemple artificiel ZC) l'écart
-  d'assiette atteint 50% de l'enrichissement net, une telle différence est
-  disproportionée au regard d'un potentiel argument de simplification
-  administrative et provoque une rupture de neutralité envers deux instruments
-  extrêmement similaires du point de vue de l'acheteur.
-- la fiscalité ne devrait pas s'arrêter aux qualifications contractuelles
-  (coupon, remboursement etc) pour déterminer ce qui constitue un revenu
-  mais aussi considérer le point de vue de la personne qui s'enrichit et qui
-  reçoit une suite de flux monétaires en échange d'un paiement initial. Exemple:
-  si le courtier revendait l'obligation avec un contrat nommé contrat de crédit avec
-  avec tableau d'amortissement et séparation entre intérêts et capital rendu
-  cela changerait-il le revenu fiscal alors que les flux nets sont
-  exactement les mêmes?
-- sous ces conditions, pourquoi imposer une qualification atomique de chaque
-  mouvement pour les personnes physiques alors que pour les personnes morales
-  il est admis un raisonnement économique plus fin de ce qui constitue un
-  revenu, sachant que le CGI [pour disposer ce qui est taxable] ne fait
-  aucune différence dans la qualité des personnes dans les articles 118 et
-  119? (les 238 septies A et suivants qui font des diffs entre personnes
-  morales et physiques ne s'intéressent qu'au cas de la prime de
-  remboursement, quand elle est positive)
-- attribution atomique des flux du contrat entre revenu et non revenu alors
-  que la réalité economique est plus nuancée, notamment on fait tout un
-  effort pour qualifier la prime de remboursement qui ne contient pas que du
-  capital, pourquoi ne pas le faire pour le coupon ?
-- au final la question c'est qu'est-ce qu'un revenu ? L'assiette fiscale devrait
-  égaliser sinon se rapprocher de la notion de revenu économique. C'est
-  le sens des articles introductifs 12 et 13 du CGI, implémenté pour le cas
-  des obligations par l'article 118 du CGI qui précise bien que la prime de
-  remboursement est un revenu dans le cas de la sous-cote de l'obligation. Dès
-  lors, symmétriquement, la doctrine devrait adresser le cas de la surcote.
+- l'application du 150-0 D du CGI dépend de la vente effective et donc de
+  l'existence d'une contrepartie pour acheter l'instrument, de ce fait
+  avantageant les obligations liquides, ce qui constitue un problème de
+  neutralité fiscale;
+- il s'agit d'un détournement sans raison économique de cette passerelle
+  prévue pour les aléas de marché afin de palier à une situation pourtant
+  prévisible dès le départ, ce faisant elle expose le contribuable à un risque
+  de qualification d'abus de droit;
+- et globalement pose un problème de cohérence car elle nécéssite que le
+  contribuable ait des plus values à effacer dans cette catégorie de
+  revenus. Or il nous semble que l'imposition devrait être autoporteuse, le
+  problème se situe au niveau des produits de placement à revenu fixe, la
+  doctrine devrait proposer une solution viable dans cette catégorie.
 
 ## Note conclusive
 
