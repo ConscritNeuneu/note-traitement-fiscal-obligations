@@ -122,7 +122,7 @@ Le Code général des impôts contient les dispositions suivantes pour le revenu
 - les articles [238 septies A à E](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006179610) pour le cas des primes de remboursement,
   dont l'essentiel ne concerne pas / plus les personnes physiques.
 
-Les documents du BOFiP relatifs aux obligations sont les suivants :
+Les BOFiPs relatifs aux obligations sont les suivants :
 
 - [BOI-RPPM-RCM-20-10-20-20](https://bofip.impots.gouv.fr/bofip/929-PGP.html/identifiant=BOI-RPPM-RCM-20-10-20-20-20220630): règles générales d'assiette
 - [BOI-RPPM-RCM-30-20](https://bofip.impots.gouv.fr/bofip/3774-PGP.html/identifiant=BOI-RPPM-RCM-30-20-20220630): prélèvement obligatoire pour les personnes physiques
@@ -133,7 +133,7 @@ Les documents du BOFiP relatifs aux obligations sont les suivants :
 
 ### Comptabilité de caisse
 
-Le document BOI-RPPM-RCM-20-10-20-20 du BOFiP énonce les principes généraux
+Le BOFiP BOI-RPPM-RCM-20-10-20-20 énonce les principes généraux
 d'assiette pour les revenus de capitaux mobiliers.
 
 Son point 1 reprend la lecture des articles 118 et 119 du CGI : s'entendent
@@ -142,7 +142,7 @@ donc taxables les intérêts et la prime de remboursement.
 Le point 10 précise qu'il s'agit des « intérêt[s] et revenu[s] effectivement
 perçu[s] au cours de l'année ».
 
-Le reste du document consiste en une discussion sur
+Le reste du bulletin consiste en une discussion sur
 la définition de la prime de remboursement, telle que définie sommairement
 au 118 et 119 du CGI.
 
@@ -573,14 +573,14 @@ et 119 parlent de « produits et intérêts ». Il est probable qu'il faut
 comprendre que l'assiette taxable s'entend comme le revenu au sens
 économique, c'est à dire l'enrichissement objectif.
 
-La doctrine concernant les revenus de capitaux mobiliers, notamment le document
+La doctrine concernant les revenus de capitaux mobiliers, notamment le bulletin
 BOI-RPPM-RCM-20-10-20-20 opère un probable glissement entre coupons d'une
-obligation et intérêt, sans toutefois jamais le dire explicitement : le document
+obligation et intérêt, sans toutefois jamais le dire explicitement : le bulletin
 ne contient aucune occurence du mot coupon, alors que ce terme est d'usage
 en finance. La doctrine se contente de parler d'intérêts et de produits. Le seul
 endroit où l'assimilation est faite explicitement est au §380 traitant le
 cas de la perte au remboursement. Une fois réalisé ce glissement, le
-recouvrement pour les particuliers, traité par la section BOI-RPPM-RCM-30-20,
+recouvrement pour les particuliers, traité par le bulletin BOI-RPPM-RCM-30-20,
 conclue logiquement à la logique de comptabilité de caisse : un coupon est un
 revenu, et son montant brut est à considérer comme assiette.
 
