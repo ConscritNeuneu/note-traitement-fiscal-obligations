@@ -8,6 +8,15 @@ remboursement « au pair ».
 
 La discussion ne concernera que la fiscalité pour les personnes physiques.
 
+La présente note raisonne en *monnaie courante*. Elle ne traîte pas de la
+question, distincte, de l'imposition de gains nominaux liés à l'inflation.
+Ainsi les termes « revenu », « enrichissement », « assiette » doivent être
+compris sans correction monétaire ni retraitement lié à l'inflation.
+
+La question étudiée n'est pas celle de l'imposition de l'inflation, mais
+celle de la qualification de flux financiers obligataires entre revenu et
+restitution de capital.
+
 ## Rappel sur les obligations
 
 ### Généralités
