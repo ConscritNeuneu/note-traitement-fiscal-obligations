@@ -620,14 +620,35 @@ contrat.
 
 Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
 perte au remboursement, tout en reconnaissant qu'elle trouve sa contrepartie
-dans les coupons, la doctrine commet une faute de qualification [il faut
+dans les coupons, la doctrine commet une faute de qualification des revenus [il faut
 trouver le bon terme, je veux dire que la doctrine dépasse l'intention du
 législateur et décide toute seule pour des raisons de praticicté ce que le
 CGI ne dispose pas].
 
+Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
+il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
+fiscal et revenu économique en fonction des paramètres internes des
+instruments d'un même émetteur au revenu économique et rendement interne
+similaires, contrevenant au principe de neutralité fidcale [à reformuler peut-être].
+
+Enfin, du fait des mécanismes d'attration vers le pair de la valeur
+des obligations au fur et à mesure de l'approche de l'échéance du remboursement (voir
+l'analyse économique), pour le cas des obligations liquides le contribuable
+à qui on a imposé une comptabilité de caisse pour une obligation en surcote
+sera tenté de revendre l'instrument peu de temps avant l'échéance pour
+bénéficier des mécanismes de report en moins-value [des articles xxx du
+CGI]. Il ne nous semble pas pertinent que la doctrine encourage de fait ce genre
+de comportement uniquement à visée fiscale et qui dépendent de l'existence
+d'une contrepartie pour acheter l'instrument. La doctrine exposant
+potentiellement les contribuables à des redressements pour abus de droit et
+avantageant de fait les instruments liquides commet une faute de neutralité et
+de sureté juridique [je suis pas content de la fin, il faut dire que ça
+expose inutilement le contribuable alors que la fiscalité n'est pas censée
+être adversariale].
+
 XXX A ETENDRE ICI
 
-[points en vrac]
+[points en vrac, je crois que tout a été traité maintenant]
 
 - distortion de traîtement pour des instruments d'un même émetteur ayant
   approximativement le même enrichissement net et le même taux de rendement
