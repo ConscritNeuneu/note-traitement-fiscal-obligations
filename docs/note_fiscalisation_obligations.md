@@ -634,7 +634,7 @@ similaires, contrevenant au principe de neutralité fiscale [à reformuler peut-
 [rajouter que de fait dans notre exemple, 50% en plus d'assiette dépasse de
 beaucoup ce qui pourrait être admissible dans le cadre d'une simplification]
 
-Enfin, du fait des mécanismes d'attration vers le pair de la valeur
+Enfin, du fait des mécanismes d'attraction vers le pair de la valeur
 des obligations au fur et à mesure de l'approche de l'échéance du remboursement (voir
 l'analyse économique), pour le cas des obligations liquides le contribuable
 à qui on a imposé une comptabilité de caisse pour une obligation en surcote
