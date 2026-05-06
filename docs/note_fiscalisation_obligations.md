@@ -585,7 +585,7 @@ clairement.
 
 Une fois réalisé ce glissement, le recouvrement pour les particuliers,
 traité par le bulletin BOI-RPPM-RCM-30-20, conclue logiquement à la règle de
-de comptabilité de caisse : un coupon est un revenu, et son montant brut est
+comptabilité de caisse : un coupon est un revenu, et son montant brut est
 à inclure dans l'assiette taxable.
 
 Or, nous avons vu par les analyses développées dans cette note que le marché
@@ -646,6 +646,18 @@ maturités similaires.
 Dans le cas d'espèce, une inflation de l'assiette fiscale de 50% par rapport
 au revenu économique semble dépasser largement ce qui peut être attendu
 des effets d'une simplification administrative.
+
+Notons que le code général des impôts dans ses articles fondateurs et
+générateurs du fait taxable que sont les articles 12, 13, 118 et 119, ne
+fait pas de différence entre la qualité des personnes qui touchent les
+revenus, pour ce qui est de la définition même de l'assiette taxable.
+Tandis qu'il est tout à fait normal que les règles de liquidation, de taux,
+d'abattement etc varient selon qu'il s'agisse d'une personne physique ou d'une
+personne morale, il nous semble difficile de justifier que les personnes
+morales puissent inscrire en charge l'amortissement des surcotes des
+obligations alors que les particuliers ne puissent pas le faire ce faisant
+introduisant une difficulté vis-à-vis des principes généraux d'égalité
+devant l'impôt.
 
 Enfin, du fait des mécanismes d'attraction vers le pair de la valeur des
 obligations au fur et à mesure de l'approche de l'échéance du remboursement
