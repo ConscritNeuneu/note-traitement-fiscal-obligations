@@ -235,7 +235,7 @@ Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr000
 
 Cette obligation crée au début des années 2000 s'échange systématiquement
 au dessus du pair depuis de nombreuses années, y compris lors des
-adjudications ayant eu lieu ultérieuement par l'AFT.
+adjudications ayant eu lieu ultérieuement par l'Agence France Trésor.
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
@@ -396,15 +396,20 @@ Cette formule se simplifie en :
   </mrow>
 </math>
 
+C'est ce taux `t` qui est publié par l'Agence France Trésor suite à chaque
+émission obligataire, dans le cas des emprunts d'État.
+
 Quand `R` est égal à `0` et `P` est égal à `1` on retrouve la formule du crédit
 amortissable où tout le capital est amorti en cours de route et il ne reste
 plus rien à solder à la fin.
 
 Quand `R = 1` et `P = 1`, on retrouve l'obligation classique au moment de
-son émission.
+son émission initiale en syndication, où l'émetteur ajuste son taux de
+coupon au taux d'intérêt demandé par le marché.
 
 Quand `R = 1` et `P ≠ 1` on tombe sur les scénarios intermédiaires des
-obligations trouvés sur le marché secondaire.
+obligations trouvées sur le marché secondaire ou négociées lors des
+adjudications supplémentaires.
 
 Une obligation, du point de vue de l'acheteur, ce n'est ni plus ni moins
 qu'un contrat de crédit in fine, avec paiement d'un ballon.
