@@ -599,7 +599,7 @@ bulletin assure la mise en œuvre vise lui aussi le revenu brut.  Cette
 précision ne tranche cependant pas la qualification préalable du flux.
 Elle peut être comprise comme excluant la déduction de frais ou commissions
 afférants à la perception du revenu (typiquement commissions d'arrérages);
-elle n'implique pas nécéssairement que tout le flux encaissé doive être
+elle n'implique pas nécéssairement que tout flux encaissé doive être
 qualifié de revenu dans son intégralité.
 
 Or, nous avons vu par les analyses développées dans cette note que le marché
