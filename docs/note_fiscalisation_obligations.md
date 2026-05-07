@@ -647,8 +647,9 @@ la mise de départ comme s'il s'agissait de revenu.
 
 Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
 perte au remboursement, tout en reconnaissant qu'elle trouve sa contrepartie
-dans les coupons, la doctrine commet une erreur de qualification de ces
-coupons comme ne contenant que des intérêts (donc revenus).
+dans les coupons, la doctrine commet une *erreur de qualification* de ces
+coupons en les déclarant intérêts (donc revenus) alors qu'une fraction est
+identifiable comme un remboursement de capital.
 
 Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
 il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
@@ -706,9 +707,10 @@ sur le marché secondaire. Selon les cas, une fraction des coupons peut ne pas
 être considérée comme un revenu économique (viz. IFRS 9 §5.4.1).
 Néanmoins par simplification la doctrine considère dans le cas
 des personnes physiques l'entièreté des coupons comme un revenu au plan
-fiscal. Cela provoque un différentiel notable entre revenu fiscal et revenu
-économique dans le cas d'une acquisition du contrat au-dessus du pair sur le
-marché secondaire.
+fiscal et ce faisant commet une erreur de qualification du revenu. Cela
+provoque un différentiel notable entre revenu fiscal et revenu économique
+dans le cas d'une acquisition du contrat au-dessus du pair sur le marché
+secondaire.
 
 Cette situation est reconnue par les points 380 et 390 du bulletin BOI-RPPM-RCM-20-10-20-20,
 qui proposent une solution ad hoc de compensation du dernier coupon pour
