@@ -3,8 +3,8 @@
 ## Cadre de la discussion
 
 Dans toute la suite de la discussion, nous ne nous intéressons qu'aux
-obligations « typiques », *non indexées*, telles que l'État français en émet, avec
-remboursement « au pair ».
+obligations « typiques », *non indexées*, telles que l'État français en
+émet, avec remboursement « au pair ».
 
 La discussion ne concernera que la fiscalité pour les personnes physiques.
 
@@ -96,15 +96,14 @@ centré autour du crédit et qui comporte une section sur les obligations.
 
 ## Plan
 
-[à refaire]
-
 La suite de la note sera consacrée à la fiscalité des obligations pour les
 particuliers et abordera les points suivants :
 
-- Principe de fiscalité : comptabilité de caisse, intérêts et prime de remboursement
-- Conséquences d'une prime de remboursement « négative »
-- Définition du revenu ?
-- Matière à contentieux
+- Principe de fiscalité : dispositions légales et comptabilité de caisse
+- Exemples pratiques
+- Analyse économique
+- Analyse légale
+- Effets macroéconomiques
 
 ## Principe de fiscalité
 
@@ -668,11 +667,11 @@ fait pas de différence entre la qualité des personnes qui touchent les
 revenus, pour ce qui est de la définition même de l'assiette taxable.
 Tandis qu'il est tout à fait normal que les règles de liquidation, de taux,
 d'abattement etc varient selon qu'il s'agisse d'une personne physique ou d'une
-personne morale, il nous semble difficile de justifier que les personnes
-morales puissent inscrire en charge l'amortissement des surcotes des
-obligations alors que les particuliers ne puissent pas le faire ce faisant
-introduisant une difficulté vis-à-vis des principes généraux d'égalité
-devant l'impôt.
+personne morale, il nous semble difficile de justifier que certaines personnes
+morales, selon leur référentiel comptable puissent inscrire en charge
+l'amortissement des surcotes des obligations alors que les particuliers ne
+puissent pas le faire ce faisant introduisant une difficulté vis-à-vis des
+principes généraux d'égalité devant l'impôt.
 
 Enfin, du fait des mécanismes d'attraction vers le pair de la valeur des
 obligations au fur et à mesure de l'approche de l'échéance du remboursement
@@ -682,7 +681,7 @@ obligation en surcote pourra revendre l'instrument peu de temps avant
 l'échéance pour bénéficier des mécanismes de report en moins-value en
 application des articles 150-0 A et suivants du CGI. Il ne nous semble pas
 pertinent que la doctrine encourage de fait ce genre de comportement
-uniquement à visée fiscale et ce pour les raisons suivantes:
+uniquement à visée fiscale et ce pour les raisons suivantes :
 
 - l'application du 150-0 D du CGI dépend de la vente effective et donc de
   l'existence d'une contrepartie pour acheter l'instrument, de ce fait
@@ -697,6 +696,10 @@ uniquement à visée fiscale et ce pour les raisons suivantes:
   revenus. Or il nous semble que l'imposition devrait être autoporteuse, le
   problème se situe au niveau des produits de placement à revenu fixe, la
   doctrine devrait proposer une solution viable dans cette catégorie.
+
+## Effets macroéconomiques
+
+[à ajouter]
 
 ## Note conclusive
 
