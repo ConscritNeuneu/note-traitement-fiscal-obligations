@@ -150,15 +150,15 @@ Une fois déterminés les principes de taxation, le recouvrement est organisé
 de la façon suivante :
 
 Le CGI dispose de la mise en œuvre du recouvrement, pour ce qui est des
-personnes physiques par son article 125 A. La doctrine correspondante est la
-section BOI-RPPM-RCM-30-20.
+personnes physiques par son article 125 A. La doctrine correspondante est le
+bulletin BOI-RPPM-RCM-30-20.
 
 On notera notamment dans la partie relative à l'assiette
 (BOI-RPPM-RCM-30-20-30 § 20) que le montant brut du produit [de
 l'obligation] est à considérer, sans retraitement.
 
 Sans jamais définir précisément ce qui est de l'ordre du revenu,
-un faisceaux d'indices dans la doctrine nous laisse entendre que dans les faits
+un faisceau d'indices dans la doctrine nous laisse entendre que dans les faits
 les organismes déclarateurs et collecteurs (c'est-à-dire les courtiers) sont
 tenus d'appliquer une comptabilité stricte de caisse. Ainsi, chaque coupon
 de l'obligation sera considéré en sa totalité comme du revenu. Pour ce qui
@@ -401,7 +401,8 @@ C'est ce taux `t` qui est publié par l'Agence France Trésor suite à chaque
 
 Quand `R` est égal à `0` et `P` est égal à `1` on retrouve la formule du crédit
 amortissable où tout le capital est amorti en cours de route et il ne reste
-plus rien à solder à la fin.
+plus rien à solder à la fin. Certaines obligations dites « amortissables »
+sont sous ce format, typiquement pour du financement d'infrastructures.
 
 Quand `R = 1` et `P = 1`, on retrouve l'obligation classique au moment de
 son émission initiale en syndication, où l'émetteur ajuste son taux de
@@ -637,10 +638,17 @@ bien séparer du point de vue du contribuable détenteur de l'obligation, ce
 qui est intérêts vs retour de capital, pour chaque flux élementaire du
 contrat.
 
+La situation est encore pire avec une obligation amortissable, l'État
+français n'en émet pas mais c'est un mode typique de financement pour les
+infrastructures. Dans ces conditions l'ensemble du contrat est prévu pour
+s'amortir en cours de vie, il n'y a pas de ballon. La simplification conduirait
+à identifier l'entièreté des flux comme des intérêts et donc taxer aussi
+la mise de départ comme s'il s'agissait de revenu.
+
 Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
 perte au remboursement, tout en reconnaissant qu'elle trouve sa contrepartie
 dans les coupons, la doctrine commet une erreur de qualification de ces
-coupons en revenus.
+coupons comme ne contenant que des intérêts (donc revenus).
 
 Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
 il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
@@ -648,9 +656,10 @@ fiscal et revenu économique en fonction des paramètres internes des
 instruments d'un même émetteur au revenu économique rendement interne et
 maturités similaires.
 
-Dans le cas d'espèce, une inflation de l'assiette fiscale de 50% par rapport
-au revenu économique semble dépasser largement ce qui peut être attendu
-des effets d'une simplification administrative.
+Dans le cas d'espèce, l'exemple cité plus haut ayant une inflation de
+l'assiette fiscale de 50% par rapport au revenu économique semble dépasser
+largement ce qui peut être attendu des effets d'une simplification
+administrative.
 
 Notons que le code général des impôts dans ses articles fondateurs et
 générateurs du fait taxable que sont les articles 12, 13, 118 et 119, ne
