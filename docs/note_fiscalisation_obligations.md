@@ -49,7 +49,10 @@ des obligations selon les mêmes modalités que des émissions passées (même
 maturité, même taux de coupon). Dans ce cas tous les titres sont fongibles.
 
 Les émissions suivantes d'un même instrument se font à un prix dépendant du
-taux d'emprunt du moment.
+taux d'emprunt du moment. Ainsi, certaines émissions se font au dessus du
+pair, et d'autres sous le pair. L'Agence France Trésor rapporte le taux de
+effectif moyen de chaque émission, paramètre le plus important pour évaluer
+le coût de la dette.
 
 ### Valeur d'une obligation
 
@@ -162,7 +165,7 @@ les organismes déclarateurs et collecteurs (c'est-à-dire les courtiers) sont
 tenus d'appliquer une comptabilité stricte de caisse. Ainsi, chaque coupon
 de l'obligation sera considéré en sa totalité comme du revenu. Pour ce qui
 est du remboursement final il sera déduit le prix d'acquisition moyen
-pondéré afin déterminer la prime de remboursement.
+pondéré (incluant le coupon couru) afin déterminer la prime de remboursement.
 
 Le reste de la note sera consacré à expliquer pourquoi cette assimilation de
 l'entièreté du coupon à du revenu conduit à un problème de cohérence entre
@@ -591,7 +594,13 @@ clairement.
 Une fois réalisé ce glissement, le recouvrement pour les particuliers,
 traité par le bulletin BOI-RPPM-RCM-30-20, conclue logiquement à la règle de
 comptabilité de caisse : un coupon est un revenu, et son montant brut est
-à inclure dans l'assiette taxable.
+à inclure dans l'assiette taxable. On notera que l'article 125 A dont le
+bulletin assure la mise en œuvre vise lui aussi le revenu brut.  Cette
+précision ne tranche cependant pas la qualification préalable du flux.
+Elle peut être comprise comme excluant la déduction de frais ou commissions
+afférants à la perception du revenu (typiquement commissions d'arrérages);
+elle n'implique pas nécéssairement que tout le flux encaissé doive être
+qualifié de revenu dans son intégralité.
 
 Or, nous avons vu par les analyses développées dans cette note que le marché
 des obligations, qu'il soit primaire ou secondaire n'utilise pas la
