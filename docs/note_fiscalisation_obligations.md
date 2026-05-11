@@ -706,9 +706,39 @@ uniquement à visée fiscale et ce pour les raisons suivantes :
   problème se situe au niveau des produits de placement à revenu fixe, la
   doctrine devrait proposer une solution viable dans cette catégorie.
 
-## Effets macroéconomiques
+## Aspects macroéconomiques
 
-[à ajouter]
+Les particuliers ne sont qu'une fraction infime des acheteurs de la dette
+d'état en direct. Néammoins on pourra noter les points suivants:
+
+- les obligations au dessus du pair sont un effet naturel et la contrepartie
+  de l'absence de call option. Elles apparaîssent lors de baisse de taux; La
+  réouverture de souches au dessus du pair fait partie de la gestion normale
+  de la dette;
+- l'État organise le marché pour rendre ses OAT liquides et disponibles au détail,
+  mais la doctrine rend défavorable la détention en direct par des
+  particuliers de certaines souches;
+- ainsi, la fiscalité provoque une pression vendeuse sur les obligations à
+  gros coupons détenues par les particuliers, sans raison économique,
+  surtout à proximité du remboursement afin de créer une moins-value
+  reportable;
+- dès lors on pourra noter que cela crée une distortion de marché favorisant certains
+  instruments (zéro-coupons ou petit coupon) au désavatage d'autres (gros
+  coupons) pourtant actuariellement équivalents;
+- l'effet réel sur les taux d'intérêts reste cependant probablement extrêmement
+  marginal;
+- le problème le plus gênant selon nous est probablement une pression d'externalisation
+  de la dette dans des OPCVM, essentiellement de droit étranger; cela ne signifie
+  pas que la dette soit détenue par des non-résidents mais qu'il devient plus
+  difficile d'identifier quelle part de dette est détenue par les résidents.
+  Cet effet est à mettre en regard avec la collecte devenue modeste sur
+  fonds euro en assurance vie, véhicule traditionnel des obligations;
+- et par voie de conséquence, un *report de recouvrement fiscal et social*
+  quand les instruments sont logés dans les compartiments capitalisants des
+  OPCVM, alors même que l'article 125 A du CGI organise en principe un
+  prélèvement immédiat des produits des obligations;
+- on notera aussi un réel souci pour les obligations amortissables type « infrastructure »;
+- et enfin, les titres peu liquides sont très défavorisés, typiquement les dettes d'entreprise.
 
 ## Note conclusive
 
