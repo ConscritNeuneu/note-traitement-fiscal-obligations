@@ -723,7 +723,7 @@ d'état en direct. Néammoins on pourra noter les points suivants:
   surtout à proximité du remboursement afin de créer une moins-value
   reportable;
 - dès lors on pourra noter que cela crée une distortion de marché favorisant certains
-  instruments (zéro-coupons ou petit coupon) au désavatage d'autres (gros
+  instruments (zéro-coupons, strips, ou petit coupon) au désavatage d'autres (gros
   coupons) pourtant actuariellement équivalents;
 - l'effet réel sur les taux d'intérêts reste cependant probablement extrêmement
   marginal;
