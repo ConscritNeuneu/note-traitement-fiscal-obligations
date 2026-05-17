@@ -15,7 +15,7 @@ fiscalité:
 
 ### OPCVM Obligataires
 
-Même si le marché est plus restreint contrairement à celui des actions, il
+Même si le marché est plus restreint que celui des actions, il
 existe une grande diversité de fonds obligataires. Selon la formule du
 fonds il est possible de répliquer approximativement l'effet d'une
 obligation, même s'il y a quelques différences sur l'effet.
@@ -53,13 +53,13 @@ considérations poussent l'administration à s'en tenir à une comptabilité de
 caisse ne serait-ce que pour limiter la charge adminstrative.
 
 La seule solution serait donc d'ouvrir une procédure contentieuse. Le débat
-ce centrera autour de la latitude laissée par le CGI sur la définition de ce
-qu'est un revenu.
+se centrera autour de la latitude laissée à l'administration par le CGI sur
+la définition de ce qu'est un revenu.
 
 Il est possible qu'un contribuable utilisant un courtier étranger et
-auto-liquidant le prélèvement via le formulaire 2778-SD dans les temps soit
-accepté silencieusement, surtout en cas d'enjeu faible. Cela ne règle
-cependant pas la question de la définition du revenu dans le cas
+auto-liquidant le prélèvement via le formulaire 2778-SD dans les temps voie
+sa déclaration acceptée silencieusement, surtout en cas d'enjeu faible. Cela
+ne règle cependant pas la question de la définition du revenu dans le cas
 d'espèce.
 
 Dans ce cas il est fortement recommandé d'insérer une réserve
