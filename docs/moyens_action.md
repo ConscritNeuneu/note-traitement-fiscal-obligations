@@ -36,7 +36,10 @@ remboursement au sens des articles 118 et 119 du CGI.
 
 Cette stratégie n'est accessible que pour des tickets d'entrée élevés et ne
 permet pas le lissage du taux de rendement observé avec un seul instrument
-obligataire.
+obligataire. Elle est néammoins intéressante comme contrefactuel théorique
+car elle permet de reproduire strictement les flux monétaires de
+l'obligation non démembrée tout en réalisant une assiette fiscale
+extrêmement différente.
 
 ## Rescrit, contentieux et déclaration
 
