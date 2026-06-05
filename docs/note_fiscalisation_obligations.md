@@ -78,6 +78,10 @@ Si l'obligation est conservée jusqu'à maturité, le remboursement final est au
 pair (pour les obligations standard) : on touche 1 € (ou la valeur nominale)
 par unité d'obligation, ce qui clôt le contrat.
 
+Ainsi, économiquement, on dira qu'une obligation *en dessous du pair* contient
+une *prime de remboursement*. À l'inverse on dira qu'une obligation au
+dessus du pair contient *une prime d'émission*.
+
 La valeur d'une obligation vaut donc la *valeur actuarielle nette* de
 l'ensemble de ses flux (coupons et nominal à la fin) ajustés selon le taux
 que le marché demande.
@@ -642,9 +646,18 @@ administrative ne fonctionne plus et finit par créer une base taxable qui
 s'éloigne de la notion de revenu économique et dépasse probablement
 l'intention du législateur. De fait, nous montrons qu'une analyse plus fine,
 déjà connue du législateur et des normes comptables internationales permet de
-bien séparer du point de vue du contribuable détenteur de l'obligation, ce
+bien séparer, du point de vue du contribuable détenteur de l'obligation, ce
 qui est intérêts vs retour de capital, pour chaque flux élementaire du
 contrat.
+
+Ainsi, pour ces obligations comportant une prime d'émission, la doctrine se
+retrouve à implémenter une taxe sur cette prime. Cette situation est
+explicitement reconnue par le §380 du bulletin BOI-RPPM-RCM-20-10-20-20 qui
+qualifie cette prime de perte au remboursement et en ne disposant d'aucun
+moyen de récupérer cette perte. L'analyse que la contrepartie de cette perte
+se retrouve dans les coupons est économiquement juste, mais ne peut
+justifier par elle-même la levée d'une nouvelle taxe sans support du code
+général des impôts.
 
 La situation est encore pire avec une obligation amortissable, l'État
 français n'en émet pas mais c'est un mode typique de financement pour les
