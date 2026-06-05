@@ -780,10 +780,12 @@ similaire, enrichissement net similaire).
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
 cas d'une obligation achetée avec surcote et gardée à maturité. Cependant, en
 refusant de proposer un mécanisme permettant d'aligner revenu fiscal et
-revenu économique, la doctrine s'est retrouvée à dépasser l'intention du législateur
-de taxer uniquement les revenus en assimilant la totalité des coupons à des
-intérêts alors qu'une analyse économique reconnue permet d'identifier une
-partie des flux comme un retour de capital et l'autre comme des intérêts.
+revenu économique, la doctrine s'est retrouvée lever une imposition sur la
+prime d'émission que le CGI ne dispose pas. Le §380 reconnaît que la perte
+au remboursement trouve sa contrepartie dans les coupons, ce qui justifie
+l'absence de compensation, mais cette analyse produit incidemment une
+taxation de la prime d'émission sans support légal, compétence exclusive du
+législateur.
 
 Enfin, cette situation incite à des comportements non économiques pour des
 raisons fiscales : revente en fin de remboursement afin de générer une moins-value
