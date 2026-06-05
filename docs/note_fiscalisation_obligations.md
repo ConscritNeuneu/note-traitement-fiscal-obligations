@@ -514,7 +514,7 @@ Et enfin nous obtenons la part d'amortissement :
 
 #### Obligation en surcote
 
-Une obligation en surcote contient une prime d'émission: elle correspond au
+Une obligation en surcote contient une prime d'émission : elle correspond au
 surcoût qu'un acquéreur doit débourser afin d'acquérir le contrat, et qui
 n'est pas récupérée au remboursement final.
 
@@ -726,7 +726,7 @@ uniquement à visée fiscale et ce pour les raisons suivantes :
 ## Aspects macroéconomiques
 
 Les particuliers ne sont qu'une fraction infime des acheteurs de la dette
-d'état en direct. Néammoins on pourra noter les points suivants:
+d'état en direct. Néammoins on pourra noter les points suivants :
 
 - les primes d'émission de certaines obligations sont un effet naturel et la contrepartie
   de l'absence de call option. Elles apparaîssent lors de baisse de taux; La
