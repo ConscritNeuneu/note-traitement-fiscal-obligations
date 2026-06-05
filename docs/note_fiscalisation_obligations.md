@@ -8,7 +8,7 @@ obligations « typiques », *non indexées*, telles que l'État français en
 
 La discussion ne concernera que la fiscalité pour les personnes physiques.
 
-La présente note raisonne en *monnaie courante*. Elle ne traîte pas de la
+La présente note raisonne en *monnaie courante*. Elle ne traite pas de la
 question, distincte, de l'imposition de gains nominaux liés à l'inflation.
 Ainsi les termes « revenu », « enrichissement », « assiette » doivent être
 compris sans correction monétaire ni retraitement lié à l'inflation.
@@ -610,7 +610,7 @@ qualifié de revenu dans son intégralité.
 Or, nous avons vu par les analyses développées dans cette note que le marché
 des obligations, qu'il soit primaire ou secondaire n'utilise pas la
 qualification des flux afin de déterminer un prix. Seule compte la valeur
-actuarielle nette des flux. Dans ce cadre tout mouvement d'argent est traîté
+actuarielle nette des flux. Dans ce cadre tout mouvement d'argent est traité
 de manière neutre.
 
 Il est de notre avis que la fiscalité ne devrait pas s'arrêter aux
@@ -639,7 +639,7 @@ retrouvent soldés dans la prime de remboursement. C'est ici que les articles
 238 septies A à E du CGI entrent en jeu afin de rajouter de l'assiette en
 avance de phase, pour les personnes morales. Pour le cas des personnes
 physiques le législateur considère, à raison, que ces intérêts cachés
-n'ayant pas été touchés ils sont logiquement à traîter au niveau de la prime
+n'ayant pas été touchés ils sont logiquement à traiter au niveau de la prime
 de remboursement.
 
 Dans le cas des obligations achetées au dessus du pair, cette simplification
