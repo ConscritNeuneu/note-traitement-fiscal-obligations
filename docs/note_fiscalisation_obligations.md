@@ -641,7 +641,7 @@ physiques le législateur considère, à raison, que ces intérêts cachés
 n'ayant pas été touchés ils sont logiquement à traîter au niveau de la prime
 de remboursement.
 
-Dans le cas des obligations achetés au dessus du pair, cette simplification
+Dans le cas des obligations achetées au dessus du pair, cette simplification
 administrative ne fonctionne plus et finit par créer une base taxable qui
 s'éloigne de la notion de revenu économique et dépasse probablement
 l'intention du législateur. De fait, nous montrons qu'une analyse plus fine,
