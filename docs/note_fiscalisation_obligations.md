@@ -190,7 +190,7 @@ globalité sera calculé et comparé à l'assiette fiscale.
 
 ### Obligation sous le pair
 
-Instrument : [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
+Instrument : [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr001400bkz3)
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
@@ -198,13 +198,13 @@ Instrument : [OAT 2,00 % 25 novembre 2032](https://www.aft.gouv.fr/fr/titre/fr00
 | Nominal | 1 € |
 | Date d'achat | 2026-04-23 |
 | Cours | 92,53% |
-| Taux coupon couru | 0,99726% |
-| Quantité | 10 671 |
-| Prix brut | 9 873,88 € |
-| Coupon couru | 106,42 € |
-| Courtage | 19,75 € |
-| Total acquisition | 10 000,05 € |
-| Valeur du coupon | 213,42 € |
+| Taux coupon couru | 0,827397% |
+| Quantité | 10 690 |
+| Prix brut | 9 891,46 € |
+| Coupon couru | 88,45 € |
+| Courtage | 19,78 € |
+| Total acquisition | 9 999,69 € |
+| Valeur du coupon | 213,80 € |
 
 
 L'ensemble des flux comptables de l'opération s'échelonnent de la façon
@@ -212,19 +212,19 @@ suivante :
 
 | Date | Flux | Assiette fiscale | Note |
 | ---- | ---- | ---------------- | ---- |
-| 2026-04-23 | -10 000,05 € || Acquisition |
-| 2026-10-25 | 213,42 € | 213,42 € ||
-| 2027-10-25 | 213,42 € | 213,42 € ||
-| 2028-10-25 | 213,42 € | 213,42 € ||
-| 2029-10-25 | 213,42 € | 213,42 € ||
-| 2030-10-25 | 213,42 € | 213,42 € ||
-| 2031-10-25 | 213,42 € | 213,42 € ||
-| 2032-10-25 | 213,42 € | 213,42 € ||
-| 2032-10-25 | 10 671,00 € | 670,95 € | Prime de remboursement |
+| 2026-04-23 | -9 999,69 € || Acquisition |
+| 2026-11-25 | 213,80 € | 213,42 € ||
+| 2027-11-25 | 213,80 € | 213,42 € ||
+| 2028-11-25 | 213,80 € | 213,42 € ||
+| 2029-11-25 | 213,80 € | 213,42 € ||
+| 2030-11-25 | 213,80 € | 213,42 € ||
+| 2031-11-25 | 213,80 € | 213,42 € ||
+| 2032-11-25 | 213,80 € | 213,42 € ||
+| 2032-11-25 | 10 690,00 € | 690,31 € | Prime de remboursement |
 |||||
-| Taux de rendement interne | 3,25% |||
-| Enrichissement | 2 164,89 € |||
-| Assiette fiscale | 2 164,89 € |||
+| Taux de rendement interne | 3,24% |||
+| Enrichissement | 2 186,91 € |||
+| Assiette fiscale | 2 186,91 € |||
 
 
 Du fait de la décote à l'acquisition une comptabilité de caisse ne pose pas
@@ -239,7 +239,7 @@ le capital restant dû (au taux de rendement interne) et dont le solde a lieu au
 
 Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
 
-Cette obligation crée au début des années 2000 s'échange systématiquement
+Cette obligation créée au début des années 2000 s'échange systématiquement
 au dessus du pair depuis de nombreuses années, y compris lors des
 adjudications ayant eu lieu ultérieuement par l'Agence France Trésor.
 
