@@ -169,7 +169,7 @@ les organismes déclarateurs et collecteurs (c'est-à-dire les courtiers) sont
 tenus d'appliquer une comptabilité stricte de caisse. Ainsi, chaque coupon
 de l'obligation sera considéré en sa totalité comme du revenu. Pour ce qui
 est du remboursement final il sera déduit le prix d'acquisition moyen
-pondéré (incluant le coupon couru) afin déterminer la prime de remboursement.
+pondéré (incluant le coupon couru) afin de déterminer la prime de remboursement.
 
 Le reste de la note sera consacré à expliquer pourquoi cette assimilation de
 l'entièreté du coupon à du revenu conduit à un problème de cohérence entre
@@ -240,8 +240,9 @@ le capital restant dû (au taux de rendement interne) et dont le solde a lieu au
 Instrument : [OAT 5,75 % 25 octobre 2032](https://www.aft.gouv.fr/fr/titre/fr0000187635)
 
 Cette obligation créée au début des années 2000 s'échange systématiquement
-au dessus du pair depuis de nombreuses années, y compris lors des
-adjudications ayant eu lieu ultérieuement par l'Agence France Trésor.
+au dessus du pair depuis de nombreuses années, y compris sur le marché
+primaire lors des adjudications ayant eu lieu ultérieuement par l'Agence
+France Trésor.
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
@@ -651,13 +652,12 @@ qui est intérêts vs retour de capital, pour chaque flux élementaire du
 contrat.
 
 Ainsi, pour ces obligations comportant une prime d'émission, la doctrine se
-retrouve à implémenter une taxe sur cette prime. Cette situation est
-explicitement reconnue par le §380 du bulletin BOI-RPPM-RCM-20-10-20-20 qui
-qualifie cette prime de perte au remboursement et en ne disposant d'aucun
-moyen de récupérer cette perte. L'analyse que la contrepartie de cette perte
-se retrouve dans les coupons est économiquement juste, mais ne peut
-justifier par elle-même la levée d'une nouvelle taxe sans support du code
-général des impôts.
+retrouve à implémenter une taxe sur cette prime. Le §380 du bulletin
+BOI-RPPM-RCM-20-10-20-20 reconnait explicitement la perte au remboursement
+et dispose qu'elle n'est pas récupérable. L'analyse que la contrepartie de
+cette perte se retrouve dans les coupons est économiquement juste, mais ne
+peut justifier par elle-même la levée d'une nouvelle taxe sans support du
+CGI.
 
 La situation est encore pire avec une obligation amortissable, l'État
 français n'en émet pas mais c'est un mode typique de financement pour les
@@ -710,7 +710,7 @@ uniquement à visée fiscale et ce pour les raisons suivantes :
   avantageant les obligations liquides, ce qui constitue un problème de
   neutralité fiscale;
 - il s'agit d'un détournement sans raison économique de cette passerelle
-  prévue pour les aléas de marché afin de palier à une situation pourtant
+  prévue pour les aléas de marché afin de pallier à une situation pourtant
   prévisible dès le départ, ce faisant elle expose le contribuable à un risque
   de qualification d'abus de droit;
 - et globalement pose un problème de cohérence car elle nécéssite que le
@@ -764,18 +764,17 @@ Néanmoins par simplification la doctrine considère dans le cas
 des personnes physiques l'entièreté des coupons comme un revenu au plan
 fiscal et ce faisant commet une erreur de qualification du revenu. Cela
 provoque un différentiel notable entre revenu fiscal et revenu économique
-dans le cas d'une acquisition du contrat au-dessus du pair sur le marché
-secondaire.
+dans le cas d'une acquisition du contrat au-dessus du pair.
 
 Cette situation est reconnue par les points 380 et 390 du bulletin BOI-RPPM-RCM-20-10-20-20,
 qui proposent une solution ad hoc de compensation du dernier coupon pour
-adoucir la situation d'une prime de remboursement négative. Cette solution
-est insuffisante et ne permet pas d'éviter des différentiels d'assiette très
-importants, dépassant ce qu'on peut raisonnablement attendre d'une
-simplification pour des raisons de gestion administrative. Notamment cela
-conduit à taxer très différemment les produits d'instruments considérés
-pourtant équivalents du point de vue actuariel (taux de rendement interne
-similaire, enrichissement net similaire).
+adoucir la situation de perte au remboursement. Cette solution est insuffisante
+et ne permet pas d'éviter des différentiels d'assiette très importants,
+dépassant ce qu'on peut raisonnablement attendre d'une simplification pour
+des raisons de gestion administrative. Notamment cela conduit à taxer très
+différemment les produits d'instruments considérés pourtant équivalents du
+point de vue actuariel (taux de rendement interne similaire, enrichissement
+net similaire).
 
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
 cas d'une obligation achetée avec surcote et gardée à maturité. Cependant, en
