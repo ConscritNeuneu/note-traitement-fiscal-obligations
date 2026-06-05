@@ -514,11 +514,15 @@ Et enfin nous obtenons la part d'amortissement :
 
 #### Obligation en surcote
 
-L'obligation en surcote se traduit mathématiquement par un taux de rendement
-interne inférieur au coupon : `t < C`. Dans ces conditions la part de capital
-rendue `Ak` est généralement positive. Dit autrement la perte constatée au
-remboursement (car le prix payé `P` est supérieur au pair) correspond en
-fait à un retour économique de capital en cours de route via les coupons.
+Une obligation en surcote contient une prime d'émission: elle correspond au
+surcoût qu'un acquéreur doit débourser afin d'acquérir le contrat, et qui
+n'est pas récupérée au remboursement final.
+
+Cette surcote se traduit mathématiquement par un taux actuariel inférieur au
+coupon : `t < C`. Dans ces conditions la part de capital rendue `Ak` est
+généralement positive. Dit autrement la perte constatée au remboursement
+(car le prix payé `P` est supérieur au pair) correspond en fait à un retour
+économique de capital en cours de route via les coupons.
 
 Une autre façon de le voir est que si les coupons étaient strictement du
 revenu, le récipiendaire pourrait les consommer sans toucher au capital. Or
@@ -724,7 +728,7 @@ uniquement à visée fiscale et ce pour les raisons suivantes :
 Les particuliers ne sont qu'une fraction infime des acheteurs de la dette
 d'état en direct. Néammoins on pourra noter les points suivants:
 
-- les obligations au dessus du pair sont un effet naturel et la contrepartie
+- les primes d'émission de certaines obligations sont un effet naturel et la contrepartie
   de l'absence de call option. Elles apparaîssent lors de baisse de taux; La
   réouverture de souches au dessus du pair fait partie de la gestion normale
   de la dette;
