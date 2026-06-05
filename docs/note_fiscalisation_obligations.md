@@ -679,7 +679,7 @@ identifiable comme un remboursement de capital.
 Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
 il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
 fiscal et revenu économique en fonction des paramètres internes des
-instruments d'un même émetteur au revenu économique rendement interne et
+instruments d'un même émetteur au revenu économique, rendement interne et
 maturités similaires.
 
 Dans le cas d'espèce, l'exemple cité plus haut ayant une inflation de
