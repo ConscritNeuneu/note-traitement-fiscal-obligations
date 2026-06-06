@@ -23,7 +23,7 @@ obligation, même s'il y a quelques différences sur l'effet.
 On choisira un fonds à échéance pour répliquer l'effet ballon d'une
 obligation.
 
-Les fonds distribuants permettent de récupérer les coupons, néanmmoins cela
+Enfin les fonds distribuants permettent de récupérer les coupons, néanmmoins cela
 produit les mêmes effets que la comptabilité de caisse si le coupon moyen
 est au dessus du yield.
 
@@ -46,7 +46,7 @@ extrêmement différente.
 Notre analyse revient à dire que la doctrine, sans le dire explicitement,
 dispose d'une logique de caisse en considérant comme revenu l'entièreté des
 coupons tout au long de la vie de l'obligation. Ce faisant elle lève une
-nouvelle taxe, qui plus est sur ce qui économiquement est une charge, sur la
+nouvelle taxe, qui plus est sur ce qui est économiquement une charge : la
 prime d'émission. Cette taxe n'est évidemment pas disposée par le CGI.
 
 Reconnaissant à demi mot le problème la seule solution qu'elle propose pour
