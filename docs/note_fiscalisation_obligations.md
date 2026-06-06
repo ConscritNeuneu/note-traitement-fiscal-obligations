@@ -678,6 +678,12 @@ remboursement n'est que la conséquence de la logique de caisse qui ne permet
 pas d'amortir au fur et à mesure la charge de la prime d'émission et
 repousse l'entièreté de cette charge à la fin.
 
+Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
+prime d'émission, tout en reconnaissant qu'elle trouve sa contrepartie
+dans les coupons, la doctrine commet une *erreur de qualification* de ces
+coupons en les déclarant intérêts (donc revenus) alors qu'une fraction est
+identifiable comme l'amortissement au fur et à mesure de la prime d'émission.
+
 Cette qualification de charge n'est d'ailleurs pas étrangère à la doctrine
 elle-même : le §380, qui concerne également les personnes morales, prescrit
 précisément de traiter la prime d'émission comme une charge et de l'amortir.
@@ -685,12 +691,6 @@ La doctrine dispose donc de la qualification correcte et de sa conséquence
 opérationnelle : elle les applique aux personnes morales et les refuse aux
 particuliers, sans que la nature économique de la charge ne diffère selon la
 qualité du détenteur.
-
-Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
-prime d'émission, tout en reconnaissant qu'elle trouve sa contrepartie
-dans les coupons, la doctrine commet une *erreur de qualification* de ces
-coupons en les déclarant intérêts (donc revenus) alors qu'une fraction est
-identifiable comme l'amortissement au fur et à mesure de la prime d'émission.
 
 Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
 il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
