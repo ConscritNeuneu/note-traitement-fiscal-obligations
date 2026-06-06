@@ -14,50 +14,50 @@ détermination de l'assiette imposable des produits d'une obligation
 assimilable du Trésor acquise au-dessus du pair et conservée jusqu'à
 maturité.
 
-## Présentation de la situation de fait
+## Présentation de la situation
 
 J'envisage l'acquisition, sur le marché secondaire via un intermédiaire
 financier établi hors de France, d'obligations assimilables du Trésor
 portant le taux de coupon de 5,75 % et échéant le 25 octobre 2032
 (ISIN FR0000187635).
 
-Au cours constaté le 23 avril 2026 (114,45 % du pair), les paramètres de
-l'opération envisagée seraient les suivants :
+Au cours de clôture du 05 juin 2026 sur le MOT (113,88 % du pair), les
+paramètres de l'opération envisagée seraient les suivants :
 
 | Caractéristique | Valeur |
 | --------------- | ------ |
 | Nominal unitaire | 1 € |
-| Quantité | 8 507 |
-| Cours d'acquisition | 114,45 % du pair |
-| Prix brut | 9 736,26 € |
-| Coupon couru réglé | 243,91 € |
-| Frais d'acquisition | 19,47 € |
-| Coût total d'acquisition | 9 999,64 € |
-| Coupon annuel | 489,15 € |
+| Quantité | 8 497 |
+| Cours d'acquisition | 113,88 % du pair |
+| Prix brut | 9 676,38 € |
+| Coupon couru réglé | 303,86 € |
+| Frais de courtage | 19,35 € |
+| Coût total d'acquisition | 9 999,59 € |
+| Coupon annuel | 488,58 € |
 
 L'obligation serait conservée jusqu'à son remboursement au pair le
 25 octobre 2032.
 
 ## Constatation
 
-Le coût total d'acquisition (9 999,64 €) excède le montant du remboursement
-au pair (8 507,00 €) de 1 492,64 €.
+Le coût total d'acquisition (9 999,59 €) excède le montant du remboursement
+au pair (8 497 €) de 1 502,59 €.
 
 Cette différence, que je qualifierai de *prime d'émission*, est une charge
 d'acquisition connue et déterminable dès l'achat. Elle n'est pas un aléa de
 marché. Elle résulte mécaniquement du fait que le taux de coupon de
 l'instrument (5,75 %) est supérieur au taux de rendement exigé par le
-marché au moment de l'acquisition (environ 3,20 %).
+marché au moment de l'acquisition (environ 3,25 %).
 
 Sur la durée de détention, l'ensemble des flux positifs de l'opération se
 décompose comme suit :
 
-- sept coupons annuels de 489,15 €, soit 3 424,05 € ;
-- un remboursement au pair de 8 507,00 €.
+- sept coupons annuels de 488,58 €, soit 3 420,06 € ;
+- un remboursement au pair de 8 497,00 €.
 
-Le total des encaissements s'établit à 11 931,05 €, pour un décaissement
-initial de 9 999,64 €. L'enrichissement économique de l'opération est donc
-de 1 931,41 €.
+Le total des encaissements s'établit à 11 917,06 €, pour un décaissement
+initial de 9 999,59 €. L'enrichissement économique de l'opération est donc
+de 1 917,47 €.
 
 ## Difficulté rencontrée
 
@@ -66,22 +66,22 @@ bulletin BOI-RPPM-RCM-20-10-20-20 et du bulletin BOI-RPPM-RCM-30-20-30,
 chaque coupon serait intégralement rapporté à l'assiette des produits de
 placement à revenu fixe au titre de l'année de sa perception.
 
-L'assiette imposable cumulée au titre des coupons s'élèverait à 3 424,05 €.
+L'assiette imposable cumulée au titre des coupons s'élèverait à 3 420,06 €.
 
-Or l'enrichissement économique de l'opération n'est que de 1 931,41 €.
+Or l'enrichissement économique de l'opération n'est que de 1 917,47 €.
 
-La différence de 1 492,64 € entre l'assiette cumulée et l'enrichissement
+La différence de 1 502,59 € entre l'assiette cumulée et l'enrichissement
 correspond exactement à la prime d'émission, c'est-à-dire au surcoût payé à
 l'acquisition et non restitué au remboursement.
 
 Le §390 du bulletin BOI-RPPM-RCM-20-10-20-20 prévoit, à titre de tolérance,
 que la charge constatée au remboursement peut être compensée avec le dernier
 coupon. Cette compensation est toutefois insuffisante : elle est plafonnée
-au montant du dernier coupon (489,15 €), alors que la prime d'émission
-s'élève à 1 492,64 €.
+au montant du dernier coupon (488,58 €), alors que la prime d'émission
+s'élève à 1 502,59 €.
 
 L'assiette imposable résiduelle après compensation serait donc de
-2 934,90 €, soit environ 52 % de plus que l'enrichissement économique réel
+2 931,77 €, soit environ 53 % de plus que l'enrichissement économique réel
 de l'opération.
 
 ## Question posée
@@ -131,3 +131,7 @@ l'obligation selon la méthode actuarielle.
 
 Je vous prie d'agréer, Monsieur le Directeur, l'expression de ma
 considération distinguée.
+
+## Annexe
+
+Tableau d'amortissement de la prime d'émission selon la méthode actuarielle
