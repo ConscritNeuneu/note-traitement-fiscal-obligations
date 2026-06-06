@@ -685,7 +685,7 @@ coupons en les déclarant intérêts (donc revenus) alors qu'une fraction est
 identifiable comme l'amortissement au fur et à mesure de la prime d'émission.
 
 Cette considération n'est d'ailleurs pas étrangère à la doctrine elle-même :
-le §380, qui concerne également les personnes morales, prescrit précisément
+le §380, qui concerne également les personnes morales, prescrit en filigrane
 de traiter la prime d'émission comme une charge et de l'amortir. La
 doctrine dispose donc de la qualification correcte et de sa conséquence
 opérationnelle : elle l'applique aux personnes morales et la refuse aux
