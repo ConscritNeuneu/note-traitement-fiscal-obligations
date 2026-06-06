@@ -8,5 +8,6 @@ On trouvera notamment les documents suivants:
 - [Note sur la fiscalisation des obligations](note_fiscalisation_obligations.md)
 - [Tableau d'amortissement de l'obligation en surcote](annexe_tableau_amortissement.md)
 - [Moyens d'action](moyens_action.md)
+- [Projet de rescrit](projet_rescrit.md)
 
 <!-- L'ensemble de la note est aussi disponible [sous forme de PDF](). -->
