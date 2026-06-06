@@ -76,10 +76,9 @@ l'acquisition et non restitué au remboursement.
 
 Le §390 du bulletin BOI-RPPM-RCM-20-10-20-20 prévoit, à titre de tolérance,
 que la charge constatée au remboursement peut être compensée avec le dernier
-coupon. Cette
-compensation est toutefois insuffisante : elle est plafonnée au montant du
-dernier coupon (489,15 €), alors que la prime d'émission s'élève à
-1 492,64 €.
+coupon. Cette compensation est toutefois insuffisante : elle est plafonnée
+au montant du dernier coupon (489,15 €), alors que la prime d'émission
+s'élève à 1 492,64 €.
 
 L'assiette imposable résiduelle après compensation serait donc de
 2 934,90 €, soit environ 52 % de plus que l'enrichissement économique réel
@@ -89,8 +88,8 @@ de l'opération.
 
 Les articles 118 et 119 du code général des impôts désignent comme
 imposables les intérêts, arrérages et produits des obligations, ainsi que
-les primes de remboursement. La prime d'émission — charge d'acquisition
-connue et prévisible, non restituée au remboursement — ne figure pas dans
+les primes de remboursement. La prime d'émission, charge d'acquisition
+connue, prévisible et non restituée au remboursement, ne figure pas dans
 cette énumération.
 
 Je souhaite par conséquent connaître la position de l'administration sur
@@ -124,7 +123,7 @@ dans certaines situations pour les personnes morales aux articles 238
 septies A à E, s'agissant du traitement des primes de remboursement.
 
 L'intermédiaire financier étant établi hors de France, la déclaration des
-produits est effectuée par mes soins sur la déclaration de revenus. Il n'y a
+produits sera effectuée par mes soins sur la déclaration de revenus. Il n'y a
 donc pas d'obstacle opérationnel à l'application de la méthode proposée.
 
 Je tiens à votre disposition un tableau d'amortissement détaillé de
