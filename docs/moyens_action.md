@@ -43,11 +43,12 @@ extrêmement différente.
 
 ## Rescrit, contentieux et déclaration
 
-Notre analyse revient à dire que la doctrine, sans le dire explicitement,
-dispose d'une logique de caisse en considérant comme revenu l'entièreté des
-coupons tout au long de la vie de l'obligation. Ce faisant elle lève une
-nouvelle taxe, qui plus est sur ce qui est économiquement une charge : la
-prime d'émission. Cette taxe n'est évidemment pas disposée par le CGI.
+Pour les particuliers, notre analyse revient à dire que la doctrine, sans le
+dire explicitement, dispose d'une logique de caisse en considérant comme
+revenu l'entièreté des coupons tout au long de la vie de l'obligation. Ce
+faisant elle lève une nouvelle taxe, qui plus est sur ce qui est
+économiquement une charge : la prime d'émission. Cette taxe n'est évidemment
+pas disposée par le CGI.
 
 Reconnaissant à demi mot le problème la seule solution qu'elle propose pour
 l'éviter est de compenser le remboursement et le dernier coupon. En effet
