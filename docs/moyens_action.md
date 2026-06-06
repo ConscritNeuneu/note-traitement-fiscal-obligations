@@ -23,7 +23,7 @@ obligation, même s'il y a quelques différences sur l'effet.
 On choisira un fonds à échéance pour répliquer l'effet ballon d'une
 obligation.
 
-Les fonds distribuants permettent de récupérer les coupons, néammoins cela
+Les fonds distribuants permettent de récupérer les coupons, néanmmoins cela
 produit les mêmes effets que la comptabilité de caisse si le coupon moyen
 est au dessus du yield.
 
@@ -36,19 +36,46 @@ remboursement au sens des articles 118 et 119 du CGI.
 
 Cette stratégie n'est accessible que pour des tickets d'entrée élevés et ne
 permet pas le lissage du taux de rendement observé avec un seul instrument
-obligataire. Elle est néammoins intéressante comme contrefactuel théorique
+obligataire. Elle est néanmoins intéressante comme contrefactuel théorique
 car elle permet de reproduire strictement les flux monétaires de
 l'obligation non démembrée tout en réalisant une assiette fiscale
 extrêmement différente.
 
 ## Rescrit, contentieux et déclaration
 
-Il serait utile de demander un rescrit auprès de l'administation fiscale
-afin de lui faire préciser ce qu'elle considère comme étant des « intérêts
-», notamment dans le cas spécifique de l'obligation servant un coupon de
-plus de 5% et échangée au dessus du pair.
+Notre analyse revient à dire que la doctrine, sans le dire explicitement,
+dispose d'une logique de caisse en considérant comme revenu l'entièreté des
+coupons tout au long de la vie de l'obligation. Ce faisant elle lève une
+nouvelle taxe, qui plus est sur ce qui économiquement est une charge, sur la
+prime d'émission. Cette taxe n'est évidemment pas disposée par le CGI.
 
-Même si la réponse revenait positive, l'organisation actuelle du
+Reconnaissant à demi mot le problème la seule solution qu'elle propose pour
+l'éviter est de compenser le remboursement et le dernier coupon. En effet
+tout le mécanisme déclaratif des produits de placement à revenu fixe ne
+permet pas d'inscrire un nombre négatif. C'est bien le refus de considérer
+ce nombre négatif qui consiste à lever la nouvelle taxe.
+
+Si le contribuable affecté a suffisamment de revenus dans cette catégorie
+l'année en question, une interprétation libérale du §390 du bulletin
+BOI-RPPM-RCM-20-10-20-20 consistant à compenser la charge avec les autres
+revenus, surtout en cas de déclaration manuelle, a toutes les chances de ne pas
+être contesté par l'administration tant la position doctrinale est faible.
+
+S'il n'y a pas assez de revenus, le plus simple sera d'inscrire la perte
+dans le régime des plus et moins values mobilière. Il faudra alors
+absolument mettre une mention expresse.
+
+Ces solutions sont inélégantes et comme indiqué dans le corps principal de
+la note, le régime des produits des placements à revenu fixe devrait être
+autoporteur sans avoir à utiliser les passerelles prévues pour les aléas de
+marché.
+
+Ainsi, il serait utile de demander à l'administration via un rescrit comment
+elle entend éviter la levée de la taxe sur la prime d'émission, par exemple
+en cas d'investissement sur l'OAT 5,75%.
+
+L'idéal serait de pouvoir amortir la prime d'émission sur les coupons, soit
+linéairement, soit actuarialement. Néanmoins l'organisation actuelle du
 recouvrement via le 125 A du CGI obligerait le contribuable à corriger sa
 déclaration, et ouvrir une réclamation pour récupérer les prélèvements
 sociaux déjà soldés par le courtier. Ainsi il est fort probable que ces
@@ -56,17 +83,7 @@ considérations poussent l'administration à s'en tenir à une comptabilité de
 caisse ne serait-ce que pour limiter la charge adminstrative.
 
 La seule solution serait donc d'ouvrir une procédure contentieuse. Le débat
-se centrera autour de la latitude laissée à l'administration par le CGI sur
-la définition de ce qu'est un revenu.
-
-Il est possible qu'un contribuable utilisant un courtier étranger et
-auto-liquidant le prélèvement via le formulaire 2778-SD dans les temps voie
-sa déclaration acceptée silencieusement, surtout en cas d'enjeu faible. Cela
-ne règle cependant pas la question de la définition du revenu dans le cas
-d'espèce.
-
-Dans ce cas il est fortement recommandé d'insérer une réserve
-d'interprétation lors du dépôt de la déclaration 2042.
+se centrera sur la taxation de fait d'une charge d'investissement.
 
 ## Modernisation doctrinale
 
@@ -92,17 +109,3 @@ coupon.
 Cette solution reste compatible avec notre lecture du CGI, qui dans sa
 rédaction actuelle laisse le soin à l'administration de produire une
 définition opérationnelle du revenu.
-
-### Opérations en devises et risque de change
-
-Pour le cas des obligations en devises s'ajoute un risque de change qui se
-traduit par un gain ou une perte qui vient s'additionner au revenus des coupons
-et de la prime de remboursement. La méthode actuarielle doit être effectuée
-en euros dès le départ, conformément au fait que les revenus s'entendent en
-euros.
-
-Lors du versement des coupons on devra affecter l'entièreté des gains ou
-des pertes de change sur la fraction des intérêts du coupon afin de ne
-solder que le strict retour de capital en euros. En sortie, avec l'hypothèse
-de variations limités de change, ce sera bien l'enrichissement net qui aura
-été inclus dans l'assiette imposable.

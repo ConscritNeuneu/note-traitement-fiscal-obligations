@@ -516,11 +516,12 @@ Et enfin nous obtenons la part d'amortissement :
 
 Une obligation en surcote contient une prime d'émission : elle correspond au
 surcoût qu'un acquéreur doit débourser afin d'acquérir le contrat, et qui
-n'est pas récupérée au remboursement final.
+n'est pas récupérée au remboursement final: la prime d'émission est
+économiquement une *charge* liée à l'investissement.
 
 Cette surcote se traduit mathématiquement par un taux actuariel inférieur au
 coupon : `t < C`. Dans ces conditions la part de capital rendue `Ak` est
-généralement positive. Dit autrement la perte constatée au remboursement
+généralement positive. Dit autrement la charge constatée au remboursement
 (car le prix payé `P` est supérieur au pair) correspond en fait à un retour
 économique de capital en cours de route via les coupons.
 
@@ -596,8 +597,8 @@ BOI-RPPM-RCM-20-10-20-20 opère un probable glissement entre coupons d'une
 obligation et intérêt, sans toutefois jamais le dire explicitement : le bulletin
 ne contient aucune occurence du mot coupon, alors que ce terme est d'usage
 en finance. La doctrine se contente de parler d'intérêts et de produits. On
-pourra notamment relever le §380 traitant le cas de la perte au
-remboursement où l'assimilation entre coupons et intérêts apparaît le plus
+pourra notamment relever le §380 traitant le cas de la « perte au
+remboursement » où l'assimilation entre coupons et intérêts apparaît le plus
 clairement.
 
 Une fois réalisé ce glissement, le recouvrement pour les particuliers,
@@ -663,6 +664,13 @@ cette perte se retrouve dans les coupons est économiquement juste, mais ne
 peut justifier par elle-même la levée d'une nouvelle taxe sans support du
 CGI.
 
+Il est de notre avis que la doctrine commet aussi une erreur de qualification,
+une perte est un événement aléatoire alors qu'il s'agit ici d'une charge,
+connue et prévisible dès le départ. Le nombre négatif qui apparaît au
+remboursement n'est que la conséquence de la logique de caisse qui ne permet
+pas d'amortir au fur et à mesure la charge de la prime d'émission et
+repousse l'entièreté de cette charge à la fin.
+
 La situation est encore pire avec une obligation amortissable, l'État
 français n'en émet pas mais c'est un mode typique de financement pour les
 infrastructures. Dans ces conditions l'ensemble du contrat est prévu pour
@@ -671,10 +679,10 @@ s'amortir en cours de vie, il n'y a pas de ballon. La simplification conduirait
 la mise de départ comme s'il s'agissait de revenu.
 
 Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
-perte au remboursement, tout en reconnaissant qu'elle trouve sa contrepartie
+prime d'émission, tout en reconnaissant qu'elle trouve sa contrepartie
 dans les coupons, la doctrine commet une *erreur de qualification* de ces
 coupons en les déclarant intérêts (donc revenus) alors qu'une fraction est
-identifiable comme un remboursement de capital.
+identifiable comme l'amortissement au fur et à mesure de la prime d'émission.
 
 Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
 il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
@@ -772,7 +780,7 @@ dans le cas d'une acquisition du contrat au-dessus du pair.
 
 Cette situation est reconnue par les points 380 et 390 du bulletin BOI-RPPM-RCM-20-10-20-20,
 qui proposent une solution ad hoc de compensation du dernier coupon pour
-adoucir la situation de perte au remboursement. Cette solution est insuffisante
+adoucir la situation de « perte au remboursement ». Cette solution est insuffisante
 et ne permet pas d'éviter des différentiels d'assiette très importants,
 dépassant ce qu'on peut raisonnablement attendre d'une simplification pour
 des raisons de gestion administrative. Notamment cela conduit à taxer très
@@ -781,14 +789,16 @@ point de vue actuariel (taux de rendement interne similaire, enrichissement
 net similaire).
 
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
-cas d'une obligation achetée avec surcote et gardée à maturité. Cependant, en
-refusant de proposer un mécanisme permettant d'aligner revenu fiscal et
-revenu économique, la doctrine s'est retrouvée lever une imposition sur la
-prime d'émission que le CGI ne dispose pas. Le §380 reconnaît que la perte
-au remboursement trouve sa contrepartie dans les coupons, ce qui justifie
-l'absence de compensation, mais cette analyse produit incidemment une
-taxation de la prime d'émission sans support légal, compétence exclusive du
-législateur.
+cas d'une obligation achetée avec surcote et gardée à maturité. Cependant,
+en refusant d'aligner revenu fiscal et revenu économique, la doctrine s'est
+retrouvée lever une imposition sur une charge en la forme de la prime
+d'émission, que le CGI ne dispose pas et ne pourrait pas disposer sans
+redéfinir la notion même de revenu au sens des articles 12 et 13. Le §380
+reconnaît le problème et justifie que cette « perte au remboursement »
+trouve sa contrepartie dans les coupons, d'où l'absence de compensation,
+mais cette analyse contrevient à la logique de caisse (puisqu'elle
+revient à amortir la prime) et produit incidemment une taxation de la prime
+d'émission sans support légal, compétence exclusive du législateur.
 
 Enfin, cette situation incite à des comportements non économiques pour des
 raisons fiscales : revente en fin de remboursement afin de générer une moins-value
