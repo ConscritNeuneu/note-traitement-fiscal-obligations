@@ -656,9 +656,16 @@ bien séparer, du point de vue du contribuable détenteur de l'obligation, ce
 qui est intérêts vs retour de capital, pour chaque flux élementaire du
 contrat.
 
+La situation est encore pire avec une obligation amortissable, l'État
+français n'en émet pas mais c'est un mode typique de financement pour les
+infrastructures. Dans ces conditions l'ensemble du contrat est prévu pour
+s'amortir en cours de vie, il n'y a pas de ballon. La simplification conduirait
+à identifier l'entièreté des flux comme des intérêts et donc taxer aussi
+la mise de départ comme s'il s'agissait de revenu.
+
 Ainsi, pour ces obligations comportant une prime d'émission, la doctrine se
 retrouve à implémenter une taxe sur cette prime. Le §380 du bulletin
-BOI-RPPM-RCM-20-10-20-20 reconnait explicitement la perte au remboursement
+BOI-RPPM-RCM-20-10-20-20 reconnait explicitement la « perte au remboursement »
 et dispose qu'elle n'est pas récupérable. L'analyse que la contrepartie de
 cette perte se retrouve dans les coupons est économiquement juste, mais ne
 peut justifier par elle-même la levée d'une nouvelle taxe sans support du
@@ -671,12 +678,13 @@ remboursement n'est que la conséquence de la logique de caisse qui ne permet
 pas d'amortir au fur et à mesure la charge de la prime d'émission et
 repousse l'entièreté de cette charge à la fin.
 
-La situation est encore pire avec une obligation amortissable, l'État
-français n'en émet pas mais c'est un mode typique de financement pour les
-infrastructures. Dans ces conditions l'ensemble du contrat est prévu pour
-s'amortir en cours de vie, il n'y a pas de ballon. La simplification conduirait
-à identifier l'entièreté des flux comme des intérêts et donc taxer aussi
-la mise de départ comme s'il s'agissait de revenu.
+Cette qualification de charge n'est d'ailleurs pas étrangère à la doctrine
+elle-même : le §380, qui concerne également les personnes morales, prescrit
+précisément de traiter la prime d'émission comme une charge et de l'amortir.
+La doctrine dispose donc de la qualification correcte et de sa conséquence
+opérationnelle : elle les applique aux personnes morales et les refuse aux
+particuliers, sans que la nature économique de la charge ne diffère selon la
+qualité du détenteur.
 
 Dès lors, il est raisonnable de penser qu'en interdisant de tenir compte de la
 prime d'émission, tout en reconnaissant qu'elle trouve sa contrepartie
@@ -791,7 +799,7 @@ net similaire).
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
 cas d'une obligation achetée avec surcote et gardée à maturité. Cependant,
 en refusant d'aligner revenu fiscal et revenu économique, la doctrine s'est
-retrouvée lever une imposition sur une charge en la forme de la prime
+retrouvée lever une *imposition sur une charge* en la forme de la prime
 d'émission, que le CGI ne dispose pas et ne pourrait pas disposer sans
 redéfinir la notion même de revenu au sens des articles 12 et 13. Le §380
 reconnaît le problème et justifie que cette « perte au remboursement »
