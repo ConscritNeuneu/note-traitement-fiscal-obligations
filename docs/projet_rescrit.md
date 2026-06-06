@@ -1,0 +1,134 @@
+# Projet de demande de rescrit fiscal
+
+*Demande de prise de position formelle au sens du 1° de l'article L. 80 B
+du livre des procédures fiscales*
+
+---
+
+Monsieur le Directeur,
+
+## Objet
+
+Demande de prise de position formelle relative aux modalités de
+détermination de l'assiette imposable des produits d'une obligation
+assimilable du Trésor acquise au-dessus du pair et conservée jusqu'à
+maturité.
+
+## Présentation de la situation de fait
+
+J'envisage l'acquisition, sur le marché secondaire via un intermédiaire
+financier établi hors de France, d'obligations assimilables du Trésor
+portant le taux de coupon de 5,75 % et échéant le 25 octobre 2032
+(ISIN FR0000187635).
+
+Au cours constaté le 23 avril 2026 (114,45 % du pair), les paramètres de
+l'opération envisagée seraient les suivants :
+
+| Caractéristique | Valeur |
+| --------------- | ------ |
+| Nominal unitaire | 1 € |
+| Quantité | 8 507 |
+| Cours d'acquisition | 114,45 % du pair |
+| Prix brut | 9 736,26 € |
+| Coupon couru réglé | 243,91 € |
+| Frais d'acquisition | 19,47 € |
+| Coût total d'acquisition | 9 999,64 € |
+| Coupon annuel | 489,15 € |
+
+L'obligation serait conservée jusqu'à son remboursement au pair le
+25 octobre 2032.
+
+## Constatation
+
+Le coût total d'acquisition (9 999,64 €) excède le montant du remboursement
+au pair (8 507,00 €) de 1 492,64 €.
+
+Cette différence, que je qualifierai de *prime d'émission*, est une charge
+d'acquisition connue et déterminable dès l'achat. Elle n'est pas un aléa de
+marché. Elle résulte mécaniquement du fait que le taux de coupon de
+l'instrument (5,75 %) est supérieur au taux de rendement exigé par le
+marché au moment de l'acquisition (environ 3,20 %).
+
+Sur la durée de détention, l'ensemble des flux positifs de l'opération se
+décompose comme suit :
+
+- sept coupons annuels de 489,15 €, soit 3 424,05 € ;
+- un remboursement au pair de 8 507,00 €.
+
+Le total des encaissements s'établit à 11 931,05 €, pour un décaissement
+initial de 9 999,64 €. L'enrichissement économique de l'opération est donc
+de 1 931,41 €.
+
+## Difficulté rencontrée
+
+En application de la doctrine telle que je la comprends, et notamment du
+bulletin BOI-RPPM-RCM-20-10-20-20 et du bulletin BOI-RPPM-RCM-30-20-30,
+chaque coupon serait intégralement rapporté à l'assiette des produits de
+placement à revenu fixe au titre de l'année de sa perception.
+
+L'assiette imposable cumulée au titre des coupons s'élèverait à 3 424,05 €.
+
+Or l'enrichissement économique de l'opération n'est que de 1 931,41 €.
+
+La différence de 1 492,64 € entre l'assiette cumulée et l'enrichissement
+correspond exactement à la prime d'émission, c'est-à-dire au surcoût payé à
+l'acquisition et non restitué au remboursement.
+
+Le §390 du bulletin BOI-RPPM-RCM-20-10-20-20 prévoit, à titre de tolérance,
+que la charge constatée au remboursement peut être compensée avec le dernier
+coupon. Cette
+compensation est toutefois insuffisante : elle est plafonnée au montant du
+dernier coupon (489,15 €), alors que la prime d'émission s'élève à
+1 492,64 €.
+
+L'assiette imposable résiduelle après compensation serait donc de
+2 934,90 €, soit environ 52 % de plus que l'enrichissement économique réel
+de l'opération.
+
+## Question posée
+
+Les articles 118 et 119 du code général des impôts désignent comme
+imposables les intérêts, arrérages et produits des obligations, ainsi que
+les primes de remboursement. La prime d'émission — charge d'acquisition
+connue et prévisible, non restituée au remboursement — ne figure pas dans
+cette énumération.
+
+Je souhaite par conséquent connaître la position de l'administration sur
+les deux points suivants :
+
+**1. Sur quel fondement légal la prime d'émission se trouve-t-elle comprise
+dans l'assiette imposable au titre des produits de placement à revenu
+fixe ?**
+
+**2. Selon quelles modalités puis-je obtenir la déduction de cette prime
+d'émission, le cas échéant par voie d'amortissement sur la durée de vie
+résiduelle de l'obligation selon la méthode actuarielle, de sorte que
+l'assiette imposable corresponde à mon enrichissement économique ?**
+
+À titre indicatif, l'amortissement actuariel de la prime d'émission au taux
+de rendement interne constaté à l'acquisition conduirait à déclarer
+annuellement la seule part d'intérêts de chaque coupon (comprise entre
+environ 280 € et 310 € selon les annuités), pour un total cumulé égal à
+l'enrichissement économique de l'opération.
+
+## Éléments complémentaires
+
+La méthode actuarielle que je propose est d'usage courant en analyse
+financière. Elle est notamment utilisée par l'État lui-même dans sa
+comptabilité générale en droits constatés, ainsi que par l'Agence France
+Trésor qui publie pour chaque adjudication le taux de rendement effectif
+moyen pondéré, distinct du taux de coupon.
+
+Elle est par ailleurs connue du code général des impôts, qui la prévoit
+dans certaines situations pour les personnes morales aux articles 238
+septies A à E, s'agissant du traitement des primes de remboursement.
+
+L'intermédiaire financier étant établi hors de France, la déclaration des
+produits est effectuée par mes soins sur la déclaration de revenus. Il n'y a
+donc pas d'obstacle opérationnel à l'application de la méthode proposée.
+
+Je tiens à votre disposition un tableau d'amortissement détaillé de
+l'obligation selon la méthode actuarielle.
+
+Je vous prie d'agréer, Monsieur le Directeur, l'expression de ma
+considération distinguée.
