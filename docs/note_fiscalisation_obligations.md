@@ -555,7 +555,7 @@ d'intérêts.
 
 Cette méthode actuarielle n'est pas la seule méthode possible pour ventiler
 la part des intérêts d'un crédit, mais elle est pertinente comme outil d'analyse
-pour au moins trois raisons :
+pour au moins quatre raisons :
 
 - elle permet d'assigner un taux d'intérêt naturel au contrat en
   l'assimilant à un crédit classique ce qui permet d'identifier la part
