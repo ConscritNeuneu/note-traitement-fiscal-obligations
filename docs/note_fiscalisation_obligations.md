@@ -684,11 +684,11 @@ dans les coupons, la doctrine commet une *erreur de qualification* de ces
 coupons en les déclarant intérêts (donc revenus) alors qu'une fraction est
 identifiable comme l'amortissement au fur et à mesure de la prime d'émission.
 
-Cette qualification de charge n'est d'ailleurs pas étrangère à la doctrine
-elle-même : le §380, qui concerne également les personnes morales, prescrit
-précisément de traiter la prime d'émission comme une charge et de l'amortir.
-La doctrine dispose donc de la qualification correcte et de sa conséquence
-opérationnelle : elle les applique aux personnes morales et les refuse aux
+Cette considération n'est d'ailleurs pas étrangère à la doctrine elle-même :
+le §380, qui concerne également les personnes morales, prescrit précisément
+de traiter la prime d'émission comme une charge et de l'amortir. La
+doctrine dispose donc de la qualification correcte et de sa conséquence
+opérationnelle : elle l'applique aux personnes morales et la refuse aux
 particuliers, sans que la nature économique de la charge ne diffère selon la
 qualité du détenteur.
 
