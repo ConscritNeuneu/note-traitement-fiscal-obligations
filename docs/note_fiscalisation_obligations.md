@@ -578,7 +578,7 @@ pour au moins trois raisons :
   effectif, reconnaissant ainsi que le taux nominal conventionnel ne
   représente pas le coût économique réel de la dette. L'AFT publie d'ailleurs
   pour chaque instrument le taux moyen effectif de chaque adjudication,
-  distinct du taux nominal (nommé taux d'intérêt nominal dans les arrêtés de
+  distinct du taux de coupon (nommé taux d'intérêt nominal dans les arrêtés de
   création des OAT).
 
 Dans tous les cas, cette analyse permet de montrer que quand on assimile une
