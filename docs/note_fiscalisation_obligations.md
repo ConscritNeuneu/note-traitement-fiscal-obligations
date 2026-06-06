@@ -571,6 +571,15 @@ pour au moins trois raisons :
   personnes morales détentrices d'obligations, les articles 238 septies A à E
   du CGI disposent dans certains cas l'usage de la méthode actuarielle afin
   d'inscrire au bilan les intérêts cachés des primes de remboursement.
+- et enfin, c'est bien cette méthode qui est utilisée par l'État dans
+  ses comptabilités en droits constatés. Si la comptabilité budgétaire
+  enregistre les coupons comme charge par simplicité, la comptabilité générale
+  de l'État et la comptabilité maastrichtienne utilisent le taux d'intérêt
+  effectif, reconnaissant ainsi que le taux nominal conventionnel ne
+  représente pas le coût économique réel de la dette. L'AFT publie d'ailleurs
+  pour chaque instrument le taux moyen effectif de chaque adjudication,
+  distinct du taux nominal (nommé taux d'intérêt nominal dans les arrêtés de
+  création des OAT).
 
 Dans tous les cas, cette analyse permet de montrer que quand on assimile une
 obligation à un contrat de crédit générant des intérêts, dans la logique de
