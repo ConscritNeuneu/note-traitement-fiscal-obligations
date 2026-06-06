@@ -797,13 +797,15 @@ dans le cas d'une acquisition du contrat au-dessus du pair.
 
 Cette situation est reconnue par les points 380 et 390 du bulletin BOI-RPPM-RCM-20-10-20-20,
 qui proposent une solution ad hoc de compensation du dernier coupon pour
-adoucir la situation de « perte au remboursement ». Cette solution est insuffisante
-et ne permet pas d'éviter des différentiels d'assiette très importants,
-dépassant ce qu'on peut raisonnablement attendre d'une simplification pour
-des raisons de gestion administrative. Notamment cela conduit à taxer très
-différemment les produits d'instruments considérés pourtant équivalents du
-point de vue actuariel (taux de rendement interne similaire, enrichissement
-net similaire).
+adoucir la situation de « perte au remboursement ». Cette solution, qui
+opérationnellement sert surtout à régler le problème du coupon couru réglé à
+l'acquisition est nettement insuffisante et ne permet pas d'éviter des
+différentiels d'assiette très importants, dépassant ce qu'on peut
+raisonnablement attendre d'une simplification pour des raisons de gestion
+administrative. Notamment cela conduit à taxer très différemment les
+produits d'instruments considérés pourtant équivalents du point de vue
+actuariel (taux de rendement interne similaire, enrichissement net
+similaire).
 
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
 cas d'une obligation achetée avec surcote et gardée à maturité. Cependant,
