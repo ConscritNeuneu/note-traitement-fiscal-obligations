@@ -100,9 +100,8 @@ dans l'assiette imposable au titre des produits de placement à revenu
 fixe ?**
 
 **2. Selon quelles modalités puis-je obtenir la déduction de cette prime
-d'émission, le cas échéant par voie d'amortissement sur la durée de vie
-résiduelle de l'obligation selon la méthode actuarielle, de sorte que
-l'assiette imposable corresponde à mon enrichissement économique ?**
+d'émission, par exemple par voie d'amortissement sur la durée de vie
+résiduelle de l'obligation selon la méthode actuarielle ?**
 
 À titre indicatif, l'amortissement actuariel de la prime d'émission au taux
 de rendement interne constaté à l'acquisition conduirait à déclarer
