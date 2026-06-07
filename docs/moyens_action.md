@@ -88,7 +88,10 @@ se centrera sur la taxation de fait d'une charge d'investissement.
 
 ## Modernisation doctrinale
 
-Selon nous, la bonne façon de corriger la doctrine de façon opérationnelle
+Comme développé dans la note, il est de notre avis que le problème est
+purement d'ordre doctrinal.
+
+Ainsi, selon nous, la bonne façon de corriger la doctrine de façon opérationnelle
 serait de permettre aux courtiers d'appliquer un amortissement par la
 méthode actuarielle, au choix du contribuable.
 
