@@ -106,9 +106,9 @@ l'assiette imposable corresponde à mon enrichissement économique ?**
 
 À titre indicatif, l'amortissement actuariel de la prime d'émission au taux
 de rendement interne constaté à l'acquisition conduirait à déclarer
-annuellement la seule part d'intérêts de chaque coupon (comprise entre
-environ 280 € et 310 € selon les annuités), pour un total cumulé égal à
-l'enrichissement économique de l'opération.
+annuellement la seule part d'intérêts de chaque coupon (comprise, en année
+pleine, entre environ 280 € et 310 € selon les annuités), pour un total
+cumulé égal à l'enrichissement économique de l'opération.
 
 ## Éléments complémentaires
 
@@ -126,8 +126,8 @@ L'intermédiaire financier étant établi hors de France, la déclaration des
 produits sera effectuée par mes soins sur la déclaration de revenus. Il n'y a
 donc pas d'obstacle opérationnel à l'application de la méthode proposée.
 
-Je tiens à votre disposition un tableau d'amortissement détaillé de
-l'obligation selon la méthode actuarielle.
+Vous trouverez en annexe le tableau d'amortissement détaillé de l'obligation
+selon la méthode actuarielle.
 
 Je vous prie d'agréer, Monsieur le Directeur, l'expression de ma
 considération distinguée.
@@ -135,3 +135,22 @@ considération distinguée.
 ## Annexe
 
 Tableau d'amortissement de la prime d'émission selon la méthode actuarielle
+
+## Annexe : Tableau d'amortissement selon la méthode actuarielle
+
+**Taux actuariel** : 3,2512 %
+
+| Date       | Flux        | Part intérêts | Part capital | CRD         |
+| ---------- | ----------- | ------------- | ------------ | ----------- |
+| 2026-06-05 | −9 999,59 € |               |  −9 999,59 € | −9 999,59 € |
+| 2026-10-25 |    488,58 € |      125,24 € |     363,34 € | −9 636,25 € |
+| 2027-10-25 |    488,58 € |      313,29 € |     175,29 € | −9 460,96 € |
+| 2028-10-25 |    488,58 € |      308,45 € |     180,13 € | −9 280,83 € |
+| 2029-10-25 |    488,58 € |      301,74 € |     186,84 € | −9 093,99 € |
+| 2030-10-25 |    488,58 € |      295,66 € |     192,92 € | −8 901,07 € |
+| 2031-10-25 |    488,58 € |      289,39 € |     199,19 € | −8 701,88 € |
+| 2032-10-25 |    488,58 € |      283,70 € |     204,88 € | −8 497,00 € |
+| 2032-10-25 |  8 497,00 € |        0,00 € |   8 497,00 € |      0,00 € |
+|            |             |               |              |             |
+| **Enrichissement net** | 1 917,47 € | | | |
+| | **Total intérêts** | 1 917,47 € | | |
