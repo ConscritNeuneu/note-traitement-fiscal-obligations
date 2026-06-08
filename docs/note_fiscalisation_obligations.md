@@ -608,7 +608,9 @@ ne contient aucune occurence du mot coupon, alors que ce terme est d'usage
 en finance. La doctrine se contente de parler d'intérêts et de produits. On
 pourra notamment relever le §380 traitant le cas de la « perte au
 remboursement » où l'assimilation entre coupons et intérêts apparaît le plus
-clairement.
+clairement. De fait sans l'assimilation l'affirmation devient un non-sens
+économique: un intérêt au sens économique c'est précisément ce qui
+caractérise un revenu.
 
 Une fois réalisé ce glissement, le recouvrement pour les particuliers,
 traité par le bulletin BOI-RPPM-RCM-30-20, conclue logiquement à la règle de
@@ -676,9 +678,9 @@ Ainsi, pour ces obligations comportant une prime d'émission, la doctrine se
 retrouve à implémenter une taxe sur cette prime. Le §380 du bulletin
 BOI-RPPM-RCM-20-10-20-20 reconnait explicitement la « perte au remboursement »
 et dispose qu'elle n'est pas récupérable. L'analyse que la contrepartie de
-cette perte se retrouve dans les coupons est économiquement juste, mais ne
-peut justifier par elle-même la levée d'une nouvelle taxe sans support du
-CGI.
+cette perte se retrouve dans les coupons est économiquement juste
+(uniquement sous l'assimilation coupon = intérêts), mais ne peut justifier
+par elle-même la levée d'une nouvelle taxe sans support du CGI.
 
 Il est de notre avis que la doctrine commet aussi une erreur de qualification,
 une perte est un événement aléatoire alors qu'il s'agit ici d'une charge,
@@ -805,7 +807,8 @@ raisonnablement attendre d'une simplification pour des raisons de gestion
 administrative. Notamment cela conduit à taxer très différemment les
 produits d'instruments considérés pourtant équivalents du point de vue
 actuariel (taux de rendement interne similaire, enrichissement net
-similaire).
+similaire). Néanmoins le §390 est intéressant car il révèle en filigrane
+qu'il y a un problème de cohérence et qu'il faut l'adresser.
 
 En soi, une comptabilité de caisse n'est pas forcément incompatible avec le
 cas d'une obligation achetée avec surcote et gardée à maturité. Cependant,
@@ -814,10 +817,11 @@ retrouvée lever une *imposition sur une charge* en la forme de la prime
 d'émission, que le CGI ne dispose pas et ne pourrait pas disposer sans
 redéfinir la notion même de revenu au sens des articles 12 et 13. Le §380
 reconnaît le problème et justifie que cette « perte au remboursement »
-trouve sa contrepartie dans les coupons, d'où l'absence de compensation,
-mais cette analyse contrevient à la logique de caisse (puisqu'elle
-revient à amortir la prime) et produit incidemment une taxation de la prime
-d'émission sans support légal, compétence exclusive du législateur.
+trouve sa contrepartie dans les intérêts [comprendre coupons], d'où
+l'absence de compensation, mais cette analyse contrevient à la logique de
+caisse (puisqu'elle revient à amortir la prime d'émission) et produit
+incidemment une taxation de cette prime sans support légal, compétence
+exclusive du législateur.
 
 Enfin, cette situation incite à des comportements non économiques pour des
 raisons fiscales : revente en fin de remboursement afin de générer une moins-value
