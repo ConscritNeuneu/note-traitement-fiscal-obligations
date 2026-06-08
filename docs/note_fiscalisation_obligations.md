@@ -661,11 +661,15 @@ de remboursement.
 Dans le cas des obligations achetées au dessus du pair, cette simplification
 administrative ne fonctionne plus et finit par créer une base taxable qui
 s'éloigne de la notion de revenu économique et dépasse probablement
-l'intention du législateur. De fait, nous montrons qu'une analyse plus fine,
+l'intention du législateur[^1]. De fait, nous montrons qu'une analyse plus fine,
 déjà connue du législateur et des normes comptables internationales permet de
 bien séparer, du point de vue du contribuable détenteur de l'obligation, ce
 qui est intérêts vs retour de capital, pour chaque flux élementaire du
 contrat.
+
+[^1]: Pour les personnes morales, l'amortissement de la prime d'émission
+revient de fait à n'inclure que les intérêts économiques dans l'assiette
+taxable.
 
 La situation est encore pire avec une obligation amortissable, l'État
 français n'en émet pas mais c'est un mode typique de financement pour les
