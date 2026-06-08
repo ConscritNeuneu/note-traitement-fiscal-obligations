@@ -788,6 +788,16 @@ d'état en direct. Néammoins on pourra noter les points suivants :
 - on notera aussi un réel souci pour les obligations amortissables type « infrastructure »;
 - et enfin, les titres peu liquides sont très défavorisés, typiquement les dettes d'entreprise.
 
+On notera que le problème sujet de cette note n'est pas nouveau : celui-ci
+avait déjà été signalé en passant dans un
+[rapport spécial du conseil des prélèvements obligatoires](https://www.ccomptes.fr/sites/default/files/2024-10/20241014-Note-Conforter-egalite-des-citoyens-devant-imposition-des-revenus-rapport-particulier1.pdf)
+dédié aux différences de traitement entre les catégories de revenu (voir
+p.44). Les auteurs ont noté les fortes disparités d'imposition entre deux
+OAT à 10 ans et le manque de cohérence en général du régime d'imposition des
+revenus du patrimoine. Néanmoins n'étant pas le sujet principal du rapport,
+aucune analyse détaillée des raisons de la disparité entre les deux obligations
+n'avait été menée.
+
 ## Note conclusive
 
 Le CGI pose comme principe d'imposer intérêts et produits sans donner précisément
