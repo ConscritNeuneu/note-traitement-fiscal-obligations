@@ -5,6 +5,7 @@ fiscalité des obligations pour les personnes physiques.
 
 On trouvera notamment les documents suivants:
 
+- [Synthèse exécutive](synthese_executive.md)
 - [Note sur la fiscalisation des obligations](note_fiscalisation_obligations.md)
 - [Tableau d'amortissement de l'obligation en surcote](annexe_tableau_amortissement.md)
 - [Moyens d'action](moyens_action.md)

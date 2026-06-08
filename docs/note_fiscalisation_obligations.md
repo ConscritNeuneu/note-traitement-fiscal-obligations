@@ -621,7 +621,9 @@ précision ne tranche cependant pas la qualification préalable du flux.
 Elle peut être comprise comme excluant la déduction de frais ou commissions
 afférants à la perception du revenu (typiquement commissions d'arrérages);
 elle n'implique pas nécéssairement que tout flux encaissé doive être
-qualifié de revenu dans son intégralité.
+qualifié de revenu dans son intégralité. De fait cet article technique ne
+s'occupe que de recouvrement et est tributaire de la définition du revenu,
+il ne peut pas à lui seul créer de l'assiette.
 
 Or, nous avons vu par les analyses développées dans cette note que le marché
 des obligations, qu'il soit primaire ou secondaire n'utilise pas la
@@ -728,7 +730,7 @@ personne morale, il nous semble difficile de justifier que certaines personnes
 morales, selon leur référentiel comptable puissent inscrire en charge
 l'amortissement des surcotes des obligations alors que les particuliers ne
 puissent pas le faire ce faisant introduisant une difficulté vis-à-vis des
-principes généraux d'égalité devant l'impôt.
+principes généraux d'égalité devant l'impôt, surtout sans codification.
 
 Enfin, du fait des mécanismes d'attraction vers le pair de la valeur des
 obligations au fur et à mesure de l'approche de l'échéance du remboursement
