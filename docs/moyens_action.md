@@ -91,16 +91,18 @@ porte atteinte au principe de capacité contributive, et enfin contrevient au
 principe d'égalité de tous devant l'imposition, car il n'est pas fait de
 différence entre les personnes morales et physiques pour la définition du
 revenu des obligations. Ces arguments sont d'autant plus entendables que le
-sujet est purement d'ordre doctrinal: autant il est tout à fait normal que
+sujet est purement d'ordre doctrinal : autant il est tout à fait normal que
 le législateur puisse disposer d'une différence de traitement selon la
-qualité du contribuable, ainsi que de déroger aux principes généraux de définition
-du revenu des articles 12 et 13 du CGI, autant il n'est absolument pas
-normal que des dispositions d'ordre doctrinales, donc bien en dessous dans
-la hiérarchie des normes, puissent prendre une telle liberté
-d'interprétation sans support du législateur. On notera enfin que les
-articles 125 A et D ne traitent que du recouvrement et s'appuient sur les
-articles 118 et 119 pour la définition du revenu. À leur niveau, ils ne
-peuvent servir de support pour la levée d'une imposition nouvelle.
+qualité du contribuable, ainsi que de déroger aux principes généraux de
+définition du revenu des articles 12 et 13 du CGI (typiquement, le cas des
+238 septies A à E pour les personnes morales, pour ce qui est de la prime de
+remboursement), autant il n'est absolument pas normal que des dispositions
+d'ordre doctrinal, donc bien en dessous dans la hiérarchie des normes,
+puissent prendre une telle liberté d'interprétation sans support du
+législateur. On notera enfin que les articles 125 A et D ne traitent que du
+recouvrement et s'appuient sur les articles 118 et 119 pour la définition du
+revenu : à leur niveau, ils ne peuvent servir de support pour la levée d'une
+imposition nouvelle.
 
 En pratique, étant donnée la faiblesse doctrinale, il y a de bonnes chances
 que l'administration fasse tout pour éviter d'aller au contentieux. La
