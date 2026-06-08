@@ -4,6 +4,8 @@ plugins: []
 theme:
   name: readthedocs
   locale: fr
+markdown_extensions:
+  - footnotes
 nav:
   - note_fiscalisation_obligations.md
   - annexe_tableau_amortissement.md
