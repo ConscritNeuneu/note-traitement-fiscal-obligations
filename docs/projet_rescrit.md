@@ -1,4 +1,4 @@
-# Projet de demande de rescrit fiscal
+# Projet de rescrit fiscal
 
 *Demande de prise de position formelle au sens du 1° de l'article L. 80 B
 du livre des procédures fiscales*
