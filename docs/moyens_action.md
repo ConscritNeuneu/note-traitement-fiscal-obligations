@@ -60,10 +60,10 @@ Si le contribuable affecté a suffisamment de revenus dans cette catégorie
 l'année en question, une interprétation libérale du §390 du bulletin
 BOI-RPPM-RCM-20-10-20-20 consistant à compenser la charge avec les autres
 revenus, surtout en cas de déclaration manuelle, a toutes les chances de ne pas
-être contesté par l'administration tant la position doctrinale est faible.
+être contestée par l'administration tant la position doctrinale est faible.
 
 S'il n'y a pas assez de revenus, le plus simple sera d'inscrire la perte
-dans le régime des plus et moins values mobilière. Il faudra alors
+dans le régime des plus et moins values mobilières. Il faudra alors
 absolument mettre une mention expresse.
 
 Ces solutions sont inélégantes et comme indiqué dans le corps principal de
@@ -73,7 +73,8 @@ marché.
 
 Ainsi, il serait utile de demander à l'administration via un rescrit comment
 elle entend éviter la levée de la taxe sur la prime d'émission, par exemple
-en cas d'investissement sur l'OAT 5,75%.
+en cas d'investissement sur l'OAT 5,75%. Une [proposition de
+rescrit](projet_rescrit.md) est jointe à cette note.
 
 L'idéal serait de pouvoir amortir la prime d'émission sur les coupons, soit
 linéairement, soit actuarialement. Néanmoins l'organisation actuelle du
@@ -84,16 +85,41 @@ considérations poussent l'administration à s'en tenir à une comptabilité de
 caisse ne serait-ce que pour limiter la charge adminstrative.
 
 La seule solution serait donc d'ouvrir une procédure contentieuse. Le débat
-se centrera sur la taxation de fait d'une charge d'investissement.
+se centrera sur la taxation de fait d'une charge d'investissement, sans
+support légal. Ainsi, l'on argumentera que la doctrine dépasse le mandat du CGI,
+porte atteinte au principe de capacité contributive, et enfin contrevient au
+principe d'égalité de tous devant l'imposition, car il n'est pas fait de
+différence entre les personnes morales et physiques pour la définition du
+revenu des obligations. Ces arguments sont d'autant plus entendables que le
+sujet est purement d'ordre doctrinal: autant il est tout à fait normal que
+le législateur puisse disposer d'une différence de traitement selon la
+qualité du contribuable, ainsi que de déroger aux principes généraux de définition
+du revenu des articles 12 et 13 du CGI, autant il n'est absolument pas
+normal que des dispositions d'ordre doctrinales, donc bien en dessous dans
+la hiérarchie des normes, puissent prendre une telle liberté
+d'interprétation sans support du législateur. On notera enfin que les
+articles 125 A et D ne traitent que du recouvrement et s'appuient sur les
+articles 118 et 119 pour la définition du revenu. À leur niveau, ils ne
+peuvent servir de support pour la levée d'une imposition nouvelle.
+
+En pratique, étant donnée la faiblesse doctrinale, il y a de bonnes chances
+que l'administration fasse tout pour éviter d'aller au contentieux. La
+stratégie de tenter de forcer la main de l'administration via l'utilisation
+d'un courtier français, puis de corriger le montant rapporté en 2TR sur la
+2042, sur la base d'une erreur de qualification, et enfin en demandant via
+une réclamation contentieuse la restitution des prélèvements sociaux indus
+en espérant se voir opposer un refus, risque d'échouer sur une acceptation «
+à titre exceptionnel » si l'enjeu monétaire est limité.
 
 ## Modernisation doctrinale
 
 Comme développé dans la note, il est de notre avis que le problème est
 purement d'ordre doctrinal.
 
-Ainsi, selon nous, la bonne façon de corriger la doctrine de façon opérationnelle
-serait de permettre aux courtiers d'appliquer un amortissement par la
-méthode actuarielle, au choix du contribuable.
+Ainsi, selon nous, la bonne façon de corriger la doctrine de façon
+opérationnelle serait de permettre aux courtiers d'appliquer un
+amortissement de la prime d'émission par la méthode actuarielle, au choix du
+contribuable.
 
 Cela pourrait prendre la forme d'une option irrévocable au moment de la
 première entrée sur une ligne obligataire.
@@ -107,7 +133,7 @@ coupon devient un flux indépendant des intérêts calculés. De cette
 manière au dénouement, après le versement du dernier coupon, le CRD atteint
 mathématiquement le pair et il n'y a ni gain ni perte à enregistrer. Le
 problème du coupon couru qui actuellement est soldé à la revente ou au
-dénouement disparaît car il est soldé naturellement au versement du premier
+dénouement disparaît car il est naturellement compensé au versement du premier
 coupon.
 
 Cette solution reste compatible avec notre lecture du CGI, qui dans sa
