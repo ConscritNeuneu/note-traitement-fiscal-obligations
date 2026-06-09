@@ -1,5 +1,14 @@
 # Projet de rescrit fiscal
 
+## Note
+
+Afin de rendre le rescrit inévitable, il faudrait commettre l'investissement
+énoncé afin de forcer la main de l'administation et respecter la situation
+de fait. Pour l'instant celui-ci est rédigé de telle sorte qu'une réponse
+d'évitement reste possible.
+
+## Rescrit
+
 *Demande de prise de position formelle au sens du 1° de l'article L. 80 B
 du livre des procédures fiscales*
 
@@ -7,14 +16,14 @@ du livre des procédures fiscales*
 
 Monsieur le Directeur,
 
-## Objet
+### Objet
 
 Demande de prise de position formelle relative aux modalités de
 détermination de l'assiette imposable des produits d'une obligation
 assimilable du Trésor acquise au-dessus du pair et conservée jusqu'à
 maturité.
 
-## Présentation de la situation
+### Présentation de la situation
 
 J'envisage l'acquisition, sur le marché secondaire via un intermédiaire
 financier établi hors de France, d'obligations assimilables du Trésor
@@ -38,7 +47,7 @@ paramètres de l'opération envisagée seraient les suivants :
 L'obligation serait conservée jusqu'à son remboursement au pair le
 25 octobre 2032.
 
-## Constatation
+### Constatation
 
 Le coût total d'acquisition (9 999,59 €) excède le montant du remboursement
 au pair (8 497 €) de 1 502,59 €.
@@ -59,7 +68,7 @@ Le total des encaissements s'établit à 11 917,06 €, pour un décaissement
 initial de 9 999,59 €. L'enrichissement économique de l'opération est donc
 de 1 917,47 €.
 
-## Difficulté rencontrée
+### Difficulté rencontrée
 
 En application de la doctrine telle que je la comprends, et notamment du
 bulletin BOI-RPPM-RCM-20-10-20-20 et du bulletin BOI-RPPM-RCM-30-20-30,
@@ -84,7 +93,7 @@ L'assiette imposable résiduelle après compensation serait donc de
 2 931,77 €, soit environ 53 % de plus que l'enrichissement économique réel
 de l'opération.
 
-## Question posée
+### Question posée
 
 Les articles 118 et 119 du code général des impôts désignent comme
 imposables les intérêts, arrérages et produits des obligations, ainsi que
@@ -109,7 +118,7 @@ annuellement la seule part d'intérêts de chaque coupon (comprise, en année
 pleine, entre environ 280 € et 310 € selon les annuités), pour un total
 cumulé égal à l'enrichissement économique de l'opération.
 
-## Éléments complémentaires
+### Éléments complémentaires
 
 La méthode actuarielle que je propose est d'usage courant en analyse
 financière. Elle est notamment utilisée par l'État lui-même dans sa
@@ -131,11 +140,9 @@ selon la méthode actuarielle.
 Je vous prie d'agréer, Monsieur le Directeur, l'expression de ma
 considération distinguée.
 
-## Annexe
+### Annexe : Tableau d'amortissement selon la méthode actuarielle
 
 Tableau d'amortissement de la prime d'émission selon la méthode actuarielle
-
-## Annexe : Tableau d'amortissement selon la méthode actuarielle
 
 **Taux actuariel** : 3,2512 %
 
