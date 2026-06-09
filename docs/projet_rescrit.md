@@ -2,10 +2,10 @@
 
 ## Note
 
-Afin de rendre le rescrit inévitable, il faudrait commettre l'investissement
-énoncé afin de forcer la main de l'administation et respecter la situation
-de fait. Pour l'instant celui-ci est rédigé de telle sorte qu'une réponse
-d'évitement reste possible.
+En l'état le rescrit ne respecte pas les conventions de l'article L.80 B du
+livre des procédures fiscales. Pour respecter la situation de fait il
+faudrait avoir pris la ligne en question chez le courtier. Une ligne de
+1000€ en nominal suffira.
 
 ## Rescrit
 
