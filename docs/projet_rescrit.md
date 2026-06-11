@@ -146,7 +146,7 @@ Tableau d'amortissement de la prime d'émission selon la méthode actuarielle
 
 **Taux actuariel** : 3,2512 %
 
-| Date       | Flux        | Part intérêts | Part capital | CRD         |
+| Date       | Flux        | Part intérêts | Part capital | Coût ajusté |
 | ---------- | ----------- | ------------- | ------------ | ----------- |
 | 2026-06-05 | −9 999,59 € |               |  −9 999,59 € | −9 999,59 € |
 | 2026-10-25 |    488,58 € |      125,24 € |     363,34 € | −9 636,25 € |

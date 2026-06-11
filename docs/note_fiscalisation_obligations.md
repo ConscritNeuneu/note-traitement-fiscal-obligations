@@ -636,6 +636,11 @@ qualifications contractuelles pour déterminer ce qui constitue un revenu
 mais aussi considérer le point de vue de la personne qui s'enrichit et qui
 reçoit une suite de flux monétaires en échange d'un paiement initial. 
 
+C'est d'ailleurs exactement ainsi que la doctrine mesure la prime de
+remboursement : par différence avec le prix d'acquisition propre au
+contribuable, y compris lorsque le titre a été acquis sur le marché
+secondaire, et non par référence aux seules stipulations de l'émetteur.
+
 De fait, du point de vue de l'acheteur qui s'enrichit, il n'y a aucune
 différence en terme de flux stricts entre une obligation et un contrat de
 crédit qui contiendrait un tableau d'amortissement libellant intérêts et
@@ -649,7 +654,10 @@ pas été formulée explicitement par le législateur.
 
 Ainsi, la doctrine, en appliquant une comptabilité de caisse stricte et en
 assimilant les coupons à du revenu dans leur entièreté opère une
-simplification d'ordre administrative.
+simplification d'ordre administratif : elle refuse d'apprécier la part d'«
+intérêts » des coupons au regard des conditions d'acquisition, alors qu'elle
+définit la prime de remboursement en comparant le ballon final au prix
+d'acquisition.
 
 Dans le cas des obligations achetées sous le pair cette simplification ne
 pose pas de problème, les intérêts cachés non réglés par les coupons se
@@ -673,12 +681,21 @@ contrat.
 revient de fait à n'inclure que les intérêts économiques dans l'assiette
 taxable.
 
-La situation est encore pire avec une obligation amortissable, l'État
-français n'en émet pas mais c'est un mode typique de financement pour les
-infrastructures. Dans ces conditions l'ensemble du contrat est prévu pour
-s'amortir en cours de vie, il n'y a pas de ballon. La simplification conduirait
-à identifier l'entièreté des flux comme des intérêts et donc taxer aussi
-la mise de départ comme s'il s'agissait de revenu.
+Cette situation devient insoutenable dans un environnement de taux négatifs.
+Ainsi, en 2021 l'AFT a procédé à une adjudication de l'OAT 5,75% à un taux
+actuariel moyen -0,17%, pour un prix négocié de 167%. Dans ce cas les coupons
+et le remboursement ne compensent même pas le prix payé par l'acheteur, qui
+acte le rendement négatif de l'argent en termes réels : il n'y a aucun
+enrichissement économique en euros courants. Pourtant la doctrine se
+retrouve à inclure dans l'assiette des revenus de capitaux mobiliers
+l'ensemble des coupons, à 5,75%.
+
+Le cas limite est celui des obligations amortissables. L'État français n'en
+émet pas, mais c'est un mode typique de financement d'infrastructures.
+L'ensemble du capital est remboursé en cours de vie : il n'y a pas de ballon
+final. La logique de caisse conduirait à identifier l'intégralité des flux
+comme des intérêts, faute de remboursement distinct pour restituer une mise
+de départ : elle se retrouverait ainsi taxée comme revenu.
 
 Ainsi, pour ces obligations comportant une prime d'émission, la doctrine se
 retrouve à implémenter une taxe sur cette prime. Le §380 du bulletin

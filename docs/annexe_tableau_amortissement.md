@@ -27,7 +27,7 @@ exactement le taux effectif qu'il faut considérer pour que les flux
 ressemblent à un contrat de crédit classique où le capital est augmenté des
 intérêts à chaque période, puis amputé du remboursement.
 
-| Date       | Flux        | Part intérêts | Part capital | CRD         |
+| Date       | Flux        | Part intérêts | Part capital | Coût ajusté |
 | ---------- | ----------- | ------------- | ------------ | ----------- |
 | 2026-04-23 | -9 999,64 € |           0 € |  -9 999,64 € | -9 999,64 € |
 | 2026-10-25 |    489,15 € |      161,07 € |     328,09 € | -9 671,55 € |
