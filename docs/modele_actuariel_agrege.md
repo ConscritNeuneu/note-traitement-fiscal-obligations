@@ -95,17 +95,15 @@ Pour la cession d'une fraction `f` du nominal détenu, à la date `t`, produit
 `P` (devise locale) :
 
 ```
-G  = P · x_d − C · f      # résultat de cession (€)
+G  = P · x_d − C · f + U · f # résultat de cession (€)
 C  ← C · (1 − f)
 U  ← U · (1 − f)
 ```
 
 `x_h`, `r` et `t0` sont inchangés. La cession est un **événement de capital** :
 `G` relève des plus ou moins-values mobilières, non des produits de placement à
-revenu fixe. Les intérêts internes ne sont **pas cristallisés** : la fraction
-cédée de `U` n'a plus de coupon à venir pour la solder, et se trouve absorbée
-dans `G` puisque le coût ajusté `C·f` n'inclut pas ces intérêts non encore
-portés. Sur la durée de vie, le total reste conservé.
+revenu fixe. La fraction vendue des intérêts internes est embarquée dans le
+produit de cession (puisque le capital a été relevé de ces intérêts).
 
 ### Remboursement
 
