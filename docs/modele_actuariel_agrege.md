@@ -1,5 +1,7 @@
 # Modèle actuariel d'amortissement de la prime d'émission
 
+ATTENTION EN TRAVAIL
+
 ## Cadre
 
 Ce document décrit le modèle d'amortissement actuariel de la prime d'émission
