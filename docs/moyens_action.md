@@ -104,6 +104,21 @@ du recouvrement et s'appuient sur les articles 118 et 119 pour la définition
 du revenu : à leur niveau, ils ne peuvent servir de support pour la levée
 d'une imposition nouvelle.
 
+La doctrine n'étant opposable qu'à l'administration, une éventuelle
+proposition de rectification ou un redressement ne pourra se faire que sur
+la base des articles 12, 13, 118, 119: il s'agit d'une question d'assiette.
+Les articles de recouvrement ou de taux étant tributaires de ces articles.
+Un particulier qui appliquerait la méthode actuarielle pour amortir la prime
+d'émission de lui même neutraliserait l'effet des articles §380 et §390,
+étant donné qu'il ne constate plus de perte au remboursement. L'enrichissement
+économique étant strictement égal en fin de parcours aux intérêts déclarés,
+il ne restera en pratique qu'un seul chemin, et il est étroit : celui de réussir
+à justifier que le législateur de 83 entendait par « intérêt » deux
+concepts différents selon qu'il s'agisse d'une obligation ou d'un prêt, et
+le tout pour un enjeu minime, celui de la temporalité des prélèvements,
+étant donnée la passerelle permise par le régime des plus et moins-values
+mobilières.
+
 En pratique, étant donnée la faiblesse doctrinale, il y a de bonnes chances
 que l'administration fasse tout pour éviter d'aller au contentieux. La
 stratégie de tenter de forcer la main de l'administration via l'utilisation

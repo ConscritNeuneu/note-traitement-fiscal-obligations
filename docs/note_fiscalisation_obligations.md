@@ -726,11 +726,22 @@ opérationnelle : elle l'applique aux personnes morales et la refuse aux
 particuliers, sans que la nature économique de la charge ne diffère selon la
 qualité du détenteur.
 
-Par ailleurs, il nous semble qu'en raison du principe de neutralité fiscale
-il ne devrait pas y avoir une telle distorsion d'assiette entre revenu
-fiscal et revenu économique en fonction des paramètres internes des
-instruments d'un même émetteur au revenu économique, rendement interne et
-maturités similaires.
+On remarquera en passant que la doctrine, stricto sensu, n'interdit pas à un
+particulier de réaliser un amortissement actuariel d'une prime d'émission.
+Dans un tel cas, les §380 et §390 n'ont plus aucun effet puisqu'il n'y a
+plus de perte, le remboursement final tombant exactement sur le coût ajusté.
+L'on revient ainsi à une discussion sur la définition pure du revenu au sens
+des articles 12, 13, 118 et 119 du code général des impôts: l'enrichissement
+économique, à défaut d'une disposition explicite. Il tiendra à
+l'administration de fournir la justification d'un redressement éventuel sur
+la base du code général des impôts, la doctrine n'engageant que
+l'administration, pas le contribuable.
+
+Sur le revenu économique, il nous semble qu'en raison du principe de
+neutralité fiscale il ne devrait pas y avoir une telle distorsion d'assiette
+entre revenu fiscal et revenu économique en fonction des paramètres internes
+des instruments d'un même émetteur au revenu économique, rendement interne
+et maturités similaires.
 
 Dans le cas d'espèce, l'exemple cité plus haut ayant une inflation de
 l'assiette fiscale de 50% par rapport au revenu économique semble dépasser
