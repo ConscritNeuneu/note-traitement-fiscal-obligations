@@ -95,25 +95,25 @@ remboursement, n'est pas une différence d'analyse : c'est la même mesure,
 appliquée dans un seul sens.
  
 Le § 380 du bulletin BOI-RPPM-RCM-20-10-20-20 traite la situation sous le
-nom de « perte » au remboursement et dispose qu'elle ne donne lieu à aucune
-compensation ; il motive ce refus par le fait que cette « perte » trouve sa
-contrepartie dans l'encaissement annuel d'« intérêts supérieurs au taux du
-marché » en vigueur au jour de l'investissement. C'est ici que l'équivalence
-du coupon et de l'intérêt, écrite nulle part, cesse d'être indifférente :
-sous le pair, nommer intérêt l'intégralité du coupon ne crée pas d'assiette
-indue ; au-dessus du pair, le même mot transforme en revenu une restitution
-de capital. Le texte opère cette qualification au détour d'une phrase de
-motivation, et lui en adjoint une seconde : une perte est l'issue d'un aléa,
-quand il s'agit d'une charge certaine, chiffrable au centime dès
-l'acquisition, dont le nombre négatif constaté au remboursement n'est que
-l'artefact d'une logique de caisse qui en reporte l'intégralité à
+nom de « perte » au remboursement et ne propose aucun mécanisme de
+compensation ; il motive ce refus par le fait que cette « perte (en capital)
+» trouve sa contrepartie dans l'encaissement annuel d'« intérêts supérieurs
+au taux du marché » en vigueur au jour de l'investissement. C'est ici que
+l'équivalence du coupon et de l'intérêt, écrite nulle part, cesse d'être
+indifférente : sous le pair, nommer intérêt l'intégralité du coupon ne crée
+pas d'assiette indue ; au-dessus du pair, le même mot transforme en revenu
+une restitution de capital. Le texte opère cette qualification au détour
+d'une phrase de motivation, et lui en adjoint une seconde : une perte est
+l'issue d'un aléa, quand il s'agit d'une charge certaine, chiffrable au
+centime dès l'acquisition, dont le nombre négatif constaté au remboursement
+n'est que l'artefact d'une logique de caisse qui en reporte l'intégralité à
 l'échéance. Le raisonnement économique sous-jacent — la surcote payée se
 récupère au fil des flux servis — est exact, et c'est celui de la présente
 note ; mais il ne le devient qu'au prix de deux corrections : lire « charge
-» où le texte écrit « perte », et « coupons » où il écrit « intérêts » — des
-intérêts, rémunération du capital, ne sauraient compenser un déficit de
-capital. La qualification que la loi n'a pas faite se trouve ainsi opérée là
-où, précisément, elle porte à conséquence.
+» où le texte écrit « perte (en capital) », et « coupons » où il écrit «
+intérêts » — des intérêts, rémunération du capital, ne sauraient compenser
+un déficit de capital. La qualification que la loi n'a pas faite se trouve
+ainsi opérée là où, précisément, elle porte à conséquence.
  
 L'effet du § 380 se mesure : sur l'opération complète, l'assiette cumulée
 excède l'enrichissement d'un montant exactement égal à la prime d'émission.

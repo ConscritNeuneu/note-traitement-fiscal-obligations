@@ -700,8 +700,8 @@ de départ : elle se retrouverait ainsi taxée comme revenu.
 Ainsi, pour ces obligations comportant une prime d'émission, la doctrine se
 retrouve à implémenter une taxe sur cette prime. Le §380 du bulletin
 BOI-RPPM-RCM-20-10-20-20 reconnait explicitement la « perte au remboursement »
-et dispose qu'elle n'est pas récupérable. L'analyse que la contrepartie de
-cette perte se retrouve dans les coupons est économiquement juste
+et ne propose aucune compensation. L'analyse que la contrepartie de
+cette « perte (en capital) » se retrouve dans les coupons est économiquement juste
 (uniquement sous l'assimilation coupon = intérêts), mais ne peut justifier
 par elle-même la levée d'une nouvelle taxe sans support du CGI.
 
@@ -737,7 +737,7 @@ l'administration de fournir la justification d'un redressement éventuel sur
 la base du code général des impôts, la doctrine n'engageant que
 l'administration, pas le contribuable.
 
-Sur le revenu économique, il nous semble qu'en raison du principe de
+Sur le revenu économique, justement, il nous semble qu'en raison du principe de
 neutralité fiscale il ne devrait pas y avoir une telle distorsion d'assiette
 entre revenu fiscal et revenu économique en fonction des paramètres internes
 des instruments d'un même émetteur au revenu économique, rendement interne
